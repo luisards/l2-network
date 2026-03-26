@@ -1,0 +1,315 @@
+id,polke_id,name,formula,cefr_level
+1,,Adjective,ADJ,A1
+2,1,AdjectiveAndAdjective,ADJ and ADJ,A1
+3,3,AttributiveAdjective,ADJ N,A1
+4,125,PredicativeAdjectiveWithBe,SUBJ BE ADJ,A1
+5,5,MyBestFriend,my best friend,A1
+6,,Adverb,ADV,A1
+7,11,VeryAdjective,very ADJ,A1
+8,12,VeryTimeAdverb,very ADV.TIME,A1
+9,13,DegreeTimeAdverbVerb,ADV.DEGREE/ADV.TIME V,A1
+10,14,PlaceAdverbComplement,SUBJ VERB ADV.PLACE,A1
+11,148,DegreeAdverb,ADV.DEGREE ADJ,A1
+12,16,FrequencyMidAdverb,SUBJ ADV.FREQ V,A1
+13,152,FrontAdverb,ADV CLAUSE,A1
+14,18,ReallyMidAdverb,SUBJ really V,A1
+15,19,TimeEndAdverb,CLAUSE ADV.TIME,A1
+16,20,PlaceEndAdverb,CLAUSE ADV.PLACE,A1
+17,,AdverbPhrase,ADVP,A1
+18,21,VeryAdverb,very ADV,A1
+19,,Clause,CLAUSE,A1
+20,22,MainClauseAndMainClause,CLAUSE.MAIN and CLAUSE.MAIN,A1
+21,23,ClauseAndClauseElliptedSubject,CLAUSE and (ØSUBJ) CLAUSE,A1
+22,24,AffirmativeDeclarativeClause,SUBJ V (… ),A1
+23,25,NegativeDeclarativeClauseWithBe,SUBJ BE not ADJ,A1
+24,26,NegativeDeclarativeClauseLexVerb,SUBJ AUX not V,A1
+25,27,AffirmativeDeclarativeClauseModal,SUBJ V.MODAL V,A1
+26,,MainClauseSubClause,CLAUSE.MAIN CLAUSE.SUBORD,A1
+27,28,AffirmativeInterrogativeClauseWithBe,(wh) BE SUBJ (…),A1
+28,,Conjunction,CONJ,A1
+29,30,WordAndWord,WORD and WORD,A1
+30,31,PhraseAndPhrase,PHRASE and PHRASE,A1
+31,32,ClauseAndClause,CLAUSE and CLAUSE,A1
+32,33,SentenceAndSentence,SENTENCE and SENTENCE,A1
+33,36,BecauseSubClause,because CLAUSE.SUBORD,A1
+34,,Determiner,DET,A1
+35,37,DeterminerWithNoun,DET N,A1
+36,38,ArticleAWithAdjective,a ADJ N,A1
+37,39,ArticleAVeryAdjective,a very ADJ N,A1
+38,40,PrepTheNoun,PREP the N,A1
+39,41,PrepNoArticle,PREP N,A1
+40,43,DemonstrativeThisSingularNoun,this N.SG,A1
+41,46,PossessiveWithNoun,DET.POSS N,A1
+42,47,QuantifierWithPluralNoun,QUANT N.PL,A1
+43,48,QuantifierWithSingularNoun,QUANT N.SG,A1
+44,49,FutureWillAffirmative,SUBJ will V,A1
+45,,Adjunct,ADJUNCT,A1
+46,,Complement,COMP,A1
+47,,Object,OBJ,A1
+48,,DirectObject,OBJ.D,A1
+49,,IndirectObject,OBJ.I,A1
+50,,Predicate,PRED,A1
+51,,Subject,SUBJ,A1
+52,51,ModalCanAffirmative,SUBJ can V,A1
+53,52,ModalCanNegative,SUBJ cannot/can't V,A1
+54,53,ModalCanQuestion,(WH) can SUBJ V,A1
+55,58,ModalWillAffirmative,SUBJ will V,A1
+56,60,ModalWouldLikeAffirmative,SUBJ would like to V.INF,A1
+57,,NounPhrase,NP,A1
+58,63,DeterminerWithNoun,DET N,A1
+59,64,NounPhraseDeterminerAdjectiveNoun,DET ADJ N,A1
+60,65,NounPhraseAdjectivePluralNoun,ADJ N.PL,A1
+61,66,NounPhraseNounNoun,N N,A1
+62,,Noun,N,A1
+63,67,CommonNoun,N.COMMON,A1
+64,68,ProperNoun,N.PROPER,A1
+65,69,CompoundNoun,N-N,A1
+66,,PluralNoun,N.PL,
+67,70,PluralSForm,N.PL-s,A1
+68,71,NounPhraseAsSubject,NP.SUBJ V,A1
+69,72,NounPhraseAsObject,SUBJ V NP.OBJ,A1
+70,73,NounPhraseAsPrepComplement,PREP NP,A1
+71,74,NounPhraseAsBeComplement,SUBJ BE NP,A1
+72,75,NounPhraseAADJ.SUPunct,NP.TIME (ADJUNCT),A1
+73,290,PastSimpleAffirmative,SUBJ V.PAST (OBJ/COMP),A1
+74,,PastSimpleBeAffirmative,SUBJ was/were (COMP),A1
+75,,PastSimpleRegularVerbForm,V-ed,A1
+76,,PastSimpleIrregularVerbForm,V.PAST(irregular),A1
+77,,Preposition,PREP,A1
+78,78,PrepositionSimple,PREP.S,A1
+79,79,PrepositionPlusNounPhrase,PREP NP,A1
+80,80,PresentContinuousAffirmative,SUBJ BE V-ing,A1
+81,82,PresentSimpleAffirmative,SUBJ V,A1
+82,,PresentSimpleThirdPersonS,SUBJ V-s,A1
+83,314,PresentSimpleNegative,SUBJ DO not V,A1
+84,84,PresentSimpleWithReally,SUBJ REALLY V,A1
+85,,Pronoun,PRON,A1
+86,86,PronounObjectIt,V it,A1
+87,87,PronounObjectPersonal,(SUBJ) V PRON,A1
+88,88,PronounObjectWithPreposition,PREP PRON,A1
+89,89,PronounSubjectItForFirstPerson,it BE I,A1
+90,90,PronounInversionQuestions,(WH) AUX SUBJ V,A1
+91,91,PronounSubjectBeQuestions,(WH) BE SUBJ (COMP),A1
+92,92,PronounSubjectStatements,SUBJ V,A1
+93,,PronounSubjectI,I V,A1
+94,,PronounSubjectHeSheIt,he/she/it V,A1
+95,93,IndefinitePronounObject,V PRON.IND,A1
+96,94,IndefinitePronounEverythingSubject,everything V,A1
+97,95,YesNoQuestionModalVerb,V.MODAL SUBJ V,A1
+98,,Verb,V,A1
+99,96,PrepositionalVerbPattern,V PREP NP,A1
+100,97,MainVerb,SUBJ V (OBJ),A1
+101,,TransitiveVerb,SUBJ V OBJ,A1
+102,,IntransitiveVerb,SUBJ V,A1
+103,98,LinkingVerbBe,SUBJ BE COMP,A1
+104,99,AuxiliaryVerbBe,AUX BE V-ing/V-PastP,A1
+105,370,ModalVerb,V.MODAL,A1
+106,,VerbPhrase,VP,A1
+107,101,VerbInfinitiveForm,V to V.INF,A1
+108,,VerbINGForm,V V-ing,A1
+109,102,VerbLikeToOrIng,like V.INF / V-ing,A1
+110,103,VerbWouldLikeTo,would like to V.INF,A1
+111,104,ThereIs,there is NP,A1
+112,105,ThereAre,there are NP,A1
+113,106,LinkingBeComplement,SUBJ BE COMP,A1
+114,107,NegationBeMainVerb,SUBJ BE not COMP,A1
+115,108,NegationDoAuxPresent,SUBJ DO not V,A1
+116,109,NegationModalCan,SUBJ can't V,A1
+117,110,AdjectiveButAdjective,ADJ but ADJ,A2
+118,,ComparativeAdjective,ADJ.CMP,A2
+119,,ComparativeAdjectiveRegularInflectional,ADJ.CMP.INFL,A2
+120,111,ComparativeAdjectiveWithEr,ADJ-er,A2
+121,112,ComparativeAdjectiveYToIer,ADJ-ier,A2
+122,113,AttributiveComparativeBeforeNoun,ADJ.CMP NOUN,A2
+123,114,PredicativeComparativeWithBe,SUBJ be ADJ.CMP,A2
+124,115,ComparativeAdjectiveDoubleConsonantEr,ADJ-CC-er,A2
+125,116,ComparativeAdjectiveEndingEPlusR,ADJ-r,A2
+126,117,ComparativeAdjectiveIrregular,ADJ.CMP(irregular),A2
+127,118,ComparativeAdjectiveRegularPeriphrastic,more ADJ,A2
+128,119,ComparativeWithThan,SUBJ be ADJ.CMP than OBJ (CLAUSE),A2
+129,121,AdjectivePlusPrepositionalComplement,ADJ PP,A2
+130,122,TooAdjective,too ADJ,A2
+131,123,TooAdjectivePP,too ADJ PP,A2
+132,126,PredicativeAdjectiveWithLinkingVerb,SUBJ V.LINKING ADJ,A2
+133,,SuperlativeAdjective,ADJ.SUP,A2
+134,131,SuperlativeAdjectiveDoubleConsonantEst,ADJ-CC-est,A2
+135,132,OneSyllableSuperlativeWithEst,ADJ-est,A2
+136,133,SuperlativeAdjectiveYToIest,ADJ-iest,A2
+137,134,PossessiveSuperlativeNoun,DET.POSS ADJ.SUP NOUN,A2
+138,135,SuperlativeAdjectiveEndingEPlusSt,ADJ-st,A2
+139,136,SuperlativeWithThe,the ADJ.SUP,A2
+140,137,PeriphrasticSuperlativeWithMost,the most ADJ,A2
+141,150,TimeSequencingAdverbClause,ADV[time/sequence] CLAUSE,A2
+142,153,MidPositionAdverb,SUBJ (AUX) ADV (AUX) VERB …,A2
+143,154,EndPositionMannerAdverb,CLAUSE ADV,A2
+144,155,EndPositionDegreeAdverb,CLAUSE ADV,A2
+145,156,SentenceAdverbFront,ADV[sentence] CLAUSE,A2
+146,157,AdverbPlusAdverb,ADV ADV,A2
+147,158,BeLikeNoun,SUBJ BE like,A2
+148,160,NegDeclarativeHave,SUBJ have/has not (got NP)/(V),A2
+149,161,NegDeclarativeModal,SUBJ V.MODAL NEG V-BASE (OBJ|COMP),A2
+150,162,AffirmativeImperative,V-BASE (OBJ|COMP) (PP|ADV),A2
+151,,NegativeImperative,do not / don't V-BASE (OBJ|COMP) (PP|ADV),A2
+152,168,InterrogativeClauseWithBeHave,AUX[BE/HAVE] SUBJ (V-PastP|COMP),A2
+153,169,InterrogativeClauseWithDo,AUX[DO] SUBJ V-BASE (OBJ|COMP),A2
+154,170,InterrogativeClauseWithModal,V.MODAL SUBJ V-BASE (OBJ|COMP),A2
+155,171,WhInterrogativeClause,WH AUX[BE/HAVE/DO|V.MODAL] SUBJ V-BASE/(V-PastP) (OBJ),A2
+156,172,NegativeWhInterrogativeClause,WH AUX[BE/HAVE/DO|V.MODAL] NEG SUBJ V-BASE/(V-PastP) (OBJ),A2
+157,173,NegativeInterrogativeClause,AUX[BE/HAVE/DO|V.MODAL] NEG SUBJ V-BASE/(V-PastP) (OBJ|COMP),A2
+158,174,WhatAExclam,What a NP (CLAUSE),A2
+159,175,WhatAPityThatClause,What a pity (that) CLAUSE,A2
+160,,NonDefiningRelativeClause,NP [PRON.REL] V ...,A2
+161,,DefiningRelativeClause,NP [PRON.REL] V ...,A2
+162,176,NonDefiningRelativeClauseSubjectWho,NP who SUBJ=who V …,A2
+163,177,DefiningRelativeClauseSubjectWho,NP who SUBJ=who V …,A2
+164,178,NonDefiningRelativeClauseSubjectWhich,NP which SUBJ=which V …,A2
+165,179,DefiningRelativeClauseSubjectWhich,NP which SUBJ=which V …,A2
+166,180,DefiningRelativeClauseObjectThat,NP that SUBJ V (… ØOBJ …),A2
+167,181,NonDefiningRelativeClauseObjectWhich,NP which SUBJ V (… ØOBJ …),A2
+168,182,DefiningRelativeClauseObjectWhich,NP which SUBJ V (OBJ),A2
+169,183,DefiningRelativeClauseZeroObject,NP which SUBJ V (… ØOBJ …),A2
+170,187,SubordinatingConjunctionSimple,SUBORD-CONJ,A2
+171,189,ArticleTheBeforeSuperlative,the ADJ.SUP,A2
+172,190,DemonstrativeThisWithUncountable,this N.UNC,A2
+173,194,DemonstrativeThatSimple,that (N.SG | N.UNC),A2
+174,197,DemonstrativeTheseSimple,these N.PL,A2
+175,200,DemonstrativeThoseSimple,those N.PL,A2
+176,203,PossessiveGenitiveApostropheS,N.SG 's N,A2
+177,204,QuantifierOfDeterminer,DET.Q of N (N.PL | N.UNC),A2
+178,205,QuantityDeterminerWithPluralNouns,DET.Q N.PL,A2
+179,206,QuantityDeterminerWithPluralAndUncountable,DET.Q (N.PL | N.UNC),A2
+180,207,QuantityDeterminerWithSingularNouns,DET.Q N.SG,A2
+181,208,MuchWithUncountableNegative,NEG … much N.UNC,A2
+182,209,ManyWithPluralNegative,NEG … many N.PL,A2
+183,210,SoManyWithPluralNouns,so many N.PL,A2
+184,211,DeterminerOfDeterminerPartitive,DET.Q of DET N,A2
+185,212,FutureContinuousWillAffirmative,SUBJ will be V-ING (OBJ/COMP),A2
+186,214,FutureSimpleShallAffirmative,SUBJ shall V (OBJ/COMP),A2
+187,215,FutureWillNegative,SUBJ will NEG V (OBJ/COMP),A2
+188,216,FutureSimpleWillShallQuestions,Will/Shall SUBJ V (OBJ/COMP),A2
+189,222,GoingToFutureAffirmative,SUBJ be going to V (OBJ/COMP),A2
+190,223,GoingToFutureQuestions,Be SUBJ going to V (OBJ/COMP),A2
+191,228,PresentSimpleFutureWhenClause,When SUBJ PRES.SIMPLE … CLAUSE.MAIN(FUTURE/EVENT) **,A2
+192,231,BeSureClause,I am sure CLAUSE,A2
+193,234,ModalHaveAffirmative,SUBJ have/has N/NP,A2
+194,235,ModalHaveNegative,SUBJ [do/does NEG have]/[haven't got to] V,A2
+195,236,ModalHaveQuestions,[Do/Does SUBJ have]/ [Have/has SUBJ got to] V,A2
+196,238,ModalMayAffirmative,SUBJ may V (OBJ/COMP),A2
+197,240,ModalMightAffirmative,SUBJ might V (OBJ/COMP),A2
+198,242,ModalMustAffirmative,SUBJ must V (OBJ/COMP),A2
+199,243,ModalMustNegative,SUBJ must NEG V (OBJ/COMP),A2
+200,245,ModalShallAffirmative,SUBJ shall V (OBJ/COMP),A2
+201,246,ModalShallQuestions,Shall SUBJ V (OBJ/COMP),A2
+202,249,ModalShouldAffirmative,SUBJ should V (OBJ/COMP),A2
+203,250,ModalShouldNegative,SUBJ should V (OBJ/COMP),A2
+204,251,ModalShouldQuestions,Should SUBJ V (OBJ/COMP),A2
+205,255,ModalWillNegative,SUBJ will NEG V (OBJ/COMP),A2
+206,256,ModalWillQuestions,Will SUBJ V (OBJ/COMP),A2
+207,260,ModalWouldAffirmative,SUBJ would V (OBJ/COMP),A2
+208,261,ModalWouldNegative,SUBJ would NEG V (OBJ/COMP),A2
+209,262,WouldLikeQuestions,Would SUBJ like (NP | to V),A2
+210,267,ModalAdverbsClausePosition,ADV.MODAL CLAUSE,A2
+211,268,NounPhraseDeterminerUncountable,DET N.UNC,A2
+212,269,NounPhraseDeterminerNoun,DET (N.SG | N.PL),A2
+213,270,NounPhraseWithAdjectives,DET (ADJ) N,A2
+214,271,NounPhraseWithRelativePostmodifier,NP CLAUSE.REL = [DET (ADJ)+ NOUN] (REL SUBJ V … | SUBJ V … ØOBJ),A2
+215,272,NounPhraseWithRelativeComplement,N(complement-taking) (that/whether/wh-) CLAUSE,A2
+216,273,NounPhrasePossessiveApostropheS,N.SG 's N,A2
+217,274,GerundAsObjectNoun,SUBJ V(transitive) V-ING,A2
+218,275,PluralEsNouns,N-es,A2
+219,276,PluralIesNouns,N-ies,A2
+220,277,IrregularPluralNouns,N.PL(irregular),A2
+221,278,PluralOnlyNouns,N.PL,A2
+222,279,UncountableNounsBare,N.UNC,A2
+223,280,UncountableWithThe,the N.UNC,A2
+224,281,UncountableWithQuantifyingDeterminers,DET.Q N.UNC | DET.Q of N.UNC,A2
+225,282,ContainerQuantityPartitives,N.CONTAINER of N,A2
+226,,PassiveVoice,,A2
+227,284,PassivePastSimpleAffirmative,SUBJ was/were V-PastP (by AGENT),A2
+228,285,PassivePresentSimpleAffirmative,SUBJ is/are V-PastP (by AGENT),A2
+229,286,PastContinuousAffirmative,SUBJ was/were V-ING (OBJ/COMP),A2
+230,287,PastContinuousWithAdverbs,(ADV) SUBJ was/were ADV V-ING (OBJ/COMP) (ADV),A2
+231,290,PastSimpleAffirmative,SUBJ V-ed / V.PAST(irregular) (OBJ/COMP),A2
+232,291,PastSimpleNegative,SUBJ did not/didn't V (OBJ/COMP),A2
+233,292,PastSimpleQuestions,Did SUBJ V (OBJ/COMP),A2
+234,293,PastSimpleWithWhenClause,When SUBJ V.PAST … CLAUSE.MAIN(V.PAST),A2
+235,296,PresentPerfectAffirmative,SUBJ have/has V-PastP (OBJ/PP),A2
+236,297,PresentPerfectNegative,SUBJ have/has not (haven't/hasn't) V-PastP (OBJ/PP),A2
+237,298,PresentPerfectQuestions,Have/Has SUBJ V-PastP (OBJ/PP),A2
+238,299,PresentPerfectWithAdverbs,SUBJ have/has ADV.PERF V-PastP (OBJ/PP),A2
+239,,PastParticipleVerbForm,V-PastP,A2
+240,,PastParticipleRegularVerbForm,V-ed,A2
+241,,PastParticipleIrregularVerbForm,V-PastP (irregular),A2
+242,301,PrepositionSimple,PREP.S,A2
+243,302,PrepositionComplex,PREP.C,A2
+244,303,JustPreposition,just PREP,A2
+245,304,PrepositionGerund,PREP V-ing,A2
+246,305,PrepositionStranding,wh V SUBJ PREP,A2
+247,306,PresentContinuousNegative,SUBJ be NEG V-ing (OBJ/COMP),A2
+248,307,PresentContinuousQuestions,(WH) BE SUBJ V-ing (OBJ/COMP),A2
+249,313,DoYouKnowIndirectQuestions,do you know wh/if SUBJ V,A2
+250,315,PresentSimpleQuestions,Do/Does SUBJ V (OBJ/COMP),A2
+251,316,PresentSimpleWithIndefiniteFrequencyAdverbs,SUBJ ADV.FREQ V  (OBJ/COMP),A2
+252,320,PossessiveOfMine,NP of mine,A2
+253,321,PossessivePronounMine,mine,A2
+254,322,PossessivePronounYoursObject,SUBJ be yours / V yours / PREP/ yours,A2
+255,323,ReflexiveSameSubjectObject,SUBJ V … REFL[=SUBJ],A2
+256,324,SubjectEllipsisAfterHope,hope (that) CLAUSE,A2
+257,325,EmptyItSubject,It is/ It's ADJ/V-ing,A2
+258,326,DemonstrativePronounThis,this V (...)/ SUBJ V this,A2
+259,330,DemonstrativePronounThat,that V (OBJ/COMP)/ SUBJ V this,A2
+260,334,SomeAnyQuantifierPronouns,SOME/ANY V ... / SOME/ANY NP V ...,A2
+261,335,SomePronounSubjectObject,some V … | V … some,A2
+262,336,AnyPronounObject,V-NEG … any (OBJ),A2
+263,337,QuantifierOfObjectPronoun,(all | both) of OBJ.PRON,A2
+264,338,OneSubstitutionPronoun,DET one,A2
+265,339,PremodifiedOneOnes,DET ADJ one,A2
+266,341,IndefinitePronounObjectComplement,V PRON.IND / PREP PRON.IND,A2
+267,342,IndefinitePronounSubject,PRON.IND.SG V.SG,A2
+268,343,NegativePlusAnythingPronoun,SUBJ AUX not V anything,A2
+269,346,IndefinitePronounWithElse,PRON.IND + else,A2
+270,,RelativePronounsWhoWhichThat,N PRON.REL V,A2
+271,,InterrogativePronouns,WH,A2
+272,349,AlternativeQuestionsWithOR,WORD or WORD,A2
+273,350,QuestionTags,CLAUSE.MAIN AUX PRON (NEG),A2
+274,351,WhQuestionsWithBE,(WH) BE SUBJ,A2
+275,352,WhQuestionsWithDO,(WH) DO SUBJ V,A2
+276,353,WhQuestionsWithHAVE,(WH) HAVE SUBJ V-PastP,A2
+277,354,WhQuestionsWithAuxBE,(WH) BE SUBJ V-ing,A2
+278,355,WhQuestionsWithMODAL,(WH) V.MODAL SUBJ V,A2
+279,357,YesNoQuestionWithBE,BE SUBJ,A2
+280,358,YesNoQuestionWithMODAL,V.MODAL SUBJ V-BASE (OBJ|COMP),A2
+281,359,YesNoQuestionWithDO,DO SUBJ V,A2
+282,360,YesNoQuestionWithAuxBE,BE SUBJ V-ing,A2
+283,361,YesNoQuestionWithHAVE,HAVE SUBJ V-PastP,A2
+284,363,ReportingVerbThatClause,SUBJ V.REPORT OBJ that CLAUSE,A2
+285,364,VerbClause,SUBJ V OBJ CLAUSE,A2
+286,365,VerbIOThatClause,SUBJ V IO that CLAUSE,A2
+287,366,PhrasalVerbIntransitive,V-PARTICLE,A2
+288,367,PhrasalVerbPronounParticle,V PRON PARTICLE,A2
+289,368,AuxVerbsHaveDo,AUX have/do V,A2
+290,369,LinkingVerbAdjectiveComplement,SUBJ V.LINKING ADJ,A2
+291,371,SemiModalHaveGotTo,SUBJ have (got) to V.INF,A2
+292,372,VerbPlusToInfinitive,V TO V.INF,A2
+293,373,VerbToInfOrIngAlternation,V TO V.INF / V-ing,A2
+294,375,EnjoyPlusIng,enjoy V-ing,A2
+295,376,ThereIsUncountable,there is UNCOUNT-N,A2
+296,377,ThereBeALotOf,there are a lot of NP,A2
+297,378,LinkingVerbComplement,SUBJ V.LINKING COMP,A2
+298,379,ConditionalIfPresentSimple,if CLAUSE.PRES-SIMPLE CLAUSE.MAIN,A2
+299,380,ConditionalIfPresentThenImperative,if CLAUSE.PRES-SIMPLE IMPERATIVE,A2
+300,,ReportedSpeech,,A2
+301,385,ReportedSpeechSayPronounShift,SUBJ say that CLAUSE (PRON-SHIFT),A2
+302,386,ReportedSpeechTellPronounShift,SUBJ tell OBJ that CLAUSE (PRON-SHIFT),A2
+303,388,NegationBeHavePresent,SUBJ BE/HAVE not V/COMP,A2
+304,389,NegationDoPast,SUBJ did not/didn't V,A2
+305,390,NegationImperativeWithDo,Do not/Don't V,A2
+306,391,NegationWithModals,SUBJ V.MODAL not V,A2
+307,393,NegationWithNoDeterminer,no N,A2
+308,394,NegationWithAnyMuchMany,SUBJ AUX not V any/much/many NP,A2
+309,395,ModalCouldAffirmative,SUBJ could V,A2
+310,396,ModalCouldNegative,SUBJ could not V,A2
+311,397,ModalCouldQuestions,(WH) could SUBJ V,A2
+312,,PresentSimple,,
+313,,PastSimple,,
+314,,PresentPerfect,,

@@ -1,0 +1,60 @@
+id,name
+1,Asking for advice
+2,Asking for confirmation
+3,Asking for information
+4,Comparing
+5,Comparing within a set
+6,Conveying meaning
+7,Making statements
+8,Describing
+9,Emphasizing the affected entity
+10,Expressing obligation or necessity
+11,Expressing beliefs and opinions
+12,Expressing cause
+13,Expressing certainty
+14,Expressing condition
+15,Expressing degree
+16,Expressing evaluation
+17,Expressing frequency
+18,Expressing hypotheses or inferences
+19,Expressing manner
+20,Expressing negation
+21,Expressing politeness
+22,Expressing possession
+23,Expressing possibility
+24,Expressing ability
+25,Expressing preference
+26,Expressing probability
+27,Expressing progression
+28,Expressing quantity
+29,Expressing wishes
+30,Framing or linking information
+31,Giving advice
+32,Giving directions or instructions
+33,Making offers and invitations
+34,Making suggestions
+35,Providing detail
+36,Referring back to entities
+37,Referring to actions states or relations
+38,Referring to additional or alternative entities
+39,Referring to entities
+40,Referring to future actions and events
+41,Referring to impersonal events
+42,Referring to past actions and events
+43,Referring to past events with present relevance
+44,Referring to present states events and facts
+45,Referring to self
+46,Referring to self-directed actions
+47,Referring to the acting or experiencing entity
+48,Referring to the affected entity
+49,Referring to third-person subjects
+50,Reporting information
+51,Requesting
+52,Sequencing events
+53,Situating events or entities
+54,Situating entities in space
+55,Situating events in time
+56,Specifying information
+57,Pointing to entities
+58,Expressing contrast
+59,Expressing indefiniteness

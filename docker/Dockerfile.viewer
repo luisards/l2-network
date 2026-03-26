@@ -1,0 +1,19 @@
+FROM node:18-alpine
+
+RUN apk add --no-cache git python3 make g++
+
+WORKDIR /src
+RUN git clone https://github.com/apache/age-viewer.git .
+
+RUN npm config set engine-strict false
+RUN npm run setup
+
+RUN cd backend && npm install @babel/runtime
+RUN cd frontend && npm uninstall uuid && npm install uuid@8.3.2
+
+ENV NODE_OPTIONS=--openssl-legacy-provider
+ENV DISABLE_ESLINT_PLUGIN=true
+RUN cd frontend && npm run build
+
+EXPOSE 3001
+CMD ["npm", "run", "deploy"]

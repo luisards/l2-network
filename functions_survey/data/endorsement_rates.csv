@@ -1,0 +1,779 @@
+question_id,construction_name,construction_formula,level,category,function,n_selecting,n_annotators,endorsement_rate
+1,AdjectiveAndAdjective,ADJ and ADJ,A1,ADJECTIVES,Describing,4,4,1.0
+1,AdjectiveAndAdjective,ADJ and ADJ,A1,ADJECTIVES,Providing detail,1,4,0.25
+1,AdjectiveAndAdjective,ADJ and ADJ,A1,ADJECTIVES,Expressing manner,1,4,0.25
+1,AdjectiveAndAdjective,ADJ and ADJ,A1,ADJECTIVES,"Other: Adding emphasis in e.g. ""fare and square"", ""safe and sound"".",1,4,0.25
+1,AdjectiveAndAdjective,ADJ and ADJ,A1,ADJECTIVES,Expressing evaluation,1,4,0.25
+2,AffirmativeDeclarativeClause,SUBJ V (… ),A1,CLAUSES,Making statements,4,4,1.0
+2,AffirmativeDeclarativeClause,SUBJ V (… ),A1,CLAUSES,Pointing to entities,1,4,0.25
+2,AffirmativeDeclarativeClause,SUBJ V (… ),A1,CLAUSES,Other: Expressing opinions,1,4,0.25
+2,AffirmativeDeclarativeClause,SUBJ V (… ),A1,CLAUSES,Specifying information,1,4,0.25
+2,AffirmativeDeclarativeClause,SUBJ V (… ),A1,CLAUSES,Conveying meaning & exchanging information,1,4,0.25
+3,AffirmativeDeclarativeClauseWithModal,SUBJ V.MODAL VP,A1,CLAUSES,Making statements,3,4,0.75
+3,AffirmativeDeclarativeClauseWithModal,SUBJ V.MODAL VP,A1,CLAUSES,Expressing wishes,2,4,0.5
+3,AffirmativeDeclarativeClauseWithModal,SUBJ V.MODAL VP,A1,CLAUSES,Giving advice,2,4,0.5
+3,AffirmativeDeclarativeClauseWithModal,SUBJ V.MODAL VP,A1,CLAUSES,Other: Expressing possibilities,1,4,0.25
+3,AffirmativeDeclarativeClauseWithModal,SUBJ V.MODAL VP,A1,CLAUSES,Conveying meaning & exchanging information,1,4,0.25
+4,AffirmativeInterrogativeClauseWithBe,(wh) BE SUBJ (…),A1,CLAUSES,Asking for information,4,4,1.0
+4,AffirmativeInterrogativeClauseWithBe,(wh) BE SUBJ (…),A1,CLAUSES,Other: Asking for confirmation,1,4,0.25
+4,AffirmativeInterrogativeClauseWithBe,(wh) BE SUBJ (…),A1,CLAUSES,"Other: Asking for an explanation? (with ""why""), asking for clarification/confirmation, permission (""is it ok...?""), expressing reaction or surprise (""are you crazy?"")",1,4,0.25
+5,ArticleAPlusVeryAdjective,a very ADJ N,A1,DETERMINERS,Describing,4,4,1.0
+5,ArticleAPlusVeryAdjective,a very ADJ N,A1,DETERMINERS,Referring to entities,1,4,0.25
+6,ArticleAWithAdjectiveAndNoun,a ADJ N,A1,DETERMINERS,Describing,4,4,1.0
+6,ArticleAWithAdjectiveAndNoun,a ADJ N,A1,DETERMINERS,Referring to entities,3,4,0.75
+6,ArticleAWithAdjectiveAndNoun,a ADJ N,A1,DETERMINERS,Referring to past events with present relevance,1,4,0.25
+6,ArticleAWithAdjectiveAndNoun,a ADJ N,A1,DETERMINERS,Referring to present states events and facts,1,4,0.25
+6,ArticleAWithAdjectiveAndNoun,a ADJ N,A1,DETERMINERS,Referring to self,1,4,0.25
+7,AttributiveAdjective,ADJ N,A1,ADJECTIVES,Describing,4,4,1.0
+7,AttributiveAdjective,ADJ N,A1,ADJECTIVES,Giving advice,1,4,0.25
+8,AuxiliaryVerbBe,AUX BE V-ing/V-PastP,A1,VERBS,Expressing progression,3,4,0.75
+8,AuxiliaryVerbBe,AUX BE V-ing/V-PastP,A1,VERBS,"Referring to actions, events or states",2,4,0.5
+8,AuxiliaryVerbBe,AUX BE V-ing/V-PastP,A1,VERBS,Other: Expressing intent,1,4,0.25
+8,AuxiliaryVerbBe,AUX BE V-ing/V-PastP,A1,VERBS,Making suggestions,1,4,0.25
+8,AuxiliaryVerbBe,AUX BE V-ing/V-PastP,A1,VERBS,Other: Talking about plans and arrangements,1,4,0.25
+9,BecauseSubclause,because CLAUSE.SUBORD,A1,CONJUNCTIONS,Framing or linking information,4,4,1.0
+9,BecauseSubclause,because CLAUSE.SUBORD,A1,CONJUNCTIONS,Expressing cause,4,4,1.0
+9,BecauseSubclause,because CLAUSE.SUBORD,A1,CONJUNCTIONS,Other: Making excuses,1,4,0.25
+10,ClauseAndClauseWithElliptedSubject,CLAUSE and (ØSUBJ) CLAUSE,A1,CLAUSES,Specifying information,2,4,0.5
+10,ClauseAndClauseWithElliptedSubject,CLAUSE and (ØSUBJ) CLAUSE,A1,CLAUSES,Framing or linking information,2,4,0.5
+10,ClauseAndClauseWithElliptedSubject,CLAUSE and (ØSUBJ) CLAUSE,A1,CLAUSES,Other: Sequencing events,1,4,0.25
+10,ClauseAndClauseWithElliptedSubject,CLAUSE and (ØSUBJ) CLAUSE,A1,CLAUSES,Other: Avoiding repetition,1,4,0.25
+11,CommonNoun,N.COMMON,A1,NOUNS,Referring to entities,4,4,1.0
+11,CommonNoun,N.COMMON,A1,NOUNS,Describing,3,4,0.75
+11,CommonNoun,N.COMMON,A1,NOUNS,Conveying meaning,2,4,0.5
+11,CommonNoun,N.COMMON,A1,NOUNS,Making statements,2,4,0.5
+11,CommonNoun,N.COMMON,A1,NOUNS,Emphasizing the affected entity,1,4,0.25
+12,CompoundNoun,N-N,A1,NOUNS,Referring to entities,4,4,1.0
+12,CompoundNoun,N-N,A1,NOUNS,Describing,3,4,0.75
+12,CompoundNoun,N-N,A1,NOUNS,Making statements,1,4,0.25
+12,CompoundNoun,N-N,A1,NOUNS,Expressing obligation or necessity,1,4,0.25
+12,CompoundNoun,N-N,A1,NOUNS,Other: combining 2 words to act as a single unit,1,4,0.25
+13,DegreeAdverb,ADV.DEGREE ADJ,A1,ADVERBS,Expressing degree,4,4,1.0
+13,DegreeAdverb,ADV.DEGREE ADJ,A1,ADVERBS,Describing,4,4,1.0
+14,DegreeOrTimeAdverb,ADV.DEGREE/ADV.TIME,A1,ADVERBS,Expressing degree,4,4,1.0
+14,DegreeOrTimeAdverb,ADV.DEGREE/ADV.TIME,A1,ADVERBS,Providing detail,3,4,0.75
+14,DegreeOrTimeAdverb,ADV.DEGREE/ADV.TIME,A1,ADVERBS,Reporting information,1,4,0.25
+14,DegreeOrTimeAdverb,ADV.DEGREE/ADV.TIME,A1,ADVERBS,Requesting,1,4,0.25
+14,DegreeOrTimeAdverb,ADV.DEGREE/ADV.TIME,A1,ADVERBS,Sequencing events,1,4,0.25
+14,DegreeOrTimeAdverb,ADV.DEGREE/ADV.TIME,A1,ADVERBS,"Other: Expressing frequency, providing time of events (for time adverbials)",1,4,0.25
+15,DemonstrativeThisPlusSingularNoun,this N.SG,A1,DETERMINERS,Pointing to entities,4,4,1.0
+15,DemonstrativeThisPlusSingularNoun,this N.SG,A1,DETERMINERS,Referring to entities,3,4,0.75
+15,DemonstrativeThisPlusSingularNoun,this N.SG,A1,DETERMINERS,Asking for information,1,4,0.25
+15,DemonstrativeThisPlusSingularNoun,this N.SG,A1,DETERMINERS,Comparing,1,4,0.25
+15,DemonstrativeThisPlusSingularNoun,this N.SG,A1,DETERMINERS,Comparing within a set,1,4,0.25
+16,DeterminerWithNoun,DET N,A1,NOUNS,Referring to entities,4,4,1.0
+16,DeterminerWithNoun,DET N,A1,NOUNS,Other: pointing to entities (if DET is a demonstrative),1,4,0.25
+17,MiddleFrequencyAdverb,SUBJ ADV.FREQ V,A1,ADVERBS,Expressing frequency,4,4,1.0
+17,MiddleFrequencyAdverb,SUBJ ADV.FREQ V,A1,ADVERBS,Making statements,4,4,1.0
+17,MiddleFrequencyAdverb,SUBJ ADV.FREQ V,A1,ADVERBS,Describing,2,4,0.5
+17,MiddleFrequencyAdverb,SUBJ ADV.FREQ V,A1,ADVERBS,Other: Describing an action,1,4,0.25
+17,MiddleFrequencyAdverb,SUBJ ADV.FREQ V,A1,ADVERBS,stating habits,1,4,0.25
+18,FrontAdverb,ADV CLAUSE,A1,ADVERBS,Expressing certainty,3,4,0.75
+18,FrontAdverb,ADV CLAUSE,A1,ADVERBS,Other: Expressing frequency,2,4,0.5
+18,FrontAdverb,ADV CLAUSE,A1,ADVERBS,Other: expressing XX (depending on adverb),1,4,0.25
+18,FrontAdverb,ADV CLAUSE,A1,ADVERBS,Other: Indicating frequency,1,4,0.25
+19,FutureWillAffirmative,SUBJ will V,A1,FUTURE,Referring to future actions and events,4,4,1.0
+19,FutureWillAffirmative,SUBJ will V,A1,FUTURE,"Other: Making offers, promises, or predictions",1,4,0.25
+19,FutureWillAffirmative,SUBJ will V,A1,FUTURE,"Other: Promises, predictions",1,4,0.25
+20,IndefinitePronounWithEverythingAsSubject,everything V,A1,PRONOUNS,Referring to entities,2,4,0.5
+20,IndefinitePronounWithEverythingAsSubject,everything V,A1,PRONOUNS,Other: Referring to a state (of being),1,4,0.25
+20,IndefinitePronounWithEverythingAsSubject,everything V,A1,PRONOUNS,Expressing hypotheses or inferences,1,4,0.25
+20,IndefinitePronounWithEverythingAsSubject,everything V,A1,PRONOUNS,Expressing negation,1,4,0.25
+20,IndefinitePronounWithEverythingAsSubject,everything V,A1,PRONOUNS,Other: Generalisation,1,4,0.25
+21,IndefinitePronounAsObject,V PRON.IND,A1,PRONOUNS,Expressing indefiniteness,2,4,0.5
+21,IndefinitePronounAsObject,V PRON.IND,A1,PRONOUNS,Other: Generalization,1,4,0.25
+21,IndefinitePronounAsObject,V PRON.IND,A1,PRONOUNS,referring to something unspecific,1,4,0.25
+21,IndefinitePronounAsObject,V PRON.IND,A1,PRONOUNS,Other: Making promises,1,4,0.25
+21,IndefinitePronounAsObject,V PRON.IND,A1,PRONOUNS,Specifying information,1,4,0.25
+21,IndefinitePronounAsObject,V PRON.IND,A1,PRONOUNS,Referring to entities,1,4,0.25
+22,LinkingVerbBeWithComplement,SUBJ BE COMP,A1,VERBS,Describing,4,4,1.0
+22,LinkingVerbBeWithComplement,SUBJ BE COMP,A1,VERBS,Conveying meaning,2,4,0.5
+22,LinkingVerbBeWithComplement,SUBJ BE COMP,A1,VERBS,Comparing,1,4,0.25
+22,LinkingVerbBeWithComplement,SUBJ BE COMP,A1,VERBS,Comparing within a set,1,4,0.25
+22,LinkingVerbBeWithComplement,SUBJ BE COMP,A1,VERBS,Other: Expressing opinions,1,4,0.25
+22,LinkingVerbBeWithComplement,SUBJ BE COMP,A1,VERBS,Other: Making statements,1,4,0.25
+23,LinkingVerbBe,SUBJ BE COMP,A1,VERBS,Describing,4,4,1.0
+23,LinkingVerbBe,SUBJ BE COMP,A1,VERBS,Referring to self,2,4,0.5
+23,LinkingVerbBe,SUBJ BE COMP,A1,VERBS,Other: Making statements,1,4,0.25
+23,LinkingVerbBe,SUBJ BE COMP,A1,VERBS,Referring to the affected entity,1,4,0.25
+23,LinkingVerbBe,SUBJ BE COMP,A1,VERBS,Referring to the acting or experiencing entity,1,4,0.25
+24,MainClauseAndMainClause,CLAUSE.MAIN and CLAUSE.MAIN,A1,CLAUSES,Framing or linking information,4,4,1.0
+24,MainClauseAndMainClause,CLAUSE.MAIN and CLAUSE.MAIN,A1,CLAUSES,Referring to impersonal events,2,4,0.5
+24,MainClauseAndMainClause,CLAUSE.MAIN and CLAUSE.MAIN,A1,CLAUSES,Referring to entities,2,4,0.5
+24,MainClauseAndMainClause,CLAUSE.MAIN and CLAUSE.MAIN,A1,CLAUSES,Other: Making statements,1,4,0.25
+24,MainClauseAndMainClause,CLAUSE.MAIN and CLAUSE.MAIN,A1,CLAUSES,Referring to future actions and events,1,4,0.25
+24,MainClauseAndMainClause,CLAUSE.MAIN and CLAUSE.MAIN,A1,CLAUSES,Referring to past actions and events,1,4,0.25
+24,MainClauseAndMainClause,CLAUSE.MAIN and CLAUSE.MAIN,A1,CLAUSES,Other: sequencing events,1,4,0.25
+25,MainVerb,SUBJ V (OBJ),A1,VERBS,"Referring to actions, events or states",3,4,0.75
+25,MainVerb,SUBJ V (OBJ),A1,VERBS,Situating events in time,2,4,0.5
+25,MainVerb,SUBJ V (OBJ),A1,VERBS,Specifying information,2,4,0.5
+25,MainVerb,SUBJ V (OBJ),A1,VERBS,Pointing to entities,1,4,0.25
+25,MainVerb,SUBJ V (OBJ),A1,VERBS,Asking for advice,1,4,0.25
+25,MainVerb,SUBJ V (OBJ),A1,VERBS,Other: Making statements,1,4,0.25
+25,MainVerb,SUBJ V (OBJ),A1,VERBS,"Referring to actions, states or relations",1,4,0.25
+26,ModalCanAffirmative,SUBJ can V,A1,MODALITY,Expressing ability,4,4,1.0
+26,ModalCanAffirmative,SUBJ can V,A1,MODALITY,Expressing possibility,3,4,0.75
+26,ModalCanAffirmative,SUBJ can V,A1,MODALITY,Other: Giving permission,1,4,0.25
+27,ModalCanNegative,SUBJ cannot/can't V,A1,MODALITY,Expressing negation,4,4,1.0
+27,ModalCanNegative,SUBJ cannot/can't V,A1,MODALITY,Expressing ability,3,4,0.75
+27,ModalCanNegative,SUBJ cannot/can't V,A1,MODALITY,Expressing possibility,2,4,0.5
+27,ModalCanNegative,SUBJ cannot/can't V,A1,MODALITY,Referring to present states events and facts,2,4,0.5
+27,ModalCanNegative,SUBJ cannot/can't V,A1,MODALITY,Other: expressing missing ability/possibility/permission,1,4,0.25
+27,ModalCanNegative,SUBJ cannot/can't V,A1,MODALITY,Referring to past events with present relevance,1,4,0.25
+27,ModalCanNegative,SUBJ cannot/can't V,A1,MODALITY,Other: Prohibition,1,4,0.25
+28,ModalCanQuestion,(WH) can SUBJ V,A1,MODALITY,Asking for information,4,4,1.0
+28,ModalCanQuestion,(WH) can SUBJ V,A1,MODALITY,Other: Asking for permission,1,4,0.25
+28,ModalCanQuestion,(WH) can SUBJ V,A1,MODALITY,"Other: Asking permission, making suggestions, asking for help, making requests",1,4,0.25
+29,ModalVerb,V.MODAL,A1,VERBS,Making offers and invitations,4,4,1.0
+29,ModalVerb,V.MODAL,A1,VERBS,Making suggestions,3,4,0.75
+29,ModalVerb,V.MODAL,A1,VERBS,Giving directions or instructions,2,4,0.5
+29,ModalVerb,V.MODAL,A1,VERBS,Other: giving advice,1,4,0.25
+29,ModalVerb,V.MODAL,A1,VERBS,providing alternatives,1,4,0.25
+29,ModalVerb,V.MODAL,A1,VERBS,indicating future actions,1,4,0.25
+29,ModalVerb,V.MODAL,A1,VERBS,expressing wishes,1,4,0.25
+29,ModalVerb,V.MODAL,A1,VERBS,"Referring to actions, events or states",1,4,0.25
+30,ModalWillAffirmative,SUBJ will V,A1,MODALITY,Referring to future actions and events,4,4,1.0
+30,ModalWillAffirmative,SUBJ will V,A1,MODALITY,Situating events in time,2,4,0.5
+30,ModalWillAffirmative,SUBJ will V,A1,MODALITY,Sequencing events,1,4,0.25
+30,ModalWillAffirmative,SUBJ will V,A1,MODALITY,Situating events or entities,1,4,0.25
+30,ModalWillAffirmative,SUBJ will V,A1,MODALITY,"Other: Predictions, promises.",1,4,0.25
+31,WouldLikeAffirmative,SUBJ would like to V.INF,A1,MODALITY,Expressing preference,3,4,0.75
+31,WouldLikeAffirmative,SUBJ would like to V.INF,A1,MODALITY,Other: expressing wishes (polite),1,4,0.25
+31,WouldLikeAffirmative,SUBJ would like to V.INF,A1,MODALITY,Other: Expressing intent,1,4,0.25
+31,WouldLikeAffirmative,SUBJ would like to V.INF,A1,MODALITY,"Other: Making requests, polite requests, expressing intentions",1,4,0.25
+31,WouldLikeAffirmative,SUBJ would like to V.INF,A1,MODALITY,Expressing politeness,1,4,0.25
+32,MyBestFriend,my best friend,A1,ADJECTIVES,Referring to entities,3,4,0.75
+32,MyBestFriend,my best friend,A1,ADJECTIVES,Describing,2,4,0.5
+32,MyBestFriend,my best friend,A1,ADJECTIVES,Other: Literally referring to my best friend:),1,4,0.25
+33,NegationBeMainVerb,SUBJ BE not COMP,A1,NEGATION,Expressing negation,4,4,1.0
+33,NegationBeMainVerb,SUBJ BE not COMP,A1,NEGATION,Describing,4,4,1.0
+33,NegationBeMainVerb,SUBJ BE not COMP,A1,NEGATION,Making statements,2,4,0.5
+33,NegationBeMainVerb,SUBJ BE not COMP,A1,NEGATION,"Referring to actions, events or states",1,4,0.25
+33,NegationBeMainVerb,SUBJ BE not COMP,A1,NEGATION,Emphasizing the affected entity,1,4,0.25
+33,NegationBeMainVerb,SUBJ BE not COMP,A1,NEGATION,Conveying meaning & exchanging information,1,4,0.25
+34,NegationDoAuxPresent,SUBJ DO not V,A1,NEGATION,Expressing negation,4,4,1.0
+34,NegationDoAuxPresent,SUBJ DO not V,A1,NEGATION,"Referring to actions, events or states",2,4,0.5
+34,NegationDoAuxPresent,SUBJ DO not V,A1,NEGATION,"Referring to actions, states or relations",1,4,0.25
+35,NegationModalCan,SUBJ can't V,A1,NEGATION,Expressing negation,4,4,1.0
+35,NegationModalCan,SUBJ can't V,A1,NEGATION,Expressing ability,3,4,0.75
+35,NegationModalCan,SUBJ can't V,A1,NEGATION,Expressing possibility,2,4,0.5
+35,NegationModalCan,SUBJ can't V,A1,NEGATION,Making statements,2,4,0.5
+35,NegationModalCan,SUBJ can't V,A1,NEGATION,Other: expressing missing ability/possibility/permission,1,4,0.25
+35,NegationModalCan,SUBJ can't V,A1,NEGATION,Other: Prohibition,1,4,0.25
+36,NegativeDeclarativeClauseWithLexicalVerb,SUBJ AUX not V,A1,CLAUSES,Expressing negation,4,4,1.0
+36,NegativeDeclarativeClauseWithLexicalVerb,SUBJ AUX not V,A1,CLAUSES,Making statements,3,4,0.75
+37,NegativeDeclarativeClauseWithBe,SUBJ BE not ADJ,A1,CLAUSES,Expressing negation,4,4,1.0
+37,NegativeDeclarativeClauseWithBe,SUBJ BE not ADJ,A1,CLAUSES,Describing,4,4,1.0
+37,NegativeDeclarativeClauseWithBe,SUBJ BE not ADJ,A1,CLAUSES,Making statements,3,4,0.75
+38,NounPhraseAsAdjunctInTimeExpression,NP.TIME (ADJUNCT),A1,NOUNS,Situating events in time,4,4,1.0
+38,NounPhraseAsAdjunctInTimeExpression,NP.TIME (ADJUNCT),A1,NOUNS,Making statements,1,4,0.25
+38,NounPhraseAsAdjunctInTimeExpression,NP.TIME (ADJUNCT),A1,NOUNS,Conveying meaning,1,4,0.25
+39,AdjectivePlusPluralNoun,ADJ N.PL,A1,NOUN PHRASES,Describing,4,4,1.0
+39,AdjectivePlusPluralNoun,ADJ N.PL,A1,NOUN PHRASES,Referring to entities,2,4,0.5
+40,NounPhraseAsBeComplement,SUBJ BE NP,A1,NOUNS,Referring to entities,4,4,1.0
+40,NounPhraseAsBeComplement,SUBJ BE NP,A1,NOUNS,Other: describing,1,4,0.25
+40,NounPhraseAsBeComplement,SUBJ BE NP,A1,NOUNS,Expressing beliefs and opinions,1,4,0.25
+40,NounPhraseAsBeComplement,SUBJ BE NP,A1,NOUNS,"Other: Describing, introducing, explaining what something means",1,4,0.25
+40,NounPhraseAsBeComplement,SUBJ BE NP,A1,NOUNS,Expressing certainty,1,4,0.25
+41,NounPhraseAsObject,SUBJ V NP.OBJ,A1,NOUNS,Referring to the affected entity,3,4,0.75
+41,NounPhraseAsObject,SUBJ V NP.OBJ,A1,NOUNS,Other: Making statements,1,4,0.25
+41,NounPhraseAsObject,SUBJ V NP.OBJ,A1,NOUNS,Referring to entities,1,4,0.25
+41,NounPhraseAsObject,SUBJ V NP.OBJ,A1,NOUNS,Framing or linking information,1,4,0.25
+42,NounPhraseAsPrepositionalComplement,PREP NP,A1,NOUNS,Referring to entities,2,2,1.0
+42,NounPhraseAsPrepositionalComplement,PREP NP,A1,NOUNS,Situating events or entities,2,2,1.0
+42,NounPhraseAsPrepositionalComplement,PREP NP,A1,NOUNS,Situating entities in space,2,2,1.0
+43,NounPhraseAsSubject,NP.SUBJ V,A1,NOUNS,Referring to the acting or experiencing entity,2,2,1.0
+43,NounPhraseAsSubject,NP.SUBJ V,A1,NOUNS,Making statements,2,2,1.0
+43,NounPhraseAsSubject,NP.SUBJ V,A1,NOUNS,Describing,2,2,1.0
+43,NounPhraseAsSubject,NP.SUBJ V,A1,NOUNS,Emphasizing the affected entity,1,2,0.5
+44,DeterminerPlusAdjectivePlusNoun,DET ADJ N,A1,NOUN PHRASES,Referring to entities,2,2,1.0
+44,DeterminerPlusAdjectivePlusNoun,DET ADJ N,A1,NOUN PHRASES,Describing,2,2,1.0
+44,DeterminerPlusAdjectivePlusNoun,DET ADJ N,A1,NOUN PHRASES,Expressing degree,2,2,1.0
+44,DeterminerPlusAdjectivePlusNoun,DET ADJ N,A1,NOUN PHRASES,Expressing evaluation,1,2,0.5
+44,DeterminerPlusAdjectivePlusNoun,DET ADJ N,A1,NOUN PHRASES,Expressing condition,1,2,0.5
+45,NounNoun,N N,A1,NOUN PHRASES,Referring to entities,2,2,1.0
+45,NounNoun,N N,A1,NOUN PHRASES,Describing,1,2,0.5
+46,PlaceAdverbAsComplement,SUBJ VERB ADV.PLACE,A1,ADVERBS,Situating entities in space,2,2,1.0
+46,PlaceAdverbAsComplement,SUBJ VERB ADV.PLACE,A1,ADVERBS,Expressing beliefs and opinions,1,2,0.5
+46,PlaceAdverbAsComplement,SUBJ VERB ADV.PLACE,A1,ADVERBS,Expressing certainty,1,2,0.5
+46,PlaceAdverbAsComplement,SUBJ VERB ADV.PLACE,A1,ADVERBS,Expressing condition,1,2,0.5
+46,PlaceAdverbAsComplement,SUBJ VERB ADV.PLACE,A1,ADVERBS,Expressing cause,1,2,0.5
+47,EndPlaceAdverb,CLAUSE ADV.PLACE,A1,ADVERBS,Situating entities in space,2,2,1.0
+47,EndPlaceAdverb,CLAUSE ADV.PLACE,A1,ADVERBS,Expressing certainty,1,2,0.5
+47,EndPlaceAdverb,CLAUSE ADV.PLACE,A1,ADVERBS,Expressing condition,1,2,0.5
+48,PluralSForm,N.PL-s,A1,NOUNS,Expressing quantity,2,2,1.0
+48,PluralSForm,N.PL-s,A1,NOUNS,Referring to entities,1,2,0.5
+48,PluralSForm,N.PL-s,A1,NOUNS,Reporting information,1,2,0.5
+49,PossessiveDeterminerWithNoun,DET.POSS N,A1,DETERMINERS,Expressing possession,2,2,1.0
+49,PossessiveDeterminerWithNoun,DET.POSS N,A1,DETERMINERS,Specifying information,2,2,1.0
+49,PossessiveDeterminerWithNoun,DET.POSS N,A1,DETERMINERS,Referring to entities,1,2,0.5
+50,PredicativeAdjectiveWithBe,SUBJ BE ADJ,A1,ADJECTIVES,Describing,2,2,1.0
+50,PredicativeAdjectiveWithBe,SUBJ BE ADJ,A1,ADJECTIVES,Referring to self,1,2,0.5
+51,PrepositionWithNoArticle,PREP N,A1,DETERMINERS,Referring to entities,2,2,1.0
+51,PrepositionWithNoArticle,PREP N,A1,DETERMINERS,Situating entities in space,2,2,1.0
+52,PrepositionPlusThePlusNoun,PREP the N,A1,DETERMINERS,Situating events or entities,2,2,1.0
+52,PrepositionPlusThePlusNoun,PREP the N,A1,DETERMINERS,Situating entities in space,2,2,1.0
+53,PrepositionPlusNounPhrase,PREP,A1,PREPOSITIONS,Situating events or entities,2,2,1.0
+53,PrepositionPlusNounPhrase,PREP,A1,PREPOSITIONS,Expressing certainty,1,2,0.5
+53,PrepositionPlusNounPhrase,PREP,A1,PREPOSITIONS,Expressing condition,1,2,0.5
+53,PrepositionPlusNounPhrase,PREP,A1,PREPOSITIONS,Expressing degree,1,2,0.5
+54,PrepositionalVerbPattern,V PREP NP,A1,VERBS,Referring to future actions and events,2,2,1.0
+54,PrepositionalVerbPattern,V PREP NP,A1,VERBS,Referring to impersonal events,2,2,1.0
+54,PrepositionalVerbPattern,V PREP NP,A1,VERBS,Referring to past actions and events,2,2,1.0
+54,PrepositionalVerbPattern,V PREP NP,A1,VERBS,"Referring to actions, events or states",1,2,0.5
+54,PrepositionalVerbPattern,V PREP NP,A1,VERBS,"Referring to actions, states or relations",1,2,0.5
+54,PrepositionalVerbPattern,V PREP NP,A1,VERBS,Referring to entities,1,2,0.5
+55,PresentContinuousAffirmative,SUBJ BE V-ing,A1,PRESENT,"Referring to present states, events and facts",2,2,1.0
+55,PresentContinuousAffirmative,SUBJ BE V-ing,A1,PRESENT,Expressing progression,2,2,1.0
+55,PresentContinuousAffirmative,SUBJ BE V-ing,A1,PRESENT,Expressing beliefs and opinions,1,2,0.5
+56,PresentSimpleAffirmative,SUBJ V,A1,PRESENT,"Referring to present states, events and facts",2,2,1.0
+56,PresentSimpleAffirmative,SUBJ V,A1,PRESENT,Other: you could probably use it for all of the above,1,2,0.5
+56,PresentSimpleAffirmative,SUBJ V,A1,PRESENT,Expressing evaluation,1,2,0.5
+56,PresentSimpleAffirmative,SUBJ V,A1,PRESENT,Expressing hypotheses or inferences,1,2,0.5
+57,PresentSimpleNegative,SUBJ DO not V,A1,PRESENT,"Referring to present states, events and facts",2,2,1.0
+57,PresentSimpleNegative,SUBJ DO not V,A1,PRESENT,Expressing negation,2,2,1.0
+57,PresentSimpleNegative,SUBJ DO not V,A1,PRESENT,Referring to the acting or experiencing entity,1,2,0.5
+57,PresentSimpleNegative,SUBJ DO not V,A1,PRESENT,Referring to third-person subjects,1,2,0.5
+58,PresentSimpleWithReally,SUBJ really V,A1,PRESENT,"Referring to present states, events and facts",2,2,1.0
+58,PresentSimpleWithReally,SUBJ really V,A1,PRESENT,Expressing degree,2,2,1.0
+59,PronounInversionQuestions,(WH) AUX SUBJ V,A1,PRONOUNS,Requesting,2,2,1.0
+59,PronounInversionQuestions,(WH) AUX SUBJ V,A1,PRONOUNS,Referring to the acting or experiencing entity,1,2,0.5
+59,PronounInversionQuestions,(WH) AUX SUBJ V,A1,PRONOUNS,Referring to entities,1,2,0.5
+59,PronounInversionQuestions,(WH) AUX SUBJ V,A1,PRONOUNS,Referring to third-person subjects,1,2,0.5
+60,PronounObjectIt,V it,A1,PRONOUNS,Referring to entities,2,2,1.0
+60,PronounObjectIt,V it,A1,PRONOUNS,Referring to third-person subjects,1,2,0.5
+60,PronounObjectIt,V it,A1,PRONOUNS,Referring back to entities,1,2,0.5
+60,PronounObjectIt,V it,A1,PRONOUNS,Expressing quantity,1,2,0.5
+61,PronounObjectPersonal,(SUBJ) V PRON,A1,PRONOUNS,Referring to entities,2,2,1.0
+61,PronounObjectPersonal,(SUBJ) V PRON,A1,PRONOUNS,Referring to the affected entity,2,2,1.0
+62,PronounObjectWithPreposition,PREP PRON,A1,PRONOUNS,Referring to entities,2,2,1.0
+62,PronounObjectWithPreposition,PREP PRON,A1,PRONOUNS,Comparing within a set,2,2,1.0
+62,PronounObjectWithPreposition,PREP PRON,A1,PRONOUNS,Conveying meaning,2,2,1.0
+62,PronounObjectWithPreposition,PREP PRON,A1,PRONOUNS,Making statements,2,2,1.0
+62,PronounObjectWithPreposition,PREP PRON,A1,PRONOUNS,Describing,1,2,0.5
+63,PronounSubjectBeQuestions,(WH) BE SUBJ (COMP),A1,PRONOUNS,"Referring to the acting or experiencing entity, Asking for information",2,2,1.0
+63,PronounSubjectBeQuestions,(WH) BE SUBJ (COMP),A1,PRONOUNS,Referring to entities,1,2,0.5
+63,PronounSubjectBeQuestions,(WH) BE SUBJ (COMP),A1,PRONOUNS,Specifying information,1,2,0.5
+63,PronounSubjectBeQuestions,(WH) BE SUBJ (COMP),A1,PRONOUNS,Situating events in time,1,2,0.5
+63,PronounSubjectBeQuestions,(WH) BE SUBJ (COMP),A1,PRONOUNS,Situating entities in space,1,2,0.5
+64,PronounSubjectItForFirstPerson,it is me/N.PROP,A1,PRONOUNS,Referring to the acting or experiencing entity,1,2,0.5
+64,PronounSubjectItForFirstPerson,it is me/N.PROP,A1,PRONOUNS,Referring to entities,1,2,0.5
+64,PronounSubjectItForFirstPerson,it is me/N.PROP,A1,PRONOUNS,Referring back to entities,1,2,0.5
+65,PronounSubjectStatements,SUBJ V,A1,PRONOUNS,Referring to the acting or experiencing entity,2,2,1.0
+65,PronounSubjectStatements,SUBJ V,A1,PRONOUNS,Referring to self-directed actions,2,2,1.0
+65,PronounSubjectStatements,SUBJ V,A1,PRONOUNS,Referring to third-person subjects,2,2,1.0
+65,PronounSubjectStatements,SUBJ V,A1,PRONOUNS,Referring to entities,1,2,0.5
+66,ProperNoun,N.PROPER,A1,NOUNS,Referring to entities,2,2,1.0
+66,ProperNoun,N.PROPER,A1,NOUNS,Providing detail,1,2,0.5
+67,QuantifierWithPluralNoun,QUANT N.PL,A1,DETERMINERS,Expressing quantity,2,2,1.0
+68,QuantifierWithSingularNoun,QUANT N.SG,A1,DETERMINERS,Expressing quantity,2,2,1.0
+68,QuantifierWithSingularNoun,QUANT N.SG,A1,DETERMINERS,Referring to entities,2,2,1.0
+69,ReallyMidAdverb,SUBJ really V,A1,ADVERBS,Expressing degree,2,2,1.0
+69,ReallyMidAdverb,SUBJ really V,A1,ADVERBS,Expressing progression,1,2,0.5
+69,ReallyMidAdverb,SUBJ really V,A1,ADVERBS,Expressing wishes,1,2,0.5
+70,SentenceAndSentence,SENTENCE and SENTENCE,A1,CONJUNCTIONS,Framing or linking information,2,2,1.0
+70,SentenceAndSentence,SENTENCE and SENTENCE,A1,CONJUNCTIONS,Specifying information,1,2,0.5
+71,ThereAre,there are NP,A1,VERBS,Referring to entities,2,2,1.0
+71,ThereAre,there are NP,A1,VERBS,Expressing quantity,1,2,0.5
+72,ThereIs,there is NP,A1,VERBS,Referring to entities,2,2,1.0
+73,TimeEndAdverb,CLAUSE ADV.TIME,A1,ADVERBS,Situating events in time,2,2,1.0
+74,VerbInfinitiveForm,V to V.INF,A1,VERBS,"Referring to actions, events or states",1,2,0.5
+74,VerbInfinitiveForm,V to V.INF,A1,VERBS,"Referring to actions, states or relations",1,2,0.5
+75,LikePlusToOrIng,like V.INF / V-ing,A1,VERBS,Expressing preference,2,2,1.0
+75,LikePlusToOrIng,like V.INF / V-ing,A1,VERBS,"Referring to actions, events or states",1,2,0.5
+75,LikePlusToOrIng,like V.INF / V-ing,A1,VERBS,"Referring to actions, states or relations",1,2,0.5
+76,WouldLikeTo,would like to V.INF,A1,VERBS,Expressing preference,2,2,1.0
+76,WouldLikeTo,would like to V.INF,A1,VERBS,"Referring to actions, events or states",1,2,0.5
+76,WouldLikeTo,would like to V.INF,A1,VERBS,Other: making sugestions,1,2,0.5
+76,WouldLikeTo,would like to V.INF,A1,VERBS,"Referring to actions, states or relations",1,2,0.5
+77,VeryPlusAdjective,very ADJ,A1,ADVERBS,Describing,2,2,1.0
+77,VeryPlusAdjective,very ADJ,A1,ADVERBS,Expressing degree,2,2,1.0
+77,VeryPlusAdjective,very ADJ,A1,ADVERBS,Expressing ability,1,2,0.5
+77,VeryPlusAdjective,very ADJ,A1,ADVERBS,Expressing preference,1,2,0.5
+77,VeryPlusAdjective,very ADJ,A1,ADVERBS,Expressing probability,1,2,0.5
+78,VeryPlusAdverb,very ADV,A1,ADVERBS,Expressing degree,2,2,1.0
+78,VeryPlusAdverb,very ADV,A1,ADVERBS,Reporting information,1,2,0.5
+79,VeryTimePlusAdverb,very ADV.TIME,A1,ADVERBS,Describing,2,2,1.0
+79,VeryTimePlusAdverb,very ADV.TIME,A1,ADVERBS,Situating events in time,2,2,1.0
+79,VeryTimePlusAdverb,very ADV.TIME,A1,ADVERBS,Situating events or entities,2,2,1.0
+79,VeryTimePlusAdverb,very ADV.TIME,A1,ADVERBS,Expressing degree,1,2,0.5
+80,WordAndWord,WORD and WORD,A1,CONJUNCTIONS,Framing or linking information,2,2,1.0
+80,WordAndWord,WORD and WORD,A1,CONJUNCTIONS,Sequencing events,1,2,0.5
+80,WordAndWord,WORD and WORD,A1,CONJUNCTIONS,Situating events or entities,1,2,0.5
+80,WordAndWord,WORD and WORD,A1,CONJUNCTIONS,Situating entities in space,1,2,0.5
+80,WordAndWord,WORD and WORD,A1,CONJUNCTIONS,Situating events in time,1,2,0.5
+81,YesNoQuestionPlusModalVerb,V.MODAL SUBJ V,A1,QUESTIONS,Asking for information,2,2,1.0
+81,YesNoQuestionPlusModalVerb,V.MODAL SUBJ V,A1,QUESTIONS,Requesting,2,2,1.0
+82,AdjectiveButAdjective,ADJ but ADJ,A2,ADJECTIVES,Describing,2,2,1.0
+82,AdjectiveButAdjective,ADJ but ADJ,A2,ADJECTIVES,Making statements,2,2,1.0
+82,AdjectiveButAdjective,ADJ but ADJ,A2,ADJECTIVES,Expressing contrast,2,2,1.0
+82,AdjectiveButAdjective,ADJ but ADJ,A2,ADJECTIVES,Expressing beliefs and opinions,1,2,0.5
+83,AdjectivePlusPrepositionalComplement,ADJ PP,A2,ADJECTIVES,Describing,3,3,1.0
+83,AdjectivePlusPrepositionalComplement,ADJ PP,A2,ADJECTIVES,Referring to entities,1,3,0.3333333333333333
+84,AdverbPlusAdverb,ADV ADV,A2,ADVERBS,Expressing wishes,1,3,0.3333333333333333
+84,AdverbPlusAdverb,ADV ADV,A2,ADVERBS,Other: Description of habits,1,3,0.3333333333333333
+84,AdverbPlusAdverb,ADV ADV,A2,ADVERBS,Making offers and invitations,1,3,0.3333333333333333
+84,AdverbPlusAdverb,ADV ADV,A2,ADVERBS,Other: Expressing degree,1,3,0.3333333333333333
+84,AdverbPlusAdverb,ADV ADV,A2,ADVERBS,Other: Emphasizing,1,3,0.3333333333333333
+85,AffirmativeImperativeClause,V-BASE (OBJ|COMP) (PP|ADV),A2,CLAUSES,Giving directions or instructions,3,3,1.0
+85,AffirmativeImperativeClause,V-BASE (OBJ|COMP) (PP|ADV),A2,CLAUSES,Requesting,3,3,1.0
+85,AffirmativeImperativeClause,V-BASE (OBJ|COMP) (PP|ADV),A2,CLAUSES,Making suggestions,1,3,0.3333333333333333
+86,AlternativeQuestionsWithOr,WORD or WORD,A2,QUESTIONS,Comparing,1,3,0.3333333333333333
+86,AlternativeQuestionsWithOr,WORD or WORD,A2,QUESTIONS,Comparing within a set,1,3,0.3333333333333333
+86,AlternativeQuestionsWithOr,WORD or WORD,A2,QUESTIONS,Asking for confirmation,1,3,0.3333333333333333
+86,AlternativeQuestionsWithOr,WORD or WORD,A2,QUESTIONS,Asking for information,1,3,0.3333333333333333
+86,AlternativeQuestionsWithOr,WORD or WORD,A2,QUESTIONS,"Asking for information, Referring to additional or alternative entities",1,3,0.3333333333333333
+86,AlternativeQuestionsWithOr,WORD or WORD,A2,QUESTIONS,Other: Presenting alternatives,1,3,0.3333333333333333
+86,AlternativeQuestionsWithOr,WORD or WORD,A2,QUESTIONS,Other: Connecting words/phrases/clauses,1,3,0.3333333333333333
+87,AnyAsObject,VP … any,A2,PRONOUNS,Expressing quantity,2,3,0.6666666666666666
+87,AnyAsObject,VP … any,A2,PRONOUNS,Referring to entities,2,3,0.6666666666666666
+88,ArticleTheBeforeSuperlative,the ADJ.SUP,A2,DETERMINERS,Referring to the affected entity,2,3,0.6666666666666666
+88,ArticleTheBeforeSuperlative,the ADJ.SUP,A2,DETERMINERS,Referring to entities,1,3,0.3333333333333333
+88,ArticleTheBeforeSuperlative,the ADJ.SUP,A2,DETERMINERS,Referring to the acting or experiencing entity,1,3,0.3333333333333333
+88,ArticleTheBeforeSuperlative,the ADJ.SUP,A2,DETERMINERS,Referring to third-person subjects,1,3,0.3333333333333333
+88,ArticleTheBeforeSuperlative,the ADJ.SUP,A2,DETERMINERS,Reporting information,1,3,0.3333333333333333
+88,ArticleTheBeforeSuperlative,the ADJ.SUP,A2,DETERMINERS,Other: Comparing within a set,1,3,0.3333333333333333
+89,AttributiveComparativeBeforeNoun,ADJ.CMP NOUN,A2,ADJECTIVES,Comparing,3,3,1.0
+89,AttributiveComparativeBeforeNoun,ADJ.CMP NOUN,A2,ADJECTIVES,Comparing within a set,3,3,1.0
+89,AttributiveComparativeBeforeNoun,ADJ.CMP NOUN,A2,ADJECTIVES,Describing,1,3,0.3333333333333333
+89,AttributiveComparativeBeforeNoun,ADJ.CMP NOUN,A2,ADJECTIVES,Making statements,1,3,0.3333333333333333
+89,AttributiveComparativeBeforeNoun,ADJ.CMP NOUN,A2,ADJECTIVES,Conveying meaning,1,3,0.3333333333333333
+90,AuxiliaryVerbsHaveAndDo,AUX have/do V,A2,VERBS,"Referring to actions, events or states",1,3,0.3333333333333333
+90,AuxiliaryVerbsHaveAndDo,AUX have/do V,A2,VERBS,Making offers and invitations,1,3,0.3333333333333333
+90,AuxiliaryVerbsHaveAndDo,AUX have/do V,A2,VERBS,Making suggestions,1,3,0.3333333333333333
+90,AuxiliaryVerbsHaveAndDo,AUX have/do V,A2,VERBS,Providing detail,1,3,0.3333333333333333
+90,AuxiliaryVerbsHaveAndDo,AUX have/do V,A2,VERBS,Referring back to entities,1,3,0.3333333333333333
+90,AuxiliaryVerbsHaveAndDo,AUX have/do V,A2,VERBS,Other: Referring to past actions and events,1,3,0.3333333333333333
+90,AuxiliaryVerbsHaveAndDo,AUX have/do V,A2,VERBS,Other: Tense,1,3,0.3333333333333333
+91,BeLikeNoun,SUBJ BE like,A2,CLAUSES,Comparing,3,3,1.0
+91,BeLikeNoun,SUBJ BE like,A2,CLAUSES,Describing,2,3,0.6666666666666666
+92,BeSureClause,I am sure CLAUSE,A2,MODALITY,Expressing certainty,3,3,1.0
+92,BeSureClause,I am sure CLAUSE,A2,MODALITY,Specifying information,1,3,0.3333333333333333
+93,ComparativeAdjectiveWithEr,ADJ-er,A2,ADJECTIVES,Comparing,3,3,1.0
+93,ComparativeAdjectiveWithEr,ADJ-er,A2,ADJECTIVES,Describing,2,3,0.6666666666666666
+94,ComparativeAdjectiveWithThan,SADJ.CMP than,A2,ADJECTIVES,Comparing,3,3,1.0
+94,ComparativeAdjectiveWithThan,SADJ.CMP than,A2,ADJECTIVES,Describing,2,3,0.6666666666666666
+94,ComparativeAdjectiveWithThan,SADJ.CMP than,A2,ADJECTIVES,Referring to the affected entity,1,3,0.3333333333333333
+95,ConditionalIfPresentSimple,"if CLAUSE.PRES-SIMPLE , CLAUSE.MAIN",A2,CLAUSES,Expressing condition,3,3,1.0
+95,ConditionalIfPresentSimple,"if CLAUSE.PRES-SIMPLE , CLAUSE.MAIN",A2,CLAUSES,Making suggestions,2,3,0.6666666666666666
+96,ConditionalIfPresentImperative,"if CLAUSE.PRES-SIMPLE , IMPERATIVE",A2,CLAUSES,Expressing condition,3,3,1.0
+96,ConditionalIfPresentImperative,"if CLAUSE.PRES-SIMPLE , IMPERATIVE",A2,CLAUSES,Giving directions or instructions,2,3,0.6666666666666666
+97,ContainerQuantityPartitives,CONTAINER-N of NOUN,A2,NOUNS,Expressing quantity,3,3,1.0
+97,ContainerQuantityPartitives,CONTAINER-N of NOUN,A2,NOUNS,Referring to entities,1,3,0.3333333333333333
+98,DefiningRelativeClauseSubjectWho,NP who SUBJ=who V …,A2,CLAUSES,Referring to entities,3,3,1.0
+98,DefiningRelativeClauseSubjectWho,NP who SUBJ=who V …,A2,CLAUSES,Specifying,3,3,1.0
+98,DefiningRelativeClauseSubjectWho,NP who SUBJ=who V …,A2,CLAUSES,Describing,3,3,1.0
+98,DefiningRelativeClauseSubjectWho,NP who SUBJ=who V …,A2,CLAUSES,Other: Referring to persons,1,3,0.3333333333333333
+98,DefiningRelativeClauseSubjectWho,NP who SUBJ=who V …,A2,CLAUSES,Characterizing persons,1,3,0.3333333333333333
+98,DefiningRelativeClauseSubjectWho,NP who SUBJ=who V …,A2,CLAUSES,Other: Pointing to entities,1,3,0.3333333333333333
+99,DemonstrativePronounThat,that V (OBJ/COMP)/ SUBJ V this,A2,PRONOUNS,Referring to entities,2,3,0.6666666666666666
+99,DemonstrativePronounThat,that V (OBJ/COMP)/ SUBJ V this,A2,PRONOUNS,Other: See comments,1,3,0.3333333333333333
+99,DemonstrativePronounThat,that V (OBJ/COMP)/ SUBJ V this,A2,PRONOUNS,Other: Referring to third-person subjects and objects,1,3,0.3333333333333333
+100,DemonstrativePronounThis,this V (...)/ SUBJ V this,A2,PRONOUNS,Referring to entities,3,3,1.0
+100,DemonstrativePronounThis,this V (...)/ SUBJ V this,A2,PRONOUNS,Other: See comments,1,3,0.3333333333333333
+100,DemonstrativePronounThis,this V (...)/ SUBJ V this,A2,PRONOUNS,Other: Referring to third-person subjects and objects,1,3,0.3333333333333333
+101,DemonstrativeThat,that (N.SG | N.UNC),A2,DETERMINERS,Pointing to entities,3,3,1.0
+101,DemonstrativeThat,that (N.SG | N.UNC),A2,DETERMINERS,Referring to entities,3,3,1.0
+101,DemonstrativeThat,that (N.SG | N.UNC),A2,DETERMINERS,Specifying information,2,3,0.6666666666666666
+102,DemonstrativeThese,these N.PL,A2,DETERMINERS,Pointing to entities,3,3,1.0
+102,DemonstrativeThese,these N.PL,A2,DETERMINERS,Referring to entities,2,3,0.6666666666666666
+103,DemonstrativeThisWithUncountableNoun,this N.UNC,A2,DETERMINERS,Referring to entities,3,3,1.0
+103,DemonstrativeThisWithUncountableNoun,this N.UNC,A2,DETERMINERS,Pointing to entities,3,3,1.0
+104,DeterminerOfDeterminerPartitive,DET.Q of DET N,A2,DETERMINERS,Expressing quantity,2,3,0.6666666666666666
+104,DeterminerOfDeterminerPartitive,DET.Q of DET N,A2,DETERMINERS,Expressing possession,1,3,0.3333333333333333
+105,DoYouKnowIndirectQuestions,do you know wh/if SUBJ V,A2,PRESENT,Asking for information,3,3,1.0
+105,DoYouKnowIndirectQuestions,do you know wh/if SUBJ V,A2,PRESENT,Requesting,1,3,0.3333333333333333
+105,DoYouKnowIndirectQuestions,do you know wh/if SUBJ V,A2,PRESENT,Expressing politeness,1,3,0.3333333333333333
+106,EmptyItSubject,It is/ It's ADJ/V-ing,A2,PRONOUNS,Referring to impersonal events,3,3,1.0
+106,EmptyItSubject,It is/ It's ADJ/V-ing,A2,PRONOUNS,Making statements,3,3,1.0
+106,EmptyItSubject,It is/ It's ADJ/V-ing,A2,PRONOUNS,Conveying meaning,1,3,0.3333333333333333
+107,EndPositionDegreeAdverb,CLAUSE ADV,A2,ADVERBS,Expressing degree,3,3,1.0
+107,EndPositionDegreeAdverb,CLAUSE ADV,A2,ADVERBS,Other: expressing affection?,1,3,0.3333333333333333
+108,EndPositionMannerAdverb,CLAUSE ADV,A2,ADVERBS,Expressing manner,3,3,1.0
+109,EnjoyPlusVerbIng,enjoy V-ing,A2,VERBS,Expressing preference,3,3,1.0
+109,EnjoyPlusVerbIng,enjoy V-ing,A2,VERBS,"Referring to actions, events or states",1,3,0.3333333333333333
+110,FutureContinuousffirmative,SUBJ will be V-ING (OBJ/COMP),A2,FUTURE,Referring to future actions and events,3,3,1.0
+110,FutureContinuousffirmative,SUBJ will be V-ING (OBJ/COMP),A2,FUTURE,Expressing progression,2,3,0.6666666666666666
+110,FutureContinuousffirmative,SUBJ will be V-ING (OBJ/COMP),A2,FUTURE,Providing detail,1,3,0.3333333333333333
+110,FutureContinuousffirmative,SUBJ will be V-ING (OBJ/COMP),A2,FUTURE,Other: Expressing intent,1,3,0.3333333333333333
+111,FutureSimpleShallAffirmative,SUBJ shall V (OBJ/COMP),A2,FUTURE,Referring to future actions and events,2,3,0.6666666666666666
+111,FutureSimpleShallAffirmative,SUBJ shall V (OBJ/COMP),A2,FUTURE,Other: Making suggestions,1,3,0.3333333333333333
+111,FutureSimpleShallAffirmative,SUBJ shall V (OBJ/COMP),A2,FUTURE,Expressing politeness,1,3,0.3333333333333333
+111,FutureSimpleShallAffirmative,SUBJ shall V (OBJ/COMP),A2,FUTURE,Other: Expressing intent,1,3,0.3333333333333333
+112,FutureSimpleWillShallQuestions,Will/Shall SUBJ V (OBJ/COMP),A2,FUTURE,Referring to future actions and events,3,3,1.0
+112,FutureSimpleWillShallQuestions,Will/Shall SUBJ V (OBJ/COMP),A2,FUTURE,Asking for information,3,3,1.0
+113,FutureWillNegative,SUBJ will NEG V (OBJ/COMP),A2,FUTURE,Referring to future actions and events,3,3,1.0
+113,FutureWillNegative,SUBJ will NEG V (OBJ/COMP),A2,FUTURE,Expressing negation,3,3,1.0
+113,FutureWillNegative,SUBJ will NEG V (OBJ/COMP),A2,FUTURE,Other: communicate a refusal,1,3,0.3333333333333333
+114,GerundAsObjectNoun,SUBJ V(transitive) V-ING,A2,NOUNS,"Referring to actions, events or states",2,3,0.6666666666666666
+114,GerundAsObjectNoun,SUBJ V(transitive) V-ING,A2,NOUNS,Conveying meaning,1,3,0.3333333333333333
+114,GerundAsObjectNoun,SUBJ V(transitive) V-ING,A2,NOUNS,Other: Referring to actions,1,3,0.3333333333333333
+115,GoingToFutureAffirmative,SUBJ be going to V (OBJ/COMP),A2,FUTURE,Referring to future actions and events,3,3,1.0
+115,GoingToFutureAffirmative,SUBJ be going to V (OBJ/COMP),A2,FUTURE,Reporting information,1,3,0.3333333333333333
+115,GoingToFutureAffirmative,SUBJ be going to V (OBJ/COMP),A2,FUTURE,Other: Referring to future actions and events that will certainly happen (in contrast to will-future),1,3,0.3333333333333333
+115,GoingToFutureAffirmative,SUBJ be going to V (OBJ/COMP),A2,FUTURE,Other: Expressing intent,1,3,0.3333333333333333
+116,GoingToFutureQuestions,Be SUBJ going to V (OBJ/COMP),A2,FUTURE,Referring to future actions and events,3,3,1.0
+116,GoingToFutureQuestions,Be SUBJ going to V (OBJ/COMP),A2,FUTURE,Asking for information,3,3,1.0
+116,GoingToFutureQuestions,Be SUBJ going to V (OBJ/COMP),A2,FUTURE,Requesting,1,3,0.3333333333333333
+117,IndefinitePronounObjectComplement,V PRON.IND / PREP PRON.IND,A2,PRONOUNS,Referring to entities,3,3,1.0
+117,IndefinitePronounObjectComplement,V PRON.IND / PREP PRON.IND,A2,PRONOUNS,Other: Referring to an indefinite person or group,1,3,0.3333333333333333
+118,IndefinitePronounSubject,PRON.IND.SG V.SG,A2,PRONOUNS,Referring to entities,3,3,1.0
+118,IndefinitePronounSubject,PRON.IND.SG V.SG,A2,PRONOUNS,Referring to the acting or experiencing entity,1,3,0.3333333333333333
+118,IndefinitePronounSubject,PRON.IND.SG V.SG,A2,PRONOUNS,Other: Referring to an indefinite person or group,1,3,0.3333333333333333
+119,IndefinitePronounWithElse,PRON.IND + else,A2,PRONOUNS,Referring to additional or alternative entities,3,3,1.0
+119,IndefinitePronounWithElse,PRON.IND + else,A2,PRONOUNS,Referring to entities,2,3,0.6666666666666666
+119,IndefinitePronounWithElse,PRON.IND + else,A2,PRONOUNS,Specifying information,1,3,0.3333333333333333
+120,InterrogativeClauseWithBeOrHave,AUX[BE/HAVE] SUBJ (V-PastP|COMP),A2,CLAUSES,Asking for information,3,3,1.0
+121,InterrogativeClauseWithDo,AUX[DO] SUBJ V-BASE (OBJ|COMP),A2,CLAUSES,Asking for information,3,3,1.0
+122,InterrogativeClauseWithModalVerb,V.MODAL SUBJ V-BASE (OBJ|COMP),A2,CLAUSES,Asking for information,3,3,1.0
+122,InterrogativeClauseWithModalVerb,V.MODAL SUBJ V-BASE (OBJ|COMP),A2,CLAUSES,Other: Politeness,1,3,0.3333333333333333
+122,InterrogativeClauseWithModalVerb,V.MODAL SUBJ V-BASE (OBJ|COMP),A2,CLAUSES,"Other: Expressing politeness, requesting",1,3,0.3333333333333333
+123,IrregularPluralNouns,N.PL(irregular),A2,NOUNS,Expressing quantity,2,3,0.6666666666666666
+123,IrregularPluralNouns,N.PL(irregular),A2,NOUNS,Referring to entities,2,3,0.6666666666666666
+124,JustPreposition,just PREP,A2,PREPOSITIONS,Situating entities in space,3,3,1.0
+125,LinkingVerbPlusAdjectiveAsComplement,SUBJ V.LINKING ADJ,A2,VERBS,Describing,3,3,1.0
+126,LinkingVerbPlusComplement,SUBJ V.LINKING COMP,A2,VERBS,Conveying meaning,2,3,0.6666666666666666
+126,LinkingVerbPlusComplement,SUBJ V.LINKING COMP,A2,VERBS,Describing,2,3,0.6666666666666666
+126,LinkingVerbPlusComplement,SUBJ V.LINKING COMP,A2,VERBS,Making statements,1,3,0.3333333333333333
+127,ManyWithPluralNegative,NEG … many N.PL,A2,DETERMINERS,"Expressing quantity, Expressing negation",3,3,1.0
+128,MidPositionAdverb,SUBJ (AUX) ADV (AUX) VERB …,A2,ADVERBS,Specifying information,2,3,0.6666666666666666
+128,MidPositionAdverb,SUBJ (AUX) ADV (AUX) VERB …,A2,ADVERBS,Providing detail,2,3,0.6666666666666666
+129,ModalAdverbsClausePosition,"ADV.MODAL, CLAUSE",A2,MODALITY,Expressing probability,3,3,1.0
+129,ModalAdverbsClausePosition,"ADV.MODAL, CLAUSE",A2,MODALITY,Referring to past events with present relevance,1,3,0.3333333333333333
+130,ModalCouldAffirmative,SUBJ could V,A2,MODALITY,Expressing possibility,3,3,1.0
+130,ModalCouldAffirmative,SUBJ could V,A2,MODALITY,Expressing ability,2,3,0.6666666666666666
+130,ModalCouldAffirmative,SUBJ could V,A2,MODALITY,Referring to the acting or experiencing entity,1,3,0.3333333333333333
+131,ModalCouldNegative,SUBJ could not V,A2,MODALITY,Expressing negation,3,3,1.0
+131,ModalCouldNegative,SUBJ could not V,A2,MODALITY,Referring to past actions and events,2,3,0.6666666666666666
+131,ModalCouldNegative,SUBJ could not V,A2,MODALITY,Expressing ability,1,3,0.3333333333333333
+132,ModalCouldQuestions,(WH) could SUBJ V,A2,MODALITY,Expressing politeness,3,3,1.0
+132,ModalCouldQuestions,(WH) could SUBJ V,A2,MODALITY,Requesting,2,3,0.6666666666666666
+133,ModalHaveAffirmative,SUBJ have/has N/NP,A2,MODALITY,Expressing obligation or necessity,3,3,1.0
+133,ModalHaveAffirmative,SUBJ have/has N/NP,A2,MODALITY,Conveying meaning,1,3,0.3333333333333333
+134,ModalHaveNegative,SUBJ [do/does NEG have]/[haven't got to] V,A2,MODALITY,Expressing negation,3,3,1.0
+134,ModalHaveNegative,SUBJ [do/does NEG have]/[haven't got to] V,A2,MODALITY,Expressing obligation or necessity,2,3,0.6666666666666666
+135,ModalHaveQuestions,[Do/Does SUBJ have]/ [Have/has SUBJ got to] V,A2,MODALITY,Expressing obligation or necessity,3,3,1.0
+135,ModalHaveQuestions,[Do/Does SUBJ have]/ [Have/has SUBJ got to] V,A2,MODALITY,Asking for information,1,3,0.3333333333333333
+136,ModalMayAffirmative,SUBJ may V (OBJ/COMP),A2,MODALITY,Expressing probability,3,3,1.0
+136,ModalMayAffirmative,SUBJ may V (OBJ/COMP),A2,MODALITY,Making suggestions,2,3,0.6666666666666666
+136,ModalMayAffirmative,SUBJ may V (OBJ/COMP),A2,MODALITY,Providing detail,1,3,0.3333333333333333
+136,ModalMayAffirmative,SUBJ may V (OBJ/COMP),A2,MODALITY,"Referring to actions, events or states",1,3,0.3333333333333333
+137,ModalMightAffirmative,SUBJ might V (OBJ/COMP),A2,MODALITY,Expressing probability,3,3,1.0
+137,ModalMightAffirmative,SUBJ might V (OBJ/COMP),A2,MODALITY,Expressing beliefs and opinions,2,3,0.6666666666666666
+137,ModalMightAffirmative,SUBJ might V (OBJ/COMP),A2,MODALITY,Expressing condition,1,3,0.3333333333333333
+138,ModalMustAffirmative,SUBJ must V (OBJ/COMP),A2,MODALITY,Expressing obligation or necessity,3,3,1.0
+138,ModalMustAffirmative,SUBJ must V (OBJ/COMP),A2,MODALITY,Referring to self-directed actions,1,3,0.3333333333333333
+139,ModalMustNegative,SUBJ must NEG V (OBJ/COMP),A2,MODALITY,Expressing obligation or necessity,3,3,1.0
+139,ModalMustNegative,SUBJ must NEG V (OBJ/COMP),A2,MODALITY,Expressing negation,3,3,1.0
+140,ModalShallAffirmative,SUBJ shall V (OBJ/COMP),A2,MODALITY,Referring to future actions and events,3,3,1.0
+140,ModalShallAffirmative,SUBJ shall V (OBJ/COMP),A2,MODALITY,Expressing certainty,2,3,0.6666666666666666
+140,ModalShallAffirmative,SUBJ shall V (OBJ/COMP),A2,MODALITY,Expressing evaluation,1,3,0.3333333333333333
+141,ModalShallQuestions,Shall SUBJ V (OBJ/COMP),A2,MODALITY,Referring to future actions and events,3,3,1.0
+141,ModalShallQuestions,Shall SUBJ V (OBJ/COMP),A2,MODALITY,Asking for information,3,3,1.0
+142,ModalShouldAffirmative,SUBJ should V (OBJ/COMP),A2,MODALITY,Giving advice,3,3,1.0
+142,ModalShouldAffirmative,SUBJ should V (OBJ/COMP),A2,MODALITY,Making suggestions,3,3,1.0
+142,ModalShouldAffirmative,SUBJ should V (OBJ/COMP),A2,MODALITY,Giving directions or instructions,1,3,0.3333333333333333
+142,ModalShouldAffirmative,SUBJ should V (OBJ/COMP),A2,MODALITY,Expressing obligation or necessity,1,3,0.3333333333333333
+142,ModalShouldAffirmative,SUBJ should V (OBJ/COMP),A2,MODALITY,Expressing beliefs and opinions,1,3,0.3333333333333333
+143,ModalShouldNegative,SUBJ should V (OBJ/COMP),A2,MODALITY,Giving advice,3,3,1.0
+143,ModalShouldNegative,SUBJ should V (OBJ/COMP),A2,MODALITY,Expressing negation,2,3,0.6666666666666666
+143,ModalShouldNegative,SUBJ should V (OBJ/COMP),A2,MODALITY,Expressing obligation or necessity,1,3,0.3333333333333333
+144,ModalShouldQuestions,Should SUBJ V (OBJ/COMP),A2,MODALITY,Asking for advice,3,3,1.0
+144,ModalShouldQuestions,Should SUBJ V (OBJ/COMP),A2,MODALITY,Expressing politeness,3,3,1.0
+144,ModalShouldQuestions,Should SUBJ V (OBJ/COMP),A2,MODALITY,Expressing possibility,1,3,0.3333333333333333
+145,ModalWillNegative,SUBJ will NEG V (OBJ/COMP),A2,MODALITY,Referring to future actions and events,3,3,1.0
+145,ModalWillNegative,SUBJ will NEG V (OBJ/COMP),A2,MODALITY,Expressing negation,3,3,1.0
+146,ModalWillQuestions,Will SUBJ V (OBJ/COMP),A2,MODALITY,Referring to future actions and events,3,3,1.0
+146,ModalWillQuestions,Will SUBJ V (OBJ/COMP),A2,MODALITY,Asking for information,3,3,1.0
+146,ModalWillQuestions,Will SUBJ V (OBJ/COMP),A2,MODALITY,Making offers and invitations,1,3,0.3333333333333333
+146,ModalWillQuestions,Will SUBJ V (OBJ/COMP),A2,MODALITY,Giving advice,1,3,0.3333333333333333
+147,ModalWouldAffirmative,SUBJ would V (OBJ/COMP),A2,MODALITY,Expressing hypotheses or inferences,3,3,1.0
+147,ModalWouldAffirmative,SUBJ would V (OBJ/COMP),A2,MODALITY,Expressing preference,2,3,0.6666666666666666
+147,ModalWouldAffirmative,SUBJ would V (OBJ/COMP),A2,MODALITY,Expressing probability,1,3,0.3333333333333333
+147,ModalWouldAffirmative,SUBJ would V (OBJ/COMP),A2,MODALITY,Other: Expressing politeness,1,3,0.3333333333333333
+148,ModalWouldNegative,SUBJ would NEG V (OBJ/COMP),A2,MODALITY,Expressing hypotheses or inferences,3,3,1.0
+148,ModalWouldNegative,SUBJ would NEG V (OBJ/COMP),A2,MODALITY,Expressing negation,3,3,1.0
+149,MuchWithUncountableNegative,CLAUSE.NEG … much N.UNC,A2,DETERMINERS,"Expressing quantity, Expressing negation",3,3,1.0
+149,MuchWithUncountableNegative,CLAUSE.NEG … much N.UNC,A2,DETERMINERS,Pointing to entities,1,3,0.3333333333333333
+150,NegativeDeclarativeClauseWithModalVerb,SUBJ V.MODAL NEG V-BASE (OBJ|COMP),A2,CLAUSES,Making statements,3,3,1.0
+150,NegativeDeclarativeClauseWithModalVerb,SUBJ V.MODAL NEG V-BASE (OBJ|COMP),A2,CLAUSES,Expressing negation,2,3,0.6666666666666666
+151,NegationBeOrHavePresent,SUBJ BE/HAVE not V/COMP,A2,NEGATION,Expressing negation,3,3,1.0
+151,NegationBeOrHavePresent,SUBJ BE/HAVE not V/COMP,A2,NEGATION,Specifying information,1,3,0.3333333333333333
+151,NegationBeOrHavePresent,SUBJ BE/HAVE not V/COMP,A2,NEGATION,Pointing to entities,1,3,0.3333333333333333
+152,NegationDoPast,SUBJ did not/didn't V,A2,NEGATION,Referring to past actions and events,3,3,1.0
+152,NegationDoPast,SUBJ did not/didn't V,A2,NEGATION,Expressing negation,3,3,1.0
+152,NegationDoPast,SUBJ did not/didn't V,A2,NEGATION,Expressing frequency,1,3,0.3333333333333333
+153,NegationImperativeWithDo,Do not/Don't V,A2,NEGATION,Giving directions or instructions,3,3,1.0
+153,NegationImperativeWithDo,Do not/Don't V,A2,NEGATION,Expressing negation,2,3,0.6666666666666666
+153,NegationImperativeWithDo,Do not/Don't V,A2,NEGATION,Referring to the affected entity,1,3,0.3333333333333333
+154,NegationWithAnyMuchOrMany,SUBJ AUX not V any/much/many NP,A2,NEGATION,Referring to entities,3,3,1.0
+154,NegationWithAnyMuchOrMany,SUBJ AUX not V any/much/many NP,A2,NEGATION,Expressing negation,2,3,0.6666666666666666
+154,NegationWithAnyMuchOrMany,SUBJ AUX not V any/much/many NP,A2,NEGATION,Expressing quantity,2,3,0.6666666666666666
+155,NegationWithModals,SUBJ V.MODAL not V,A2,NEGATION,Expressing negation,3,3,1.0
+155,NegationWithModals,SUBJ V.MODAL not V,A2,NEGATION,"Referring to actions, events or states",3,3,1.0
+155,NegationWithModals,SUBJ V.MODAL not V,A2,NEGATION,Referring back to entities,1,3,0.3333333333333333
+156,NegationWithNoDeterminer,no N,A2,NEGATION,Referring to entities,2,3,0.6666666666666666
+156,NegationWithNoDeterminer,no N,A2,NEGATION,Expressing negation,2,3,0.6666666666666666
+156,NegationWithNoDeterminer,no N,A2,NEGATION,Referring to the affected entity,1,3,0.3333333333333333
+156,NegationWithNoDeterminer,no N,A2,NEGATION,Reporting information,1,3,0.3333333333333333
+157,NegativeImperative,do not / don't V-BASE (OBJ|COMP) (PP|ADV),A2,CLAUSES,Giving directions or instructions,3,3,1.0
+157,NegativeImperative,do not / don't V-BASE (OBJ|COMP) (PP|ADV),A2,CLAUSES,Expressing negation,1,3,0.3333333333333333
+157,NegativeImperative,do not / don't V-BASE (OBJ|COMP) (PP|ADV),A2,CLAUSES,Requesting,1,3,0.3333333333333333
+158,NegativeInterrogativeClause,AUX[BE/HAVE/DO|V.MODAL] NEG SUBJ V-BASE/(V-PastP) (OBJ|COMP),A2,CLAUSES,Asking for confirmation,3,3,1.0
+158,NegativeInterrogativeClause,AUX[BE/HAVE/DO|V.MODAL] NEG SUBJ V-BASE/(V-PastP) (OBJ|COMP),A2,CLAUSES,Asking for information,1,3,0.3333333333333333
+159,NegativePlusAnythingPronoun,SUBJ AUX not V anything,A2,PRONOUNS,Expressing negation,3,3,1.0
+159,NegativePlusAnythingPronoun,SUBJ AUX not V anything,A2,PRONOUNS,Referring to entities,3,3,1.0
+160,NegativeWhInterrogativeClause,WH AUX[BE/HAVE/DO|V.MODAL] NEG SUBJ V-BASE/(V-PastP) (OBJ),A2,CLAUSES,Asking for information,3,3,1.0
+161,NonDefiningRelativeClauseWithSubjectWho,"NP, who SUBJ=who V …",A2,CLAUSES,Describing,3,3,1.0
+161,NonDefiningRelativeClauseWithSubjectWho,"NP, who SUBJ=who V …",A2,CLAUSES,Providing detail,2,3,0.6666666666666666
+161,NonDefiningRelativeClauseWithSubjectWho,"NP, who SUBJ=who V …",A2,CLAUSES,Other: Referring to entities,1,3,0.3333333333333333
+161,NonDefiningRelativeClauseWithSubjectWho,"NP, who SUBJ=who V …",A2,CLAUSES,Making statements,1,3,0.3333333333333333
+162,NounPhraseDeterminerNoun,DET (N.SG | N.PL),A2,NOUNS,Providing detail,2,3,0.6666666666666666
+162,NounPhraseDeterminerNoun,DET (N.SG | N.PL),A2,NOUNS,Referring to entities,2,3,0.6666666666666666
+162,NounPhraseDeterminerNoun,DET (N.SG | N.PL),A2,NOUNS,Referring back to entities,1,3,0.3333333333333333
+163,DeterminerWithUncountableNoun,DET N.UNC,A2,NOUNS,Referring to entities,2,3,0.6666666666666666
+163,DeterminerWithUncountableNoun,DET N.UNC,A2,NOUNS,Referring to the affected entity,1,3,0.3333333333333333
+163,DeterminerWithUncountableNoun,DET N.UNC,A2,NOUNS,Referring to third-person subjects,1,3,0.3333333333333333
+163,DeterminerWithUncountableNoun,DET N.UNC,A2,NOUNS,Referring to the acting or experiencing entity,1,3,0.3333333333333333
+164,NounPhrasePossessiveApostropheS,N.SG 's N,A2,NOUNS,Expressing possession,3,3,1.0
+165,NounPhraseWithAdjectives,DET (ADJ) N,A2,NOUNS,Describing,3,3,1.0
+165,NounPhraseWithAdjectives,DET (ADJ) N,A2,NOUNS,Situating events or entities,1,3,0.3333333333333333
+165,NounPhraseWithAdjectives,DET (ADJ) N,A2,NOUNS,Sequencing events,1,3,0.3333333333333333
+165,NounPhraseWithAdjectives,DET (ADJ) N,A2,NOUNS,Situating entities in space,1,3,0.3333333333333333
+165,NounPhraseWithAdjectives,DET (ADJ) N,A2,NOUNS,Situating events in time,1,3,0.3333333333333333
+166,NounPhraseWithRelativeComplement,N(complement-taking) (that/whether/wh-) CLAUSE,A2,NOUNS,Specifying,3,3,1.0
+166,NounPhraseWithRelativeComplement,N(complement-taking) (that/whether/wh-) CLAUSE,A2,NOUNS,Referring to entities,2,3,0.6666666666666666
+166,NounPhraseWithRelativeComplement,N(complement-taking) (that/whether/wh-) CLAUSE,A2,NOUNS,Expressing negation,1,3,0.3333333333333333
+166,NounPhraseWithRelativeComplement,N(complement-taking) (that/whether/wh-) CLAUSE,A2,NOUNS,Expressing manner,1,3,0.3333333333333333
+167,NounPhraseWithRelativePostmodifier,NP CLAUSE.REL = [DET (ADJ)+ NOUN] (REL SUBJ V … | SUBJ V … ØOBJ),A2,NOUNS,Providing detail,3,3,1.0
+167,NounPhraseWithRelativePostmodifier,NP CLAUSE.REL = [DET (ADJ)+ NOUN] (REL SUBJ V … | SUBJ V … ØOBJ),A2,NOUNS,Describing,3,3,1.0
+167,NounPhraseWithRelativePostmodifier,NP CLAUSE.REL = [DET (ADJ)+ NOUN] (REL SUBJ V … | SUBJ V … ØOBJ),A2,NOUNS,Expressing degree,2,3,0.6666666666666666
+167,NounPhraseWithRelativePostmodifier,NP CLAUSE.REL = [DET (ADJ)+ NOUN] (REL SUBJ V … | SUBJ V … ØOBJ),A2,NOUNS,Expressing evaluation,2,3,0.6666666666666666
+168,OneSubstitutionPronoun,DET (ADJ) one,A2,PRONOUNS,Referring back to entities,3,3,1.0
+168,OneSubstitutionPronoun,DET (ADJ) one,A2,PRONOUNS,Referring to entities,2,3,0.6666666666666666
+168,OneSubstitutionPronoun,DET (ADJ) one,A2,PRONOUNS,Requesting,1,3,0.3333333333333333
+168,OneSubstitutionPronoun,DET (ADJ) one,A2,PRONOUNS,Referring to third-person subjects,1,3,0.3333333333333333
+168,OneSubstitutionPronoun,DET (ADJ) one,A2,PRONOUNS,Reporting information,1,3,0.3333333333333333
+169,OneSyllableSuperlativeWithEst,ADJ-est,A2,ADJECTIVES,Comparing within a set,3,3,1.0
+169,OneSyllableSuperlativeWithEst,ADJ-est,A2,ADJECTIVES,Describing,2,3,0.6666666666666666
+169,OneSyllableSuperlativeWithEst,ADJ-est,A2,ADJECTIVES,Giving directions or instructions,1,3,0.3333333333333333
+169,OneSyllableSuperlativeWithEst,ADJ-est,A2,ADJECTIVES,Making suggestions,1,3,0.3333333333333333
+170,PassivePastSimpleAffirmative,SUBJ was/were V-PastP (by AGENT),A2,PASSIVES,Referring to past actions and events,3,3,1.0
+170,PassivePastSimpleAffirmative,SUBJ was/were V-PastP (by AGENT),A2,PASSIVES,Referring to the affected entity,2,3,0.6666666666666666
+170,PassivePastSimpleAffirmative,SUBJ was/were V-PastP (by AGENT),A2,PASSIVES,Emphasizing the affected entity,1,3,0.3333333333333333
+170,PassivePastSimpleAffirmative,SUBJ was/were V-PastP (by AGENT),A2,PASSIVES,Reporting information,1,3,0.3333333333333333
+171,PassivePresentSimpleAffirmative,SUBJ is/are V-PastP (by AGENT),A2,PASSIVES,"Referring to present states, events and facts",3,3,1.0
+171,PassivePresentSimpleAffirmative,SUBJ is/are V-PastP (by AGENT),A2,PASSIVES,Emphasizing the affected entity,2,3,0.6666666666666666
+172,PastContinuousAffirmative,SUBJ was/were V-ING (OBJ/COMP),A2,PAST,Referring to past actions and events,3,3,1.0
+172,PastContinuousAffirmative,SUBJ was/were V-ING (OBJ/COMP),A2,PAST,Expressing progression,3,3,1.0
+172,PastContinuousAffirmative,SUBJ was/were V-ING (OBJ/COMP),A2,PAST,Expressing frequency,2,3,0.6666666666666666
+173,PastContinuousWithAdverbs,"(ADV,) SUBJ was/were ADV V-ING (OBJ/COMP) (ADV)",A2,PAST,Referring to past actions and events,3,3,1.0
+173,PastContinuousWithAdverbs,"(ADV,) SUBJ was/were ADV V-ING (OBJ/COMP) (ADV)",A2,PAST,Expressing progression,3,3,1.0
+173,PastContinuousWithAdverbs,"(ADV,) SUBJ was/were ADV V-ING (OBJ/COMP) (ADV)",A2,PAST,Providing detail,1,3,0.3333333333333333
+174,PastSimpleAffirmative,SUBJ V-ed / V.PAST(irregular) (OBJ/COMP),A2,PAST,Referring to past actions and events,3,3,1.0
+174,PastSimpleAffirmative,SUBJ V-ed / V.PAST(irregular) (OBJ/COMP),A2,PAST,Referring to the acting or experiencing entity,2,3,0.6666666666666666
+174,PastSimpleAffirmative,SUBJ V-ed / V.PAST(irregular) (OBJ/COMP),A2,PAST,Referring to the affected entity,2,3,0.6666666666666666
+174,PastSimpleAffirmative,SUBJ V-ed / V.PAST(irregular) (OBJ/COMP),A2,PAST,Referring to third-person subjects,2,3,0.6666666666666666
+174,PastSimpleAffirmative,SUBJ V-ed / V.PAST(irregular) (OBJ/COMP),A2,PAST,Reporting information,1,3,0.3333333333333333
+175,PastSimpleNegative,SUBJ did not/didn't V (OBJ/COMP),A2,PAST,Referring to past actions and events,3,3,1.0
+175,PastSimpleNegative,SUBJ did not/didn't V (OBJ/COMP),A2,PAST,Expressing negation,3,3,1.0
+175,PastSimpleNegative,SUBJ did not/didn't V (OBJ/COMP),A2,PAST,Conveying meaning,2,3,0.6666666666666666
+175,PastSimpleNegative,SUBJ did not/didn't V (OBJ/COMP),A2,PAST,Making statements,2,3,0.6666666666666666
+175,PastSimpleNegative,SUBJ did not/didn't V (OBJ/COMP),A2,PAST,Describing,2,3,0.6666666666666666
+176,PastSimpleQuestions,Did SUBJ V (OBJ/COMP),A2,PAST,Referring to past actions and events,3,3,1.0
+176,PastSimpleQuestions,Did SUBJ V (OBJ/COMP),A2,PAST,Asking for information,3,3,1.0
+176,PastSimpleQuestions,Did SUBJ V (OBJ/COMP),A2,PAST,Expressing quantity,1,3,0.3333333333333333
+177,PastSimpleWithWhenClause,"When SUBJ V.PAST … , CLAUSE.MAIN(V.PAST)",A2,PAST,Referring to past actions and events,3,3,1.0
+177,PastSimpleWithWhenClause,"When SUBJ V.PAST … , CLAUSE.MAIN(V.PAST)",A2,PAST,Sequencing events,3,3,1.0
+177,PastSimpleWithWhenClause,"When SUBJ V.PAST … , CLAUSE.MAIN(V.PAST)",A2,PAST,Comparing,1,3,0.3333333333333333
+178,PeriphrasticSuperlativeWithMost,the most ADJ,A2,ADJECTIVES,Comparing within a set,3,3,1.0
+178,PeriphrasticSuperlativeWithMost,the most ADJ,A2,ADJECTIVES,Describing,3,3,1.0
+178,PeriphrasticSuperlativeWithMost,the most ADJ,A2,ADJECTIVES,Referring to present states events and facts,3,3,1.0
+178,PeriphrasticSuperlativeWithMost,the most ADJ,A2,ADJECTIVES,Referring to self,1,3,0.3333333333333333
+179,PhrasalVerbIntransitive,V-PARTICLE,A2,VERBS,"Referring to actions, events or states",3,3,1.0
+180,PhrasalVerbPronounParticle,V PRON PARTICLE,A2,VERBS,"Referring to actions, events or states",3,3,1.0
+180,PhrasalVerbPronounParticle,V PRON PARTICLE,A2,VERBS,Asking for confirmation,2,3,0.6666666666666666
+181,PluralEsNouns,N-es,A2,NOUNS,Referring to entities,3,3,1.0
+181,PluralEsNouns,N-es,A2,NOUNS,Expressing quantity,3,3,1.0
+182,PluralOnlyNouns,N.PL,A2,NOUNS,Referring to entities,3,3,1.0
+182,PluralOnlyNouns,N.PL,A2,NOUNS,Expressing quantity,3,3,1.0
+182,PluralOnlyNouns,N.PL,A2,NOUNS,Expressing negation,1,3,0.3333333333333333
+183,PossessiveGenitiveApostropheS,N.SG 's N,A2,DETERMINERS,Expressing possession,3,3,1.0
+183,PossessiveGenitiveApostropheS,N.SG 's N,A2,DETERMINERS,Specifying information,3,3,1.0
+183,PossessiveGenitiveApostropheS,N.SG 's N,A2,DETERMINERS,Pointing to entities,3,3,1.0
+184,PossessiveOfMine,NP of mine,A2,PRONOUNS,Referring to entities,3,3,1.0
+184,PossessiveOfMine,NP of mine,A2,PRONOUNS,Expressing possession,3,3,1.0
+184,PossessiveOfMine,NP of mine,A2,PRONOUNS,Referring to the acting or experiencing entity,3,3,1.0
+184,PossessiveOfMine,NP of mine,A2,PRONOUNS,Referring to third-person subjects,1,3,0.3333333333333333
+185,PossessivePronounMine,mine,A2,PRONOUNS,Expressing possession,3,3,1.0
+185,PossessivePronounMine,mine,A2,PRONOUNS,Referring back to entities,2,3,0.6666666666666666
+185,PossessivePronounMine,mine,A2,PRONOUNS,Referring to entities,2,3,0.6666666666666666
+185,PossessivePronounMine,mine,A2,PRONOUNS,Emphasizing the affected entity,1,3,0.3333333333333333
+186,PossessivePronounYoursObject,SUBJ be yours / V yours / PREP/ yours,A2,PRONOUNS,Expressing possession,3,3,1.0
+186,PossessivePronounYoursObject,SUBJ be yours / V yours / PREP/ yours,A2,PRONOUNS,Referring back to entities,2,3,0.6666666666666666
+186,PossessivePronounYoursObject,SUBJ be yours / V yours / PREP/ yours,A2,PRONOUNS,Referring to entities,2,3,0.6666666666666666
+186,PossessivePronounYoursObject,SUBJ be yours / V yours / PREP/ yours,A2,PRONOUNS,Framing or linking information,1,3,0.3333333333333333
+187,PossessiveSuperlativeNoun,DET.POSS ADJ.SUP NOUN,A2,ADJECTIVES,Describing,3,3,1.0
+187,PossessiveSuperlativeNoun,DET.POSS ADJ.SUP NOUN,A2,ADJECTIVES,Comparing within a set,3,3,1.0
+187,PossessiveSuperlativeNoun,DET.POSS ADJ.SUP NOUN,A2,ADJECTIVES,Expressing possession,2,3,0.6666666666666666
+188,PredicativeAdjectiveWithLinkingVerb,SUBJ V.LINKING ADJ,A2,ADJECTIVES,Describing,3,3,1.0
+188,PredicativeAdjectiveWithLinkingVerb,SUBJ V.LINKING ADJ,A2,ADJECTIVES,Expressing manner,2,3,0.6666666666666666
+188,PredicativeAdjectiveWithLinkingVerb,SUBJ V.LINKING ADJ,A2,ADJECTIVES,Expressing negation,1,3,0.3333333333333333
+189,PredicativeComparativeWithBe,SUBJ be ADJ.CMP,A2,ADJECTIVES,Describing,3,3,1.0
+189,PredicativeComparativeWithBe,SUBJ be ADJ.CMP,A2,ADJECTIVES,Comparing,3,3,1.0
+189,PredicativeComparativeWithBe,SUBJ be ADJ.CMP,A2,ADJECTIVES,Expressing manner,1,3,0.3333333333333333
+189,PredicativeComparativeWithBe,SUBJ be ADJ.CMP,A2,ADJECTIVES,Expressing politeness,1,3,0.3333333333333333
+190,PremodifiedOneOnes,DET ADJ one,A2,PRONOUNS,Referring to entities,3,3,1.0
+190,PremodifiedOneOnes,DET ADJ one,A2,PRONOUNS,Describing,3,3,1.0
+190,PremodifiedOneOnes,DET ADJ one,A2,PRONOUNS,Referring back to entities,2,3,0.6666666666666666
+190,PremodifiedOneOnes,DET ADJ one,A2,PRONOUNS,Giving directions or instructions,1,3,0.3333333333333333
+191,PrepositionComplex,PREP.C,A2,PREPOSITIONS,Situating entities in space,3,3,1.0
+191,PrepositionComplex,PREP.C,A2,PREPOSITIONS,Conveying meaning,2,3,0.6666666666666666
+191,PrepositionComplex,PREP.C,A2,PREPOSITIONS,Making statements,2,3,0.6666666666666666
+191,PrepositionComplex,PREP.C,A2,PREPOSITIONS,Describing,2,3,0.6666666666666666
+191,PrepositionComplex,PREP.C,A2,PREPOSITIONS,Situating events in time,1,3,0.3333333333333333
+192,PrepositionGerund,PREP V-ing,A2,PREPOSITIONS,"Referring to actions, events or states",3,3,1.0
+192,PrepositionGerund,PREP V-ing,A2,PREPOSITIONS,Referring to impersonal events,2,3,0.6666666666666666
+192,PrepositionGerund,PREP V-ing,A2,PREPOSITIONS,Referring to present states events and facts,1,3,0.3333333333333333
+193,PrepositionSimple,PREP.S,A2,PREPOSITIONS,Situating events in time,3,3,1.0
+193,PrepositionSimple,PREP.S,A2,PREPOSITIONS,Referring to present states events and facts,3,3,1.0
+193,PrepositionSimple,PREP.S,A2,PREPOSITIONS,Situating entities in space,1,3,0.3333333333333333
+193,PrepositionSimple,PREP.S,A2,PREPOSITIONS,Referring to self,1,3,0.3333333333333333
+194,PrepositionStranding,wh V SUBJ PREP,A2,PREPOSITIONS,"Referring to actions, events or states",3,3,1.0
+194,PrepositionStranding,wh V SUBJ PREP,A2,PREPOSITIONS,Asking for information,3,3,1.0
+195,PresentContinuousNegative,SUBJ be NEG V-ing (OBJ/COMP),A2,PRESENT,"Referring to present states, events and facts",3,3,1.0
+195,PresentContinuousNegative,SUBJ be NEG V-ing (OBJ/COMP),A2,PRESENT,Expressing progression,2,3,0.6666666666666666
+195,PresentContinuousNegative,SUBJ be NEG V-ing (OBJ/COMP),A2,PRESENT,Expressing negation,2,3,0.6666666666666666
+195,PresentContinuousNegative,SUBJ be NEG V-ing (OBJ/COMP),A2,PRESENT,Expressing ability,1,3,0.3333333333333333
+196,PresentContinuousQuestions,(WH) BE SUBJ V-ing (OBJ/COMP),A2,PRESENT,Asking for information,3,3,1.0
+196,PresentContinuousQuestions,(WH) BE SUBJ V-ing (OBJ/COMP),A2,PRESENT,"Referring to present states, events and facts",3,3,1.0
+196,PresentContinuousQuestions,(WH) BE SUBJ V-ing (OBJ/COMP),A2,PRESENT,Expressing progression,1,3,0.3333333333333333
+197,PresentPerfectAffirmative,SUBJ have/has V-PastP (OBJ/PP),A2,PAST,Referring to past events with present relevance,3,3,1.0
+197,PresentPerfectAffirmative,SUBJ have/has V-PastP (OBJ/PP),A2,PAST,Emphasizing the affected entity,1,3,0.3333333333333333
+198,PresentPerfectNegative,SUBJ have/has not (haven't/hasn't) V-PastP (OBJ/PP),A2,PAST,Referring to past events with present relevance,3,3,1.0
+198,PresentPerfectNegative,SUBJ have/has not (haven't/hasn't) V-PastP (OBJ/PP),A2,PAST,Expressing negation,3,3,1.0
+198,PresentPerfectNegative,SUBJ have/has not (haven't/hasn't) V-PastP (OBJ/PP),A2,PAST,Providing detail,1,3,0.3333333333333333
+199,PresentPerfectQuestions,Have/Has SUBJ V-PastP (OBJ/PP),A2,PAST,Asking for information,3,3,1.0
+199,PresentPerfectQuestions,Have/Has SUBJ V-PastP (OBJ/PP),A2,PAST,Referring to past events with present relevance,2,3,0.6666666666666666
+199,PresentPerfectQuestions,Have/Has SUBJ V-PastP (OBJ/PP),A2,PAST,Emphasizing the affected entity,1,3,0.3333333333333333
+200,PresentPerfectWithAdverbs,SUBJ have/has ADV.PERF V-PastP (OBJ/PP),A2,PAST,Referring to past events with present relevance,3,3,1.0
+200,PresentPerfectWithAdverbs,SUBJ have/has ADV.PERF V-PastP (OBJ/PP),A2,PAST,Situating events in time,2,3,0.6666666666666666
+200,PresentPerfectWithAdverbs,SUBJ have/has ADV.PERF V-PastP (OBJ/PP),A2,PAST,Referring to self,2,3,0.6666666666666666
+201,PresentSimpleFutureWhenClause,"When SUBJ PRES.SIMPLE … , CLAUSE.MAIN(FUTURE/EVENT) **",A2,FUTURE,Referring to future actions and events,3,3,1.0
+201,PresentSimpleFutureWhenClause,"When SUBJ PRES.SIMPLE … , CLAUSE.MAIN(FUTURE/EVENT) **",A2,FUTURE,Referring to third-person subjects,2,3,0.6666666666666666
+201,PresentSimpleFutureWhenClause,"When SUBJ PRES.SIMPLE … , CLAUSE.MAIN(FUTURE/EVENT) **",A2,FUTURE,Requesting,1,3,0.3333333333333333
+202,PresentSimpleQuestions,Do/Does SUBJ V (OBJ/COMP),A2,PRESENT,"Referring to present states, events and facts",3,3,1.0
+202,PresentSimpleQuestions,Do/Does SUBJ V (OBJ/COMP),A2,PRESENT,Asking for information,3,3,1.0
+202,PresentSimpleQuestions,Do/Does SUBJ V (OBJ/COMP),A2,PRESENT,Situating entities in space,1,3,0.3333333333333333
+202,PresentSimpleQuestions,Do/Does SUBJ V (OBJ/COMP),A2,PRESENT,Situating events or entities,1,3,0.3333333333333333
+203,PresentSimpleWithIndefiniteFrequencyAdverbs,SUBJ ADV.FREQ V  (OBJ/COMP),A2,PRESENT,Expressing frequency,3,3,1.0
+203,PresentSimpleWithIndefiniteFrequencyAdverbs,SUBJ ADV.FREQ V  (OBJ/COMP),A2,PRESENT,Referring to the acting or experiencing entity,3,3,1.0
+203,PresentSimpleWithIndefiniteFrequencyAdverbs,SUBJ ADV.FREQ V  (OBJ/COMP),A2,PRESENT,"Referring to present states, events and facts",3,3,1.0
+203,PresentSimpleWithIndefiniteFrequencyAdverbs,SUBJ ADV.FREQ V  (OBJ/COMP),A2,PRESENT,Referring to third-person subjects,2,3,0.6666666666666666
+203,PresentSimpleWithIndefiniteFrequencyAdverbs,SUBJ ADV.FREQ V  (OBJ/COMP),A2,PRESENT,Referring to the affected entity,1,3,0.3333333333333333
+204,QuantifierOfDeterminer,DET.Q of N (N.PL | N.UNC),A2,DETERMINERS,Expressing quantity,3,3,1.0
+204,QuantifierOfDeterminer,DET.Q of N (N.PL | N.UNC),A2,DETERMINERS,Making suggestions,2,3,0.6666666666666666
+204,QuantifierOfDeterminer,DET.Q of N (N.PL | N.UNC),A2,DETERMINERS,Providing detail,2,3,0.6666666666666666
+204,QuantifierOfDeterminer,DET.Q of N (N.PL | N.UNC),A2,DETERMINERS,"Referring to actions, events or states",1,3,0.3333333333333333
+204,QuantifierOfDeterminer,DET.Q of N (N.PL | N.UNC),A2,DETERMINERS,Referring back to entities,1,3,0.3333333333333333
+205,QuantifierOfObjectPronoun,(all | both) of OBJ.PRON,A2,PRONOUNS,Referring to entities,3,3,1.0
+205,QuantifierOfObjectPronoun,(all | both) of OBJ.PRON,A2,PRONOUNS,Expressing quantity,3,3,1.0
+205,QuantifierOfObjectPronoun,(all | both) of OBJ.PRON,A2,PRONOUNS,Expressing preference,1,3,0.3333333333333333
+205,QuantifierOfObjectPronoun,(all | both) of OBJ.PRON,A2,PRONOUNS,Expressing ability,1,3,0.3333333333333333
+206,QuantityDeterminerWithPluralAndUncountable,DET.Q (N.PL | N.UNC),A2,DETERMINERS,Expressing quantity,2,2,1.0
+206,QuantityDeterminerWithPluralAndUncountable,DET.Q (N.PL | N.UNC),A2,DETERMINERS,Expressing frequency,1,2,0.5
+206,QuantityDeterminerWithPluralAndUncountable,DET.Q (N.PL | N.UNC),A2,DETERMINERS,Expressing evaluation,1,2,0.5
+207,QuantityDeterminerWithSingularNouns,DET.Q N.SG,A2,DETERMINERS,Expressing quantity,2,2,1.0
+207,QuantityDeterminerWithSingularNouns,DET.Q N.SG,A2,DETERMINERS,Expressing frequency,1,2,0.5
+208,QuestionTags,"CLAUSE.MAIN , AUX PRON (NEG)",A2,QUESTIONS,Asking for confirmation,2,2,1.0
+208,QuestionTags,"CLAUSE.MAIN , AUX PRON (NEG)",A2,QUESTIONS,Expressing hypotheses or inferences,2,2,1.0
+209,ReflexiveSameSubjectObject,SUBJ V … REFL[=SUBJ],A2,PRONOUNS,Referring to self-directed actions,2,2,1.0
+209,ReflexiveSameSubjectObject,SUBJ V … REFL[=SUBJ],A2,PRONOUNS,Referring to the acting or experiencing entity,2,2,1.0
+209,ReflexiveSameSubjectObject,SUBJ V … REFL[=SUBJ],A2,PRONOUNS,"Referring to actions, events or states",1,2,0.5
+209,ReflexiveSameSubjectObject,SUBJ V … REFL[=SUBJ],A2,PRONOUNS,Providing detail,1,2,0.5
+210,ReportedSpeechSayPronounShift,SUBJ say that CLAUSE (PRON-SHIFT),A2,REPORTED SPEECH,Reporting information,2,2,1.0
+210,ReportedSpeechSayPronounShift,SUBJ say that CLAUSE (PRON-SHIFT),A2,REPORTED SPEECH,Referring back to entities,1,2,0.5
+210,ReportedSpeechSayPronounShift,SUBJ say that CLAUSE (PRON-SHIFT),A2,REPORTED SPEECH,Making suggestions,1,2,0.5
+211,ReportedSpeechTellPronounShift,SUBJ tell OBJ that CLAUSE (PRON-SHIFT),A2,REPORTED SPEECH,Reporting information,2,2,1.0
+211,ReportedSpeechTellPronounShift,SUBJ tell OBJ that CLAUSE (PRON-SHIFT),A2,REPORTED SPEECH,"Referring to actions, events or states",1,2,0.5
+211,ReportedSpeechTellPronounShift,SUBJ tell OBJ that CLAUSE (PRON-SHIFT),A2,REPORTED SPEECH,Referring to entities,1,2,0.5
+212,ReportingVerbThatClause,SUBJ V.REPORT OBJ that CLAUSE,A2,VERBS,Expressing Beliefs and Opinions,2,2,1.0
+212,ReportingVerbThatClause,SUBJ V.REPORT OBJ that CLAUSE,A2,VERBS,Referring to present states events and facts,1,2,0.5
+212,ReportingVerbThatClause,SUBJ V.REPORT OBJ that CLAUSE,A2,VERBS,Reporting information,1,2,0.5
+212,ReportingVerbThatClause,SUBJ V.REPORT OBJ that CLAUSE,A2,VERBS,Referring to self,1,2,0.5
+213,SemiModalHaveGotTo,SUBJ have (got) to V.INF,A2,VERBS,Expressing obligation or necessity,2,2,1.0
+213,SemiModalHaveGotTo,SUBJ have (got) to V.INF,A2,VERBS,Referring to present states events and facts,1,2,0.5
+214,SentenceAdverbFront,ADV[sentence] CLAUSE,A2,ADVERBS,Framing or linking information,2,2,1.0
+214,SentenceAdverbFront,ADV[sentence] CLAUSE,A2,ADVERBS,Other: expressing evaluation,1,2,0.5
+215,SoManyWithPluralNouns,so many N.PL,A2,DETERMINERS,Expressing quantity,2,2,1.0
+215,SoManyWithPluralNouns,so many N.PL,A2,DETERMINERS,Other: Evaluation/exaggeration,1,2,0.5
+216,SomeAnyQuantifierPronouns,SOME/ANY V ... / SOME/ANY NP V ...,A2,PRONOUNS,Expressing quantity,2,2,1.0
+216,SomeAnyQuantifierPronouns,SOME/ANY V ... / SOME/ANY NP V ...,A2,PRONOUNS,Other: Expressing how much choices are possible,1,2,0.5
+217,SomePronounSubjectObject,some V … | V … some,A2,PRONOUNS,Referring to entities,2,2,1.0
+217,SomePronounSubjectObject,some V … | V … some,A2,PRONOUNS,Expressing quantity,1,2,0.5
+217,SomePronounSubjectObject,some V … | V … some,A2,PRONOUNS,Referring to the affected entity,1,2,0.5
+218,SubjectEllipsisAfterHope,hope (that) CLAUSE,A2,PRONOUNS,Expressing wishes,2,2,1.0
+218,SubjectEllipsisAfterHope,hope (that) CLAUSE,A2,PRONOUNS,Other: Greetings/Goodbyes -  idiomatic expressions for politeness,1,2,0.5
+219,SubordinatingConjunctionSimple,SUBORD-CONJ,A2,CONJUNCTIONS,Framing or linking information,2,2,1.0
+219,SubordinatingConjunctionSimple,SUBORD-CONJ,A2,CONJUNCTIONS,Reporting information,1,2,0.5
+220,SuperlativeWithThe,the ADJ.SUP,A2,ADJECTIVES,Describing,2,2,1.0
+220,SuperlativeWithThe,the ADJ.SUP,A2,ADJECTIVES,Comparing within a set,2,2,1.0
+220,SuperlativeWithThe,the ADJ.SUP,A2,ADJECTIVES,Making statements,1,2,0.5
+221,ThereBeALotOf,there are a lot of NP,A2,VERBS,Expressing quantity,2,2,1.0
+221,ThereBeALotOf,there are a lot of NP,A2,VERBS,Referring to entities,2,2,1.0
+222,ThereIsUncountable,there is UNCOUNT-N,A2,VERBS,Referring to entities,2,2,1.0
+222,ThereIsUncountable,there is UNCOUNT-N,A2,VERBS,Referring to impersonal events,2,2,1.0
+222,ThereIsUncountable,there is UNCOUNT-N,A2,VERBS,Referring to additional or alternative entities,1,2,0.5
+223,TimeSequencingAdverbClause,ADV[time/sequence] CLAUSE,A2,ADVERBS,Situating events in time,2,2,1.0
+223,TimeSequencingAdverbClause,ADV[time/sequence] CLAUSE,A2,ADVERBS,Expressing frequency,2,2,1.0
+223,TimeSequencingAdverbClause,ADV[time/sequence] CLAUSE,A2,ADVERBS,Sequencing events,2,2,1.0
+223,TimeSequencingAdverbClause,ADV[time/sequence] CLAUSE,A2,ADVERBS,Situating events or entities,2,2,1.0
+224,TooAdjective,too ADJ,A2,ADJECTIVES,"Describing, Expressing degree",2,2,1.0
+225,TooAdjectivePP,too ADJ PP,A2,ADJECTIVES,"Describing, Expressing degree",2,2,1.0
+225,TooAdjectivePP,too ADJ PP,A2,ADJECTIVES,Other: Referring to self/affected entities,1,2,0.5
+226,UncountableNounsBare,N.UNC,A2,NOUNS,Referring to entities,2,2,1.0
+227,UncountableWithQuantifyingDeterminers,DET.Q N.UNC | DET.Q of N.UNC,A2,NOUNS,Expressing quantity,2,2,1.0
+227,UncountableWithQuantifyingDeterminers,DET.Q N.UNC | DET.Q of N.UNC,A2,NOUNS,Expressing evaluation,1,2,0.5
+228,UncountableWithThe,the N.UNC,A2,NOUNS,Referring to entities,2,2,1.0
+229,VerbClause,SUBJ V OBJ CLAUSE,A2,VERBS,Reporting information,2,2,1.0
+229,VerbClause,SUBJ V OBJ CLAUSE,A2,VERBS,Expressing Beliefs and Opinions,2,2,1.0
+229,VerbClause,SUBJ V OBJ CLAUSE,A2,VERBS,Giving advice,1,2,0.5
+229,VerbClause,SUBJ V OBJ CLAUSE,A2,VERBS,Giving directions or instructions,1,2,0.5
+229,VerbClause,SUBJ V OBJ CLAUSE,A2,VERBS,Framing or linking information,1,2,0.5
+230,VerbIOThatClause,SUBJ V IO that CLAUSE,A2,VERBS,Reporting information,2,2,1.0
+230,VerbIOThatClause,SUBJ V IO that CLAUSE,A2,VERBS,Conveying meaning,2,2,1.0
+230,VerbIOThatClause,SUBJ V IO that CLAUSE,A2,VERBS,Making statements,1,2,0.5
+230,VerbIOThatClause,SUBJ V IO that CLAUSE,A2,VERBS,Describing,1,2,0.5
+231,VerbPlusToInfinitive,V TO V.INF,A2,VERBS,"Referring to actions, events or states",2,2,1.0
+232,VerbToInfOrIngAlternation,V TO V.INF / V-ing,A2,VERBS,Expressing preference,2,2,1.0
+232,VerbToInfOrIngAlternation,V TO V.INF / V-ing,A2,VERBS,"Referring to actions, events or states",1,2,0.5
+232,VerbToInfOrIngAlternation,V TO V.INF / V-ing,A2,VERBS,Describing,1,2,0.5
+233,WhInterrogativeClause,WH AUX[BE/HAVE/DO|V.MODAL] SUBJ V-BASE/(V-PastP) (OBJ),A2,CLAUSES,Asking for information,2,2,1.0
+234,WhQuestionsWithAuxBE,(WH) BE SUBJ V-ing,A2,QUESTIONS,Asking for information,2,2,1.0
+235,WhQuestionsWithBE,(WH) BE SUBJ,A2,QUESTIONS,Asking for information,2,2,1.0
+235,WhQuestionsWithBE,(WH) BE SUBJ,A2,QUESTIONS,Other: Asking for evaluation,1,2,0.5
+236,WhQuestionsWithDO,(WH) DO SUBJ V,A2,QUESTIONS,Asking for information,2,2,1.0
+236,WhQuestionsWithDO,(WH) DO SUBJ V,A2,QUESTIONS,Referring to the acting or experiencing entity,1,2,0.5
+236,WhQuestionsWithDO,(WH) DO SUBJ V,A2,QUESTIONS,Other: Asking for evaluation or advice,1,2,0.5
+237,WhQuestionsWithHAVE,(WH) HAVE SUBJ V-PastP,A2,QUESTIONS,Asking for information,2,2,1.0
+237,WhQuestionsWithHAVE,(WH) HAVE SUBJ V-PastP,A2,QUESTIONS,Referring to past events with present relevance,2,2,1.0
+237,WhQuestionsWithHAVE,(WH) HAVE SUBJ V-PastP,A2,QUESTIONS,Other: Asking for evaluation,1,2,0.5
+238,WhQuestionsWithMODAL,(WH) V.MODAL SUBJ V,A2,QUESTIONS,Asking for information,2,2,1.0
+238,WhQuestionsWithMODAL,(WH) V.MODAL SUBJ V,A2,QUESTIONS,Expressing politeness,1,2,0.5
+238,WhQuestionsWithMODAL,(WH) V.MODAL SUBJ V,A2,QUESTIONS,Other: Referring to future actions/ indicating or asking about intentions / offering advice,1,2,0.5
+239,WhatAExclam,What a NP (CLAUSE),A2,CLAUSES,Expressing evaluation,2,2,1.0
+239,WhatAExclam,What a NP (CLAUSE),A2,CLAUSES,Situating events or entities,1,2,0.5
+240,WhatAPityThatClause,What a pity (that) CLAUSE,A2,CLAUSES,Expressing evaluation,2,2,1.0
+241,WouldLikeQuestions,Would SUBJ like (NP | to V),A2,MODALITY,Making offers and invitations,2,2,1.0
+241,WouldLikeQuestions,Would SUBJ like (NP | to V),A2,MODALITY,Expressing politeness,2,2,1.0
+242,YesNoQuestionWithAuxBE,BE SUBJ V-ing,A2,QUESTIONS,Asking for information,2,2,1.0
+243,YesNoQuestionWithBE,BE SUBJ,A2,QUESTIONS,Asking for information,2,2,1.0
+243,YesNoQuestionWithBE,BE SUBJ,A2,QUESTIONS,Other: Asking for evaluation / confirmation,1,2,0.5
+244,YesNoQuestionWithDO,DO SUBJ V,A2,QUESTIONS,Asking for information,2,2,1.0
+244,YesNoQuestionWithDO,DO SUBJ V,A2,QUESTIONS,Other: Asking for confirmation,1,2,0.5
+245,YesNoQuestionWithHAVE,HAVE SUBJ V-PastP,A2,QUESTIONS,Asking for information,2,2,1.0
+245,YesNoQuestionWithHAVE,HAVE SUBJ V-PastP,A2,QUESTIONS,Asking for confirmation,2,2,1.0
+245,YesNoQuestionWithHAVE,HAVE SUBJ V-PastP,A2,QUESTIONS,Asking for advice,1,2,0.5
+246,YesNoQuestionWithMODAL,V.MODAL SUBJ V-BASE (OBJ|COMP),A2,QUESTIONS,Asking for information,2,2,1.0
+246,YesNoQuestionWithMODAL,V.MODAL SUBJ V-BASE (OBJ|COMP),A2,QUESTIONS,Expressing politeness,1,2,0.5
+246,YesNoQuestionWithMODAL,V.MODAL SUBJ V-BASE (OBJ|COMP),A2,QUESTIONS,Other: Asking for confirmation,1,2,0.5

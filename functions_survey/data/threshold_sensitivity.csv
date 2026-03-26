@@ -1,0 +1,7 @@
+cut_off,mappings,constructions,constructions_excluded,unique_functions,avg_functions_per_construction,label
+0.5,521,243,3,66,2.14,"≥50%
+(majority)"
+0.6666666666666666,403,238,8,64,1.69,≥67%
+0.75,327,226,20,61,1.45,≥75%
+1.0,309,219,27,61,1.41,"100%
+(unanimous)"

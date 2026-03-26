@@ -1,0 +1,310 @@
+question_id,construction_name,construction_formula,level,category,function,n_annotators
+1,AdjectiveAndAdjective,ADJ and ADJ,A1,ADJECTIVES,Describing,4
+2,AffirmativeDeclarativeClause,SUBJ V (… ),A1,CLAUSES,Making statements,4
+4,AffirmativeInterrogativeClauseWithBe,(wh) BE SUBJ (…),A1,CLAUSES,Asking for information,4
+5,ArticleAPlusVeryAdjective,a very ADJ N,A1,DETERMINERS,Describing,4
+6,ArticleAWithAdjectiveAndNoun,a ADJ N,A1,DETERMINERS,Describing,4
+7,AttributiveAdjective,ADJ N,A1,ADJECTIVES,Describing,4
+9,BecauseSubclause,because CLAUSE.SUBORD,A1,CONJUNCTIONS,Framing or linking information,4
+9,BecauseSubclause,because CLAUSE.SUBORD,A1,CONJUNCTIONS,Expressing cause,4
+11,CommonNoun,N.COMMON,A1,NOUNS,Referring to entities,4
+12,CompoundNoun,N-N,A1,NOUNS,Referring to entities,4
+13,DegreeAdverb,ADV.DEGREE ADJ,A1,ADVERBS,Expressing degree,4
+13,DegreeAdverb,ADV.DEGREE ADJ,A1,ADVERBS,Describing,4
+14,DegreeOrTimeAdverb,ADV.DEGREE/ADV.TIME,A1,ADVERBS,Expressing degree,4
+15,DemonstrativeThisPlusSingularNoun,this N.SG,A1,DETERMINERS,Pointing to entities,4
+16,DeterminerWithNoun,DET N,A1,NOUNS,Referring to entities,4
+17,MiddleFrequencyAdverb,SUBJ ADV.FREQ V,A1,ADVERBS,Expressing frequency,4
+17,MiddleFrequencyAdverb,SUBJ ADV.FREQ V,A1,ADVERBS,Making statements,4
+19,FutureWillAffirmative,SUBJ will V,A1,FUTURE,Referring to future actions and events,4
+22,LinkingVerbBeWithComplement,SUBJ BE COMP,A1,VERBS,Describing,4
+23,LinkingVerbBe,SUBJ BE COMP,A1,VERBS,Describing,4
+24,MainClauseAndMainClause,CLAUSE.MAIN and CLAUSE.MAIN,A1,CLAUSES,Framing or linking information,4
+26,ModalCanAffirmative,SUBJ can V,A1,MODALITY,Expressing ability,4
+27,ModalCanNegative,SUBJ cannot/can't V,A1,MODALITY,Expressing negation,4
+28,ModalCanQuestion,(WH) can SUBJ V,A1,MODALITY,Asking for information,4
+29,ModalVerb,V.MODAL,A1,VERBS,Making offers and invitations,4
+30,ModalWillAffirmative,SUBJ will V,A1,MODALITY,Referring to future actions and events,4
+33,NegationBeMainVerb,SUBJ BE not COMP,A1,NEGATION,Expressing negation,4
+33,NegationBeMainVerb,SUBJ BE not COMP,A1,NEGATION,Describing,4
+34,NegationDoAuxPresent,SUBJ DO not V,A1,NEGATION,Expressing negation,4
+35,NegationModalCan,SUBJ can't V,A1,NEGATION,Expressing negation,4
+36,NegativeDeclarativeClauseWithLexicalVerb,SUBJ AUX not V,A1,CLAUSES,Expressing negation,4
+37,NegativeDeclarativeClauseWithBe,SUBJ BE not ADJ,A1,CLAUSES,Expressing negation,4
+37,NegativeDeclarativeClauseWithBe,SUBJ BE not ADJ,A1,CLAUSES,Describing,4
+38,NounPhraseAsAdjunctInTimeExpression,NP.TIME (ADJUNCT),A1,NOUNS,Situating events in time,4
+39,AdjectivePlusPluralNoun,ADJ N.PL,A1,NOUN PHRASES,Describing,4
+40,NounPhraseAsBeComplement,SUBJ BE NP,A1,NOUNS,Referring to entities,4
+42,NounPhraseAsPrepositionalComplement,PREP NP,A1,NOUNS,Referring to entities,2
+42,NounPhraseAsPrepositionalComplement,PREP NP,A1,NOUNS,Situating events or entities,2
+42,NounPhraseAsPrepositionalComplement,PREP NP,A1,NOUNS,Situating entities in space,2
+43,NounPhraseAsSubject,NP.SUBJ V,A1,NOUNS,Referring to the acting or experiencing entity,2
+43,NounPhraseAsSubject,NP.SUBJ V,A1,NOUNS,Making statements,2
+43,NounPhraseAsSubject,NP.SUBJ V,A1,NOUNS,Describing,2
+44,DeterminerPlusAdjectivePlusNoun,DET ADJ N,A1,NOUN PHRASES,Referring to entities,2
+44,DeterminerPlusAdjectivePlusNoun,DET ADJ N,A1,NOUN PHRASES,Describing,2
+44,DeterminerPlusAdjectivePlusNoun,DET ADJ N,A1,NOUN PHRASES,Expressing degree,2
+45,NounNoun,N N,A1,NOUN PHRASES,Referring to entities,2
+46,PlaceAdverbAsComplement,SUBJ VERB ADV.PLACE,A1,ADVERBS,Situating entities in space,2
+47,EndPlaceAdverb,CLAUSE ADV.PLACE,A1,ADVERBS,Situating entities in space,2
+48,PluralSForm,N.PL-s,A1,NOUNS,Expressing quantity,2
+49,PossessiveDeterminerWithNoun,DET.POSS N,A1,DETERMINERS,Expressing possession,2
+49,PossessiveDeterminerWithNoun,DET.POSS N,A1,DETERMINERS,Specifying information,2
+50,PredicativeAdjectiveWithBe,SUBJ BE ADJ,A1,ADJECTIVES,Describing,2
+51,PrepositionWithNoArticle,PREP N,A1,DETERMINERS,Referring to entities,2
+51,PrepositionWithNoArticle,PREP N,A1,DETERMINERS,Situating entities in space,2
+52,PrepositionPlusThePlusNoun,PREP the N,A1,DETERMINERS,Situating events or entities,2
+52,PrepositionPlusThePlusNoun,PREP the N,A1,DETERMINERS,Situating entities in space,2
+53,PrepositionPlusNounPhrase,PREP,A1,PREPOSITIONS,Situating events or entities,2
+54,PrepositionalVerbPattern,V PREP NP,A1,VERBS,Referring to future actions and events,2
+54,PrepositionalVerbPattern,V PREP NP,A1,VERBS,Referring to impersonal events,2
+54,PrepositionalVerbPattern,V PREP NP,A1,VERBS,Referring to past actions and events,2
+55,PresentContinuousAffirmative,SUBJ BE V-ing,A1,PRESENT,"Referring to present states, events and facts",2
+55,PresentContinuousAffirmative,SUBJ BE V-ing,A1,PRESENT,Expressing progression,2
+56,PresentSimpleAffirmative,SUBJ V,A1,PRESENT,"Referring to present states, events and facts",2
+57,PresentSimpleNegative,SUBJ DO not V,A1,PRESENT,"Referring to present states, events and facts",2
+57,PresentSimpleNegative,SUBJ DO not V,A1,PRESENT,Expressing negation,2
+58,PresentSimpleWithReally,SUBJ really V,A1,PRESENT,"Referring to present states, events and facts",2
+58,PresentSimpleWithReally,SUBJ really V,A1,PRESENT,Expressing degree,2
+59,PronounInversionQuestions,(WH) AUX SUBJ V,A1,PRONOUNS,Requesting,2
+60,PronounObjectIt,V it,A1,PRONOUNS,Referring to entities,2
+61,PronounObjectPersonal,(SUBJ) V PRON,A1,PRONOUNS,Referring to entities,2
+61,PronounObjectPersonal,(SUBJ) V PRON,A1,PRONOUNS,Referring to the affected entity,2
+62,PronounObjectWithPreposition,PREP PRON,A1,PRONOUNS,Referring to entities,2
+62,PronounObjectWithPreposition,PREP PRON,A1,PRONOUNS,Comparing within a set,2
+62,PronounObjectWithPreposition,PREP PRON,A1,PRONOUNS,Conveying meaning,2
+62,PronounObjectWithPreposition,PREP PRON,A1,PRONOUNS,Making statements,2
+63,PronounSubjectBeQuestions,(WH) BE SUBJ (COMP),A1,PRONOUNS,"Referring to the acting or experiencing entity, Asking for information",2
+65,PronounSubjectStatements,SUBJ V,A1,PRONOUNS,Referring to the acting or experiencing entity,2
+65,PronounSubjectStatements,SUBJ V,A1,PRONOUNS,Referring to self-directed actions,2
+65,PronounSubjectStatements,SUBJ V,A1,PRONOUNS,Referring to third-person subjects,2
+66,ProperNoun,N.PROPER,A1,NOUNS,Referring to entities,2
+67,QuantifierWithPluralNoun,QUANT N.PL,A1,DETERMINERS,Expressing quantity,2
+68,QuantifierWithSingularNoun,QUANT N.SG,A1,DETERMINERS,Expressing quantity,2
+68,QuantifierWithSingularNoun,QUANT N.SG,A1,DETERMINERS,Referring to entities,2
+69,ReallyMidAdverb,SUBJ really V,A1,ADVERBS,Expressing degree,2
+70,SentenceAndSentence,SENTENCE and SENTENCE,A1,CONJUNCTIONS,Framing or linking information,2
+71,ThereAre,there are NP,A1,VERBS,Referring to entities,2
+72,ThereIs,there is NP,A1,VERBS,Referring to entities,2
+73,TimeEndAdverb,CLAUSE ADV.TIME,A1,ADVERBS,Situating events in time,2
+75,LikePlusToOrIng,like V.INF / V-ing,A1,VERBS,Expressing preference,2
+76,WouldLikeTo,would like to V.INF,A1,VERBS,Expressing preference,2
+77,VeryPlusAdjective,very ADJ,A1,ADVERBS,Describing,2
+77,VeryPlusAdjective,very ADJ,A1,ADVERBS,Expressing degree,2
+78,VeryPlusAdverb,very ADV,A1,ADVERBS,Expressing degree,2
+79,VeryTimePlusAdverb,very ADV.TIME,A1,ADVERBS,Describing,2
+79,VeryTimePlusAdverb,very ADV.TIME,A1,ADVERBS,Situating events in time,2
+79,VeryTimePlusAdverb,very ADV.TIME,A1,ADVERBS,Situating events or entities,2
+80,WordAndWord,WORD and WORD,A1,CONJUNCTIONS,Framing or linking information,2
+81,YesNoQuestionPlusModalVerb,V.MODAL SUBJ V,A1,QUESTIONS,Asking for information,2
+81,YesNoQuestionPlusModalVerb,V.MODAL SUBJ V,A1,QUESTIONS,Requesting,2
+82,AdjectiveButAdjective,ADJ but ADJ,A2,ADJECTIVES,Describing,2
+82,AdjectiveButAdjective,ADJ but ADJ,A2,ADJECTIVES,Making statements,2
+82,AdjectiveButAdjective,ADJ but ADJ,A2,ADJECTIVES,Expressing contrast,2
+83,AdjectivePlusPrepositionalComplement,ADJ PP,A2,ADJECTIVES,Describing,3
+85,AffirmativeImperativeClause,V-BASE (OBJ|COMP) (PP|ADV),A2,CLAUSES,Giving directions or instructions,3
+85,AffirmativeImperativeClause,V-BASE (OBJ|COMP) (PP|ADV),A2,CLAUSES,Requesting,3
+89,AttributiveComparativeBeforeNoun,ADJ.CMP NOUN,A2,ADJECTIVES,Comparing,3
+89,AttributiveComparativeBeforeNoun,ADJ.CMP NOUN,A2,ADJECTIVES,Comparing within a set,3
+91,BeLikeNoun,SUBJ BE like,A2,CLAUSES,Comparing,3
+92,BeSureClause,I am sure CLAUSE,A2,MODALITY,Expressing certainty,3
+93,ComparativeAdjectiveWithEr,ADJ-er,A2,ADJECTIVES,Comparing,3
+94,ComparativeAdjectiveWithThan,SADJ.CMP than,A2,ADJECTIVES,Comparing,3
+95,ConditionalIfPresentSimple,"if CLAUSE.PRES-SIMPLE , CLAUSE.MAIN",A2,CLAUSES,Expressing condition,3
+96,ConditionalIfPresentImperative,"if CLAUSE.PRES-SIMPLE , IMPERATIVE",A2,CLAUSES,Expressing condition,3
+97,ContainerQuantityPartitives,CONTAINER-N of NOUN,A2,NOUNS,Expressing quantity,3
+98,DefiningRelativeClauseSubjectWho,NP who SUBJ=who V …,A2,CLAUSES,Referring to entities,3
+98,DefiningRelativeClauseSubjectWho,NP who SUBJ=who V …,A2,CLAUSES,Specifying,3
+98,DefiningRelativeClauseSubjectWho,NP who SUBJ=who V …,A2,CLAUSES,Describing,3
+100,DemonstrativePronounThis,this V (...)/ SUBJ V this,A2,PRONOUNS,Referring to entities,3
+101,DemonstrativeThat,that (N.SG | N.UNC),A2,DETERMINERS,Pointing to entities,3
+101,DemonstrativeThat,that (N.SG | N.UNC),A2,DETERMINERS,Referring to entities,3
+102,DemonstrativeThese,these N.PL,A2,DETERMINERS,Pointing to entities,3
+103,DemonstrativeThisWithUncountableNoun,this N.UNC,A2,DETERMINERS,Referring to entities,3
+103,DemonstrativeThisWithUncountableNoun,this N.UNC,A2,DETERMINERS,Pointing to entities,3
+105,DoYouKnowIndirectQuestions,do you know wh/if SUBJ V,A2,PRESENT,Asking for information,3
+106,EmptyItSubject,It is/ It's ADJ/V-ing,A2,PRONOUNS,Referring to impersonal events,3
+106,EmptyItSubject,It is/ It's ADJ/V-ing,A2,PRONOUNS,Making statements,3
+107,EndPositionDegreeAdverb,CLAUSE ADV,A2,ADVERBS,Expressing degree,3
+108,EndPositionMannerAdverb,CLAUSE ADV,A2,ADVERBS,Expressing manner,3
+109,EnjoyPlusVerbIng,enjoy V-ing,A2,VERBS,Expressing preference,3
+110,FutureContinuousffirmative,SUBJ will be V-ING (OBJ/COMP),A2,FUTURE,Referring to future actions and events,3
+112,FutureSimpleWillShallQuestions,Will/Shall SUBJ V (OBJ/COMP),A2,FUTURE,Asking for information,3
+112,FutureSimpleWillShallQuestions,Will/Shall SUBJ V (OBJ/COMP),A2,FUTURE,Referring to future actions and events,3
+113,FutureWillNegative,SUBJ will NEG V (OBJ/COMP),A2,FUTURE,Expressing negation,3
+113,FutureWillNegative,SUBJ will NEG V (OBJ/COMP),A2,FUTURE,Referring to future actions and events,3
+115,GoingToFutureAffirmative,SUBJ be going to V (OBJ/COMP),A2,FUTURE,Referring to future actions and events,3
+116,GoingToFutureQuestions,Be SUBJ going to V (OBJ/COMP),A2,FUTURE,Referring to future actions and events,3
+116,GoingToFutureQuestions,Be SUBJ going to V (OBJ/COMP),A2,FUTURE,Asking for information,3
+117,IndefinitePronounObjectComplement,V PRON.IND / PREP PRON.IND,A2,PRONOUNS,Referring to entities,3
+118,IndefinitePronounSubject,PRON.IND.SG V.SG,A2,PRONOUNS,Referring to entities,3
+119,IndefinitePronounWithElse,PRON.IND + else,A2,PRONOUNS,Referring to additional or alternative entities,3
+120,InterrogativeClauseWithBeOrHave,AUX[BE/HAVE] SUBJ (V-PastP|COMP),A2,CLAUSES,Asking for information,3
+121,InterrogativeClauseWithDo,AUX[DO] SUBJ V-BASE (OBJ|COMP),A2,CLAUSES,Asking for information,3
+122,InterrogativeClauseWithModalVerb,V.MODAL SUBJ V-BASE (OBJ|COMP),A2,CLAUSES,Asking for information,3
+124,JustPreposition,just PREP,A2,PREPOSITIONS,Situating entities in space,3
+125,LinkingVerbPlusAdjectiveAsComplement,SUBJ V.LINKING ADJ,A2,VERBS,Describing,3
+127,ManyWithPluralNegative,NEG … many N.PL,A2,DETERMINERS,"Expressing quantity, Expressing negation",3
+129,ModalAdverbsClausePosition,"ADV.MODAL, CLAUSE",A2,MODALITY,Expressing probability,3
+130,ModalCouldAffirmative,SUBJ could V,A2,MODALITY,Expressing possibility,3
+131,ModalCouldNegative,SUBJ could not V,A2,MODALITY,Expressing negation,3
+132,ModalCouldQuestions,(WH) could SUBJ V,A2,MODALITY,Expressing politeness,3
+133,ModalHaveAffirmative,SUBJ have/has N/NP,A2,MODALITY,Expressing obligation or necessity,3
+134,ModalHaveNegative,SUBJ [do/does NEG have]/[haven't got to] V,A2,MODALITY,Expressing negation,3
+135,ModalHaveQuestions,[Do/Does SUBJ have]/ [Have/has SUBJ got to] V,A2,MODALITY,Expressing obligation or necessity,3
+136,ModalMayAffirmative,SUBJ may V (OBJ/COMP),A2,MODALITY,Expressing probability,3
+137,ModalMightAffirmative,SUBJ might V (OBJ/COMP),A2,MODALITY,Expressing probability,3
+138,ModalMustAffirmative,SUBJ must V (OBJ/COMP),A2,MODALITY,Expressing obligation or necessity,3
+139,ModalMustNegative,SUBJ must NEG V (OBJ/COMP),A2,MODALITY,Expressing obligation or necessity,3
+139,ModalMustNegative,SUBJ must NEG V (OBJ/COMP),A2,MODALITY,Expressing negation,3
+140,ModalShallAffirmative,SUBJ shall V (OBJ/COMP),A2,MODALITY,Referring to future actions and events,3
+141,ModalShallQuestions,Shall SUBJ V (OBJ/COMP),A2,MODALITY,Referring to future actions and events,3
+141,ModalShallQuestions,Shall SUBJ V (OBJ/COMP),A2,MODALITY,Asking for information,3
+142,ModalShouldAffirmative,SUBJ should V (OBJ/COMP),A2,MODALITY,Giving advice,3
+142,ModalShouldAffirmative,SUBJ should V (OBJ/COMP),A2,MODALITY,Making suggestions,3
+143,ModalShouldNegative,SUBJ should V (OBJ/COMP),A2,MODALITY,Giving advice,3
+144,ModalShouldQuestions,Should SUBJ V (OBJ/COMP),A2,MODALITY,Asking for advice,3
+144,ModalShouldQuestions,Should SUBJ V (OBJ/COMP),A2,MODALITY,Expressing politeness,3
+145,ModalWillNegative,SUBJ will NEG V (OBJ/COMP),A2,MODALITY,Referring to future actions and events,3
+145,ModalWillNegative,SUBJ will NEG V (OBJ/COMP),A2,MODALITY,Expressing negation,3
+146,ModalWillQuestions,Will SUBJ V (OBJ/COMP),A2,MODALITY,Referring to future actions and events,3
+146,ModalWillQuestions,Will SUBJ V (OBJ/COMP),A2,MODALITY,Asking for information,3
+147,ModalWouldAffirmative,SUBJ would V (OBJ/COMP),A2,MODALITY,Expressing hypotheses or inferences,3
+148,ModalWouldNegative,SUBJ would NEG V (OBJ/COMP),A2,MODALITY,Expressing hypotheses or inferences,3
+148,ModalWouldNegative,SUBJ would NEG V (OBJ/COMP),A2,MODALITY,Expressing negation,3
+149,MuchWithUncountableNegative,CLAUSE.NEG … much N.UNC,A2,DETERMINERS,"Expressing quantity, Expressing negation",3
+150,NegativeDeclarativeClauseWithModalVerb,SUBJ V.MODAL NEG V-BASE (OBJ|COMP),A2,CLAUSES,Making statements,3
+151,NegationBeOrHavePresent,SUBJ BE/HAVE not V/COMP,A2,NEGATION,Expressing negation,3
+152,NegationDoPast,SUBJ did not/didn't V,A2,NEGATION,Referring to past actions and events,3
+152,NegationDoPast,SUBJ did not/didn't V,A2,NEGATION,Expressing negation,3
+153,NegationImperativeWithDo,Do not/Don't V,A2,NEGATION,Giving directions or instructions,3
+154,NegationWithAnyMuchOrMany,SUBJ AUX not V any/much/many NP,A2,NEGATION,Referring to entities,3
+155,NegationWithModals,SUBJ V.MODAL not V,A2,NEGATION,Expressing negation,3
+155,NegationWithModals,SUBJ V.MODAL not V,A2,NEGATION,"Referring to actions, events or states",3
+157,NegativeImperative,do not / don't V-BASE (OBJ|COMP) (PP|ADV),A2,CLAUSES,Giving directions or instructions,3
+158,NegativeInterrogativeClause,AUX[BE/HAVE/DO|V.MODAL] NEG SUBJ V-BASE/(V-PastP) (OBJ|COMP),A2,CLAUSES,Asking for confirmation,3
+159,NegativePlusAnythingPronoun,SUBJ AUX not V anything,A2,PRONOUNS,Expressing negation,3
+159,NegativePlusAnythingPronoun,SUBJ AUX not V anything,A2,PRONOUNS,Referring to entities,3
+160,NegativeWhInterrogativeClause,WH AUX[BE/HAVE/DO|V.MODAL] NEG SUBJ V-BASE/(V-PastP) (OBJ),A2,CLAUSES,Asking for information,3
+161,NonDefiningRelativeClauseWithSubjectWho,"NP, who SUBJ=who V …",A2,CLAUSES,Describing,3
+164,NounPhrasePossessiveApostropheS,N.SG 's N,A2,NOUNS,Expressing possession,3
+165,NounPhraseWithAdjectives,DET (ADJ) N,A2,NOUNS,Describing,3
+166,NounPhraseWithRelativeComplement,N(complement-taking) (that/whether/wh-) CLAUSE,A2,NOUNS,Specifying,3
+167,NounPhraseWithRelativePostmodifier,NP CLAUSE.REL = [DET (ADJ)+ NOUN] (REL SUBJ V … | SUBJ V … ØOBJ),A2,NOUNS,Providing detail,3
+167,NounPhraseWithRelativePostmodifier,NP CLAUSE.REL = [DET (ADJ)+ NOUN] (REL SUBJ V … | SUBJ V … ØOBJ),A2,NOUNS,Describing,3
+168,OneSubstitutionPronoun,DET (ADJ) one,A2,PRONOUNS,Referring back to entities,3
+169,OneSyllableSuperlativeWithEst,ADJ-est,A2,ADJECTIVES,Comparing within a set,3
+170,PassivePastSimpleAffirmative,SUBJ was/were V-PastP (by AGENT),A2,PASSIVES,Referring to past actions and events,3
+171,PassivePresentSimpleAffirmative,SUBJ is/are V-PastP (by AGENT),A2,PASSIVES,"Referring to present states, events and facts",3
+172,PastContinuousAffirmative,SUBJ was/were V-ING (OBJ/COMP),A2,PAST,Referring to past actions and events,3
+172,PastContinuousAffirmative,SUBJ was/were V-ING (OBJ/COMP),A2,PAST,Expressing progression,3
+173,PastContinuousWithAdverbs,"(ADV,) SUBJ was/were ADV V-ING (OBJ/COMP) (ADV)",A2,PAST,Referring to past actions and events,3
+173,PastContinuousWithAdverbs,"(ADV,) SUBJ was/were ADV V-ING (OBJ/COMP) (ADV)",A2,PAST,Expressing progression,3
+174,PastSimpleAffirmative,SUBJ V-ed / V.PAST(irregular) (OBJ/COMP),A2,PAST,Referring to past actions and events,3
+175,PastSimpleNegative,SUBJ did not/didn't V (OBJ/COMP),A2,PAST,Expressing negation,3
+175,PastSimpleNegative,SUBJ did not/didn't V (OBJ/COMP),A2,PAST,Referring to past actions and events,3
+176,PastSimpleQuestions,Did SUBJ V (OBJ/COMP),A2,PAST,Asking for information,3
+176,PastSimpleQuestions,Did SUBJ V (OBJ/COMP),A2,PAST,Referring to past actions and events,3
+177,PastSimpleWithWhenClause,"When SUBJ V.PAST … , CLAUSE.MAIN(V.PAST)",A2,PAST,Sequencing events,3
+177,PastSimpleWithWhenClause,"When SUBJ V.PAST … , CLAUSE.MAIN(V.PAST)",A2,PAST,Referring to past actions and events,3
+178,PeriphrasticSuperlativeWithMost,the most ADJ,A2,ADJECTIVES,Referring to present states events and facts,3
+178,PeriphrasticSuperlativeWithMost,the most ADJ,A2,ADJECTIVES,Describing,3
+178,PeriphrasticSuperlativeWithMost,the most ADJ,A2,ADJECTIVES,Comparing within a set,3
+179,PhrasalVerbIntransitive,V-PARTICLE,A2,VERBS,"Referring to actions, events or states",3
+180,PhrasalVerbPronounParticle,V PRON PARTICLE,A2,VERBS,"Referring to actions, events or states",3
+181,PluralEsNouns,N-es,A2,NOUNS,Referring to entities,3
+181,PluralEsNouns,N-es,A2,NOUNS,Expressing quantity,3
+182,PluralOnlyNouns,N.PL,A2,NOUNS,Referring to entities,3
+182,PluralOnlyNouns,N.PL,A2,NOUNS,Expressing quantity,3
+183,PossessiveGenitiveApostropheS,N.SG 's N,A2,DETERMINERS,Specifying information,3
+183,PossessiveGenitiveApostropheS,N.SG 's N,A2,DETERMINERS,Pointing to entities,3
+183,PossessiveGenitiveApostropheS,N.SG 's N,A2,DETERMINERS,Expressing possession,3
+184,PossessiveOfMine,NP of mine,A2,PRONOUNS,Referring to the acting or experiencing entity,3
+184,PossessiveOfMine,NP of mine,A2,PRONOUNS,Referring to entities,3
+184,PossessiveOfMine,NP of mine,A2,PRONOUNS,Expressing possession,3
+185,PossessivePronounMine,mine,A2,PRONOUNS,Expressing possession,3
+186,PossessivePronounYoursObject,SUBJ be yours / V yours / PREP/ yours,A2,PRONOUNS,Expressing possession,3
+187,PossessiveSuperlativeNoun,DET.POSS ADJ.SUP NOUN,A2,ADJECTIVES,Describing,3
+187,PossessiveSuperlativeNoun,DET.POSS ADJ.SUP NOUN,A2,ADJECTIVES,Comparing within a set,3
+188,PredicativeAdjectiveWithLinkingVerb,SUBJ V.LINKING ADJ,A2,ADJECTIVES,Describing,3
+189,PredicativeComparativeWithBe,SUBJ be ADJ.CMP,A2,ADJECTIVES,Comparing,3
+189,PredicativeComparativeWithBe,SUBJ be ADJ.CMP,A2,ADJECTIVES,Describing,3
+190,PremodifiedOneOnes,DET ADJ one,A2,PRONOUNS,Referring to entities,3
+190,PremodifiedOneOnes,DET ADJ one,A2,PRONOUNS,Describing,3
+191,PrepositionComplex,PREP.C,A2,PREPOSITIONS,Situating entities in space,3
+192,PrepositionGerund,PREP V-ing,A2,PREPOSITIONS,"Referring to actions, events or states",3
+193,PrepositionSimple,PREP.S,A2,PREPOSITIONS,Referring to present states events and facts,3
+193,PrepositionSimple,PREP.S,A2,PREPOSITIONS,Situating events in time,3
+194,PrepositionStranding,wh V SUBJ PREP,A2,PREPOSITIONS,"Referring to actions, events or states",3
+194,PrepositionStranding,wh V SUBJ PREP,A2,PREPOSITIONS,Asking for information,3
+195,PresentContinuousNegative,SUBJ be NEG V-ing (OBJ/COMP),A2,PRESENT,"Referring to present states, events and facts",3
+196,PresentContinuousQuestions,(WH) BE SUBJ V-ing (OBJ/COMP),A2,PRESENT,"Referring to present states, events and facts",3
+196,PresentContinuousQuestions,(WH) BE SUBJ V-ing (OBJ/COMP),A2,PRESENT,Asking for information,3
+197,PresentPerfectAffirmative,SUBJ have/has V-PastP (OBJ/PP),A2,PAST,Referring to past events with present relevance,3
+198,PresentPerfectNegative,SUBJ have/has not (haven't/hasn't) V-PastP (OBJ/PP),A2,PAST,Referring to past events with present relevance,3
+198,PresentPerfectNegative,SUBJ have/has not (haven't/hasn't) V-PastP (OBJ/PP),A2,PAST,Expressing negation,3
+199,PresentPerfectQuestions,Have/Has SUBJ V-PastP (OBJ/PP),A2,PAST,Asking for information,3
+200,PresentPerfectWithAdverbs,SUBJ have/has ADV.PERF V-PastP (OBJ/PP),A2,PAST,Referring to past events with present relevance,3
+201,PresentSimpleFutureWhenClause,"When SUBJ PRES.SIMPLE … , CLAUSE.MAIN(FUTURE/EVENT) **",A2,FUTURE,Referring to future actions and events,3
+202,PresentSimpleQuestions,Do/Does SUBJ V (OBJ/COMP),A2,PRESENT,Asking for information,3
+202,PresentSimpleQuestions,Do/Does SUBJ V (OBJ/COMP),A2,PRESENT,"Referring to present states, events and facts",3
+203,PresentSimpleWithIndefiniteFrequencyAdverbs,SUBJ ADV.FREQ V  (OBJ/COMP),A2,PRESENT,"Referring to present states, events and facts",3
+203,PresentSimpleWithIndefiniteFrequencyAdverbs,SUBJ ADV.FREQ V  (OBJ/COMP),A2,PRESENT,Expressing frequency,3
+203,PresentSimpleWithIndefiniteFrequencyAdverbs,SUBJ ADV.FREQ V  (OBJ/COMP),A2,PRESENT,Referring to the acting or experiencing entity,3
+204,QuantifierOfDeterminer,DET.Q of N (N.PL | N.UNC),A2,DETERMINERS,Expressing quantity,3
+205,QuantifierOfObjectPronoun,(all | both) of OBJ.PRON,A2,PRONOUNS,Expressing quantity,3
+205,QuantifierOfObjectPronoun,(all | both) of OBJ.PRON,A2,PRONOUNS,Referring to entities,3
+206,QuantityDeterminerWithPluralAndUncountable,DET.Q (N.PL | N.UNC),A2,DETERMINERS,Expressing quantity,2
+207,QuantityDeterminerWithSingularNouns,DET.Q N.SG,A2,DETERMINERS,Expressing quantity,2
+208,QuestionTags,"CLAUSE.MAIN , AUX PRON (NEG)",A2,QUESTIONS,Expressing hypotheses or inferences,2
+208,QuestionTags,"CLAUSE.MAIN , AUX PRON (NEG)",A2,QUESTIONS,Asking for confirmation,2
+209,ReflexiveSameSubjectObject,SUBJ V … REFL[=SUBJ],A2,PRONOUNS,Referring to the acting or experiencing entity,2
+209,ReflexiveSameSubjectObject,SUBJ V … REFL[=SUBJ],A2,PRONOUNS,Referring to self-directed actions,2
+210,ReportedSpeechSayPronounShift,SUBJ say that CLAUSE (PRON-SHIFT),A2,REPORTED SPEECH,Reporting information,2
+211,ReportedSpeechTellPronounShift,SUBJ tell OBJ that CLAUSE (PRON-SHIFT),A2,REPORTED SPEECH,Reporting information,2
+212,ReportingVerbThatClause,SUBJ V.REPORT OBJ that CLAUSE,A2,VERBS,Expressing Beliefs and Opinions,2
+213,SemiModalHaveGotTo,SUBJ have (got) to V.INF,A2,VERBS,Expressing obligation or necessity,2
+214,SentenceAdverbFront,ADV[sentence] CLAUSE,A2,ADVERBS,Framing or linking information,2
+215,SoManyWithPluralNouns,so many N.PL,A2,DETERMINERS,Expressing quantity,2
+216,SomeAnyQuantifierPronouns,SOME/ANY V ... / SOME/ANY NP V ...,A2,PRONOUNS,Expressing quantity,2
+217,SomePronounSubjectObject,some V … | V … some,A2,PRONOUNS,Referring to entities,2
+218,SubjectEllipsisAfterHope,hope (that) CLAUSE,A2,PRONOUNS,Expressing wishes,2
+219,SubordinatingConjunctionSimple,SUBORD-CONJ,A2,CONJUNCTIONS,Framing or linking information,2
+220,SuperlativeWithThe,the ADJ.SUP,A2,ADJECTIVES,Comparing within a set,2
+220,SuperlativeWithThe,the ADJ.SUP,A2,ADJECTIVES,Describing,2
+221,ThereBeALotOf,there are a lot of NP,A2,VERBS,Referring to entities,2
+221,ThereBeALotOf,there are a lot of NP,A2,VERBS,Expressing quantity,2
+222,ThereIsUncountable,there is UNCOUNT-N,A2,VERBS,Referring to impersonal events,2
+222,ThereIsUncountable,there is UNCOUNT-N,A2,VERBS,Referring to entities,2
+223,TimeSequencingAdverbClause,ADV[time/sequence] CLAUSE,A2,ADVERBS,Situating events or entities,2
+223,TimeSequencingAdverbClause,ADV[time/sequence] CLAUSE,A2,ADVERBS,Expressing frequency,2
+223,TimeSequencingAdverbClause,ADV[time/sequence] CLAUSE,A2,ADVERBS,Sequencing events,2
+223,TimeSequencingAdverbClause,ADV[time/sequence] CLAUSE,A2,ADVERBS,Situating events in time,2
+224,TooAdjective,too ADJ,A2,ADJECTIVES,"Describing, Expressing degree",2
+225,TooAdjectivePP,too ADJ PP,A2,ADJECTIVES,"Describing, Expressing degree",2
+226,UncountableNounsBare,N.UNC,A2,NOUNS,Referring to entities,2
+227,UncountableWithQuantifyingDeterminers,DET.Q N.UNC | DET.Q of N.UNC,A2,NOUNS,Expressing quantity,2
+228,UncountableWithThe,the N.UNC,A2,NOUNS,Referring to entities,2
+229,VerbClause,SUBJ V OBJ CLAUSE,A2,VERBS,Reporting information,2
+229,VerbClause,SUBJ V OBJ CLAUSE,A2,VERBS,Expressing Beliefs and Opinions,2
+230,VerbIOThatClause,SUBJ V IO that CLAUSE,A2,VERBS,Reporting information,2
+230,VerbIOThatClause,SUBJ V IO that CLAUSE,A2,VERBS,Conveying meaning,2
+231,VerbPlusToInfinitive,V TO V.INF,A2,VERBS,"Referring to actions, events or states",2
+232,VerbToInfOrIngAlternation,V TO V.INF / V-ing,A2,VERBS,Expressing preference,2
+233,WhInterrogativeClause,WH AUX[BE/HAVE/DO|V.MODAL] SUBJ V-BASE/(V-PastP) (OBJ),A2,CLAUSES,Asking for information,2
+234,WhQuestionsWithAuxBE,(WH) BE SUBJ V-ing,A2,QUESTIONS,Asking for information,2
+235,WhQuestionsWithBE,(WH) BE SUBJ,A2,QUESTIONS,Asking for information,2
+236,WhQuestionsWithDO,(WH) DO SUBJ V,A2,QUESTIONS,Asking for information,2
+237,WhQuestionsWithHAVE,(WH) HAVE SUBJ V-PastP,A2,QUESTIONS,Referring to past events with present relevance,2
+237,WhQuestionsWithHAVE,(WH) HAVE SUBJ V-PastP,A2,QUESTIONS,Asking for information,2
+238,WhQuestionsWithMODAL,(WH) V.MODAL SUBJ V,A2,QUESTIONS,Asking for information,2
+239,WhatAExclam,What a NP (CLAUSE),A2,CLAUSES,Expressing evaluation,2
+240,WhatAPityThatClause,What a pity (that) CLAUSE,A2,CLAUSES,Expressing evaluation,2
+241,WouldLikeQuestions,Would SUBJ like (NP | to V),A2,MODALITY,Making offers and invitations,2
+241,WouldLikeQuestions,Would SUBJ like (NP | to V),A2,MODALITY,Expressing politeness,2
+242,YesNoQuestionWithAuxBE,BE SUBJ V-ing,A2,QUESTIONS,Asking for information,2
+243,YesNoQuestionWithBE,BE SUBJ,A2,QUESTIONS,Asking for information,2
+244,YesNoQuestionWithDO,DO SUBJ V,A2,QUESTIONS,Asking for information,2
+245,YesNoQuestionWithHAVE,HAVE SUBJ V-PastP,A2,QUESTIONS,Asking for confirmation,2
+245,YesNoQuestionWithHAVE,HAVE SUBJ V-PastP,A2,QUESTIONS,Asking for information,2
+246,YesNoQuestionWithMODAL,V.MODAL SUBJ V-BASE (OBJ|COMP),A2,QUESTIONS,Asking for information,2

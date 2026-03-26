@@ -1,0 +1,1654 @@
+id,user_id,question_id,functions,comment,timestamp
+1,57,42,Referring to entities; Situating entities in space; Situating events or entities,,2026-02-10 15:34:02.328624
+2,57,43,Making statements; Describing; Referring to the acting or experiencing entity,,2026-02-10 15:35:59.476508
+3,57,44,Referring to entities; Describing; Expressing condition; Expressing degree,,2026-02-10 15:36:20.937057
+4,57,45,Referring to entities; Describing,,2026-02-10 15:37:23.36376
+5,57,46,Situating entities in space; Expressing beliefs and opinions; Expressing certainty; Expressing condition; Expressing cause,,2026-02-10 15:37:51.335205
+6,57,46,Situating entities in space; Expressing beliefs and opinions; Expressing certainty; Expressing condition; Expressing cause,"This is quite broad. Theoretically, you can express a wide range of things by only this construction.
+",2026-02-10 15:39:19.632326
+7,57,46,Situating entities in space; Expressing beliefs and opinions; Expressing certainty; Expressing condition; Expressing cause,"This is quite broad. Theoretically, you can express a wide range of things by only this construction.
+",2026-02-10 15:39:21.579591
+8,57,47,Situating entities in space; Expressing certainty; Expressing condition,,2026-02-10 15:40:50.604468
+9,57,48,Referring to entities; Expressing quantity; Reporting information,,2026-02-10 15:41:08.194302
+10,57,49,Referring to entities; Expressing possession; Specifying information,,2026-02-10 15:41:27.392538
+11,57,50,Describing; Referring to self,,2026-02-10 15:42:03.225026
+12,57,51,Referring to entities; Situating entities in space,,2026-02-10 15:42:35.065715
+13,57,51,Referring to entities; Situating entities in space,,2026-02-10 15:42:44.227203
+14,57,52,Situating events or entities; Situating entities in space,,2026-02-10 15:43:04.405082
+15,57,53,Situating events or entities; Expressing certainty; Expressing condition; Expressing degree,,2026-02-10 15:43:29.298065
+16,57,54,"Referring to actions, states or relations; Referring to future actions and events; Referring to entities; Referring to impersonal events; Referring to past actions and events",,2026-02-10 15:43:59.541353
+17,57,55,"Referring to present states, events and facts; Expressing progression; Expressing beliefs and opinions",,2026-02-10 15:44:19.771162
+18,57,56,"Referring to present states, events and facts; Expressing evaluation; Expressing hypotheses or inferences",,2026-02-10 15:44:44.125283
+19,57,57,"Referring to present states, events and facts; Expressing negation; Referring to third-person subjects",,2026-02-10 15:45:03.00322
+20,57,58,"Referring to present states, events and facts; Expressing degree",,2026-02-10 15:45:17.166473
+21,57,59,Referring to the acting or experiencing entity; Referring to entities; Referring to third-person subjects; Requesting,,2026-02-10 15:45:40.748247
+22,57,60,Referring to entities; Referring to third-person subjects; Referring back to entities; Expressing quantity,,2026-02-10 15:46:01.463871
+23,57,61,Referring to entities; Referring to the affected entity,,2026-02-10 15:46:32.395763
+24,57,62,Referring to entities; Comparing within a set; Conveying meaning; Making statements; Describing,,2026-02-10 15:47:11.962085
+25,57,63,"Referring to entities; Specifying information; Situating events in time; Situating entities in space; Referring to the acting or experiencing entity, Asking for information",,2026-02-10 15:47:37.397336
+26,57,64,Referring to entities; Referring back to entities,,2026-02-10 15:48:01.648085
+27,57,65,Referring to the acting or experiencing entity; Referring to self-directed actions; Referring to third-person subjects,,2026-02-10 15:48:27.703966
+28,57,66,Referring to entities; Providing detail,,2026-02-10 15:49:00.216475
+29,57,67,Expressing quantity,,2026-02-10 15:49:12.141769
+30,57,68,Referring to entities; Expressing quantity,,2026-02-10 15:49:27.077649
+31,57,69,Expressing degree; Expressing progression; Expressing wishes; Framing or linking information,,2026-02-10 15:50:30.367341
+32,57,69,Expressing degree; Expressing progression; Expressing wishes,,2026-02-10 15:50:48.544622
+33,57,70,Framing or linking information,,2026-02-10 15:50:58.225508
+34,57,71,Referring to entities; Expressing quantity,,2026-02-10 15:51:12.961109
+35,57,72,Referring to entities,,2026-02-10 15:51:23.114874
+36,57,73,Situating events in time,,2026-02-10 15:51:41.116626
+37,57,74,"Referring to actions, states or relations",,2026-02-10 15:51:53.775799
+38,57,75,"Referring to actions, states or relations; Expressing preference; Making suggestions",,2026-02-10 15:52:18.895313
+39,57,75,"Referring to actions, states or relations; Expressing preference",,2026-02-10 15:52:24.696818
+40,57,76,"Expressing preference; Referring to actions, states or relations",,2026-02-10 15:52:30.463948
+41,57,77,Describing; Expressing degree; Expressing ability; Expressing preference; Expressing probability,,2026-02-10 15:52:41.986417
+42,57,77,Describing; Expressing degree; Expressing ability; Expressing preference; Expressing probability,,2026-02-10 15:52:46.184041
+43,57,78,Expressing degree; Reporting information,,2026-02-10 15:52:55.919765
+44,57,79,Describing; Situating events in time; Situating events or entities,,2026-02-10 15:53:11.995341
+45,57,80,Framing or linking information; Sequencing events; Situating events or entities; Situating entities in space; Situating events in time,"This is too broad. What you can express depends on what the ""word"" is. ",2026-02-10 15:54:39.675966
+46,57,81,Asking for information; Requesting,,2026-02-10 15:55:47.081548
+47,57,42,Referring to entities; Situating entities in space; Situating events or entities,,2026-02-10 15:55:56.205103
+48,57,43,Making statements; Describing; Referring to the acting or experiencing entity,,2026-02-10 15:55:56.21257
+49,57,46,Situating entities in space; Expressing beliefs and opinions; Expressing certainty; Expressing condition; Expressing cause,"This is quite broad. Theoretically, you can express a wide range of things by only this construction.
+",2026-02-10 15:55:56.220969
+50,57,48,Referring to entities; Expressing quantity; Reporting information,,2026-02-10 15:55:56.229026
+51,57,44,Referring to entities; Describing; Expressing condition; Expressing degree,,2026-02-10 15:55:56.241519
+52,57,50,Describing; Referring to self,,2026-02-10 15:55:56.245713
+53,57,52,Situating events or entities; Situating entities in space,,2026-02-10 15:55:56.256264
+54,57,53,Situating events or entities; Expressing certainty; Expressing condition; Expressing degree,,2026-02-10 15:55:56.262966
+55,57,49,Referring to entities; Expressing possession; Specifying information,,2026-02-10 15:55:56.266056
+56,57,54,"Referring to actions, states or relations; Referring to future actions and events; Referring to entities; Referring to impersonal events; Referring to past actions and events",,2026-02-10 15:55:56.277012
+57,57,47,Situating entities in space; Expressing certainty; Expressing condition,,2026-02-10 15:55:56.284833
+58,57,56,"Referring to present states, events and facts; Expressing evaluation; Expressing hypotheses or inferences",,2026-02-10 15:55:56.289238
+59,57,55,"Referring to present states, events and facts; Expressing progression; Expressing beliefs and opinions",,2026-02-10 15:55:56.289556
+60,57,57,"Referring to present states, events and facts; Expressing negation; Referring to third-person subjects",,2026-02-10 15:55:56.293399
+61,57,58,"Referring to present states, events and facts; Expressing degree",,2026-02-10 15:55:56.302047
+1222,61,105,Asking for information; Expressing politeness,"Included 'expressing politeness' because this form can be used to ask for information in a softer way. Compare: ""Where is the train station?"" vs. ""Do you know how to get to the train station?""",2026-02-18 14:44:47.953183
+1223,61,106,Referring to impersonal events; Making statements,,2026-02-18 14:44:48.563933
+1224,61,107,Expressing degree,,2026-02-18 14:44:49.209685
+1225,61,108,Expressing manner,,2026-02-18 14:44:49.86781
+1226,61,109,Expressing preference,,2026-02-18 14:44:50.478942
+1227,61,110,Referring to future actions and events; Expressing progression,,2026-02-18 14:44:51.403903
+1228,61,111,Referring to future actions and events; Expressing politeness; Other: Expressing intent,"'Expressing politeness' is marked because 'shall' sounds softer and more polite than 'will', especially in questions (e.g., ""Shall we go?""). In the English I speak I rarely use 'shall' because it sounds a bit archaic and comically formal, but there are some varieties of English where it's used more regularly because it sounds less direct than 'will'.
+
+I was going to also add 'expressing obligation' because in some contexts, 'shall' implies that the speaker is bound to do whatever they're saying (e.g., ""Our institution shall respect everyone's opinons."" = ""Our institution promises to respect everyone's opinions."") but that's probably more of a C1 communicative function rather than A2.",2026-02-18 14:45:18.824395
+1229,61,109,Expressing preference,,2026-02-18 14:45:36.637602
+1230,61,110,Referring to future actions and events; Expressing progression; Other: Expressing intent,,2026-02-18 14:45:37.329717
+1231,61,111,Referring to future actions and events; Expressing politeness; Other: Expressing intent,"'Expressing politeness' is marked because 'shall' sounds softer and more polite than 'will', especially in questions (e.g., ""Shall we go?""). In the English I speak I rarely use 'shall' because it sounds a bit archaic and comically formal, but there are some varieties of English where it's used more regularly because it sounds less direct than 'will'.
+
+I was going to also add 'expressing obligation' because in some contexts, 'shall' implies that the speaker is bound to do whatever they're saying (e.g., ""Our institution shall respect everyone's opinons."" = ""Our institution promises to respect everyone's opinions."") but that's probably more of a C1 communicative function rather than A2.",2026-02-18 14:45:38.243112
+1232,61,112,Referring to future actions and events; Asking for information,,2026-02-18 14:45:40.558509
+1233,61,113,Referring to future actions and events; Expressing negation,,2026-02-18 14:45:47.62662
+1234,61,114,Other: Referring to actions,,2026-02-18 14:45:49.809462
+1235,61,115,Referring to future actions and events; Other: Expressing intent,"Added 'expressing intent' because constructions such as ""I'm going to wear them on holiday."" both refer to the action happening in the future and the speaker's intent to do the action, similarly to 'will' and 'shall'.",2026-02-18 14:46:18.180458
+1236,61,116,Asking for information; Referring to future actions and events,,2026-02-18 14:46:39.359396
+1237,61,117,Referring to entities,,2026-02-18 14:47:15.512959
+1238,61,118,Referring to entities,,2026-02-18 14:47:40.973233
+1239,61,119,Referring to entities; Referring to additional or alternative entities,,2026-02-18 14:48:00.55711
+1240,61,120,Asking for information,,2026-02-18 14:48:25.093691
+1241,61,121,Asking for information,,2026-02-18 14:48:59.567653
+1242,61,111,Referring to future actions and events; Expressing politeness; Other: Expressing intent,"'Expressing politeness' is marked because 'shall' sounds softer and more polite than 'will', especially in questions (e.g., ""Shall we go?""). In the English I speak I rarely use 'shall' because it sounds a bit archaic and comically formal, but there are some varieties of English where it's used more regularly because it sounds less direct than 'will'.
+
+I was going to also add 'expressing obligation' because in some contexts, 'shall' implies that the speaker is bound to do whatever they're saying (e.g., ""Our institution shall respect everyone's opinons."" = ""Our institution promises to respect everyone's opinions."") but that's probably more of a C1 communicative function rather than A2.",2026-02-18 14:49:23.186556
+1243,61,112,Referring to future actions and events; Asking for information,,2026-02-18 14:49:24.014395
+1244,61,113,Referring to future actions and events; Expressing negation,,2026-02-18 14:49:24.809712
+1245,61,114,Other: Referring to actions,,2026-02-18 14:49:25.625297
+1246,61,115,Referring to future actions and events; Other: Expressing intent,"Added 'expressing intent' because constructions such as ""I'm going to wear them on holiday."" both refer to the action happening in the future and the speaker's intent to do the action, similarly to 'will' and 'shall'.",2026-02-18 14:49:26.840814
+1247,61,116,Asking for information; Referring to future actions and events,,2026-02-18 14:49:27.846081
+1248,61,117,Referring to entities,,2026-02-18 14:49:28.924466
+1249,61,118,Referring to entities,,2026-02-18 14:49:29.967101
+1250,61,119,Referring to entities; Referring to additional or alternative entities,,2026-02-18 14:49:30.702301
+1251,61,120,Asking for information,,2026-02-18 14:49:32.175559
+1252,61,121,Asking for information,,2026-02-18 14:49:33.617614
+1253,61,122,Asking for information; Other: Expressing politeness,I included 'expressing politeness' beacause questions asked with modal verbs tend to sounds softer and less direct than questions without modal verbs.,2026-02-18 14:50:24.910217
+1254,61,109,Expressing preference,,2026-02-18 14:51:21.495648
+1255,61,110,Referring to future actions and events; Expressing progression; Other: Expressing intent,,2026-02-18 14:51:22.202144
+1256,61,111,Referring to future actions and events; Expressing politeness; Other: Expressing intent,"'Expressing politeness' is marked because 'shall' sounds softer and more polite than 'will', especially in questions (e.g., ""Shall we go?""). In the English I speak I rarely use 'shall' because it sounds a bit archaic and comically formal, but there are some varieties of English where it's used more regularly because it sounds less direct than 'will'.
+
+I was going to also add 'expressing obligation' because in some contexts, 'shall' implies that the speaker is bound to do whatever they're saying (e.g., ""Our institution shall respect everyone's opinons."" = ""Our institution promises to respect everyone's opinions."") but that's probably more of a C1 communicative function rather than A2.",2026-02-18 14:51:22.849266
+1257,61,112,Referring to future actions and events; Asking for information,,2026-02-18 14:51:23.4897
+1258,61,113,Referring to future actions and events; Expressing negation,,2026-02-18 14:51:24.15218
+1259,61,114,Other: Referring to actions,,2026-02-18 14:51:25.480631
+1260,61,115,Referring to future actions and events; Other: Expressing intent,"Added 'expressing intent' because constructions such as ""I'm going to wear them on holiday."" both refer to the action happening in the future and the speaker's intent to do the action, similarly to 'will' and 'shall'.",2026-02-18 14:51:26.658129
+1261,61,116,Asking for information; Referring to future actions and events,,2026-02-18 14:51:27.805533
+1262,61,117,Referring to entities,,2026-02-18 14:51:31.736714
+1263,61,118,Referring to entities,,2026-02-18 14:51:32.684638
+62,57,45,Referring to entities; Describing,,2026-02-10 15:55:56.308966
+65,57,59,Referring to the acting or experiencing entity; Referring to entities; Referring to third-person subjects; Requesting,,2026-02-10 15:55:56.317079
+66,57,62,Referring to entities; Comparing within a set; Conveying meaning; Making statements; Describing,,2026-02-10 15:55:56.322853
+73,57,68,Referring to entities; Expressing quantity,,2026-02-10 15:55:56.342533
+77,57,73,Situating events in time,,2026-02-10 15:55:56.351015
+80,57,75,"Referring to actions, states or relations; Expressing preference",,2026-02-10 15:55:56.353979
+82,57,77,Describing; Expressing degree; Expressing ability; Expressing preference; Expressing probability,,2026-02-10 15:55:56.359511
+1264,61,119,Referring to entities; Referring to additional or alternative entities,,2026-02-18 14:51:33.450926
+63,57,60,Referring to entities; Referring to third-person subjects; Referring back to entities; Expressing quantity,,2026-02-10 15:55:56.311001
+64,57,61,Referring to entities; Referring to the affected entity,,2026-02-10 15:55:56.313227
+67,57,63,"Referring to entities; Specifying information; Situating events in time; Situating entities in space; Referring to the acting or experiencing entity, Asking for information",,2026-02-10 15:55:56.329382
+68,57,64,Referring to entities; Referring back to entities,,2026-02-10 15:55:56.330064
+69,57,65,Referring to the acting or experiencing entity; Referring to self-directed actions; Referring to third-person subjects,,2026-02-10 15:55:56.331619
+71,57,66,Referring to entities; Providing detail,,2026-02-10 15:55:56.335647
+75,57,69,Expressing degree; Expressing progression; Expressing wishes,,2026-02-10 15:55:56.343916
+76,57,71,Referring to entities; Expressing quantity,,2026-02-10 15:55:56.345362
+78,57,74,"Referring to actions, states or relations",,2026-02-10 15:55:56.352333
+79,57,72,Referring to entities,,2026-02-10 15:55:56.353353
+81,57,76,"Expressing preference; Referring to actions, states or relations",,2026-02-10 15:55:56.354969
+83,57,78,Expressing degree; Reporting information,,2026-02-10 15:55:56.360455
+84,57,79,Describing; Situating events in time; Situating events or entities,,2026-02-10 15:55:56.361126
+85,57,80,Framing or linking information; Sequencing events; Situating events or entities; Situating entities in space; Situating events in time,"This is too broad. What you can express depends on what the ""word"" is. ",2026-02-10 15:55:56.362077
+86,57,82,Describing; Making statements; Expressing contrast; Expressing beliefs and opinions,,2026-02-10 15:55:56.366001
+87,57,81,Asking for information; Requesting,,2026-02-10 15:55:56.366537
+1265,61,120,Asking for information,,2026-02-18 14:51:34.201073
+1266,61,121,Asking for information,,2026-02-18 14:51:34.977695
+1267,61,122,"Asking for information; Other: Expressing politeness, requesting","'Expressing politeness' and 'requesting' are two separate functions: questions asked with modal verbs tend to sound softer and less direct than questions without modal verbs, and you can use this form to politely ask someone to do something.",2026-02-18 14:52:52.914472
+1268,61,83,Describing,This construct makes the meaning of the adjective more specific. I don't think this is broad enough to be a function of its own so I put it under 'describing'.,2026-02-18 14:53:02.219677
+1269,61,84,Other: Expressing degree,,2026-02-18 14:53:02.269248
+1270,61,85,Giving directions or instructions; Requesting,,2026-02-18 14:53:02.302288
+1276,61,91,Describing; Comparing,,2026-02-18 14:53:02.354438
+1277,61,94,Comparing; Describing,,2026-02-18 14:53:02.364123
+1278,61,93,Comparing; Describing,,2026-02-18 14:53:02.366728
+1279,61,95,Expressing condition,,2026-02-18 14:53:02.369564
+1280,61,96,Expressing condition; Giving directions or instructions,,2026-02-18 14:53:02.401904
+1282,61,98,Describing; Specifying; Other: Pointing to entities; Referring to entities,"I included 'pointing to entities' and 'referring to entities' because defining relative clauses identify which specific entity/entities is/are being singled out in a set of entities: Out of all people I agree specifically with those who think that Stonehenge is magical, not the ones who don't think that. Out of all the girls this book could be about, this book is about the one that went to war.",2026-02-18 14:53:02.41013
+1286,61,102,Pointing to entities; Referring to entities,,2026-02-18 14:53:02.453644
+1288,61,104,Expressing quantity,,2026-02-18 14:53:02.458728
+1289,61,105,Asking for information; Expressing politeness,"Included 'expressing politeness' because this form can be used to ask for information in a softer way. Compare: ""Where is the train station?"" vs. ""Do you know how to get to the train station?""",2026-02-18 14:53:02.470633
+1290,61,106,Referring to impersonal events; Making statements,,2026-02-18 14:53:02.492849
+1292,61,109,Expressing preference,,2026-02-18 14:53:02.503087
+1294,61,110,Referring to future actions and events; Expressing progression; Other: Expressing intent,,2026-02-18 14:53:02.512262
+1295,61,92,Expressing certainty,,2026-02-18 14:53:02.528467
+1296,61,111,Referring to future actions and events; Expressing politeness; Other: Expressing intent,"'Expressing politeness' is marked because 'shall' sounds softer and more polite than 'will', especially in questions (e.g., ""Shall we go?""). In the English I speak I rarely use 'shall' because it sounds a bit archaic and comically formal, but there are some varieties of English where it's used more regularly because it sounds less direct than 'will'.
+
+I was going to also add 'expressing obligation' because in some contexts, 'shall' implies that the speaker is bound to do whatever they're saying (e.g., ""Our institution shall respect everyone's opinons."" = ""Our institution promises to respect everyone's opinions."") but that's probably more of a C1 communicative function rather than A2.",2026-02-18 14:53:02.544021
+1297,61,112,Referring to future actions and events; Asking for information,,2026-02-18 14:53:02.548965
+1298,61,113,Referring to future actions and events; Expressing negation,,2026-02-18 14:53:02.554128
+1299,61,115,Referring to future actions and events; Other: Expressing intent,"Added 'expressing intent' because constructions such as ""I'm going to wear them on holiday."" both refer to the action happening in the future and the speaker's intent to do the action, similarly to 'will' and 'shall'.",2026-02-18 14:53:02.561504
+1300,61,116,Asking for information; Referring to future actions and events,,2026-02-18 14:53:02.565998
+1301,61,117,Referring to entities,,2026-02-18 14:53:02.581313
+1302,61,118,Referring to entities,,2026-02-18 14:53:02.588945
+1303,61,119,Referring to entities; Referring to additional or alternative entities,,2026-02-18 14:53:02.602026
+1305,61,121,Asking for information,,2026-02-18 14:53:02.606073
+1355,87,171,"Referring to present states, events and facts",,2026-02-18 16:05:32.880244
+1361,87,170,Referring to past actions and events,,2026-02-18 16:05:32.891185
+1365,87,176,Asking for information; Referring to past actions and events; Expressing quantity,,2026-02-18 16:05:32.896562
+1372,87,184,Referring to entities; Expressing possession; Referring to the acting or experiencing entity,,2026-02-18 16:05:32.904328
+1375,87,185,Expressing possession; Referring to entities; Emphasizing the affected entity,,2026-02-18 16:05:32.923609
+1378,87,188,Describing; Expressing manner; Expressing negation,,2026-02-18 16:05:32.927497
+1381,87,192,"Referring to impersonal events; Referring to actions, events or states",,2026-02-18 16:05:32.930713
+1386,87,197,Referring to past events with present relevance; Emphasizing the affected entity,,2026-02-18 16:05:32.934579
+1389,87,201,Referring to future actions and events; Referring to third-person subjects,,2026-02-18 16:05:32.940619
+1393,87,204,"Referring to actions, events or states; Providing detail; Expressing quantity; Making suggestions",,2026-02-18 16:05:32.945318
+1441,81,85,Giving directions or instructions; Requesting; Making suggestions,,2026-02-18 17:20:04.029282
+1448,81,94,Describing; Comparing; Referring to the affected entity,,2026-02-18 17:20:04.046377
+1457,81,102,Referring to entities; Pointing to entities,,2026-02-18 17:20:04.059207
+70,57,51,Referring to entities; Situating entities in space,,2026-02-10 15:55:56.334417
+72,57,67,Expressing quantity,,2026-02-10 15:55:56.337787
+74,57,70,Framing or linking information,,2026-02-10 15:55:56.343915
+88,62,83,Describing,,2026-02-10 16:01:36.720074
+89,62,84,Other: expressing degree,,2026-02-10 16:06:04.553205
+90,62,85,Giving directions or instructions; Making suggestions; Requesting,,2026-02-10 16:07:22.252908
+91,62,86,"Asking for information, Referring to additional or alternative entities; Asking for information; Asking for confirmation; Comparing; Comparing within a set",,2026-02-10 16:09:12.071214
+92,62,87,Referring to entities; Expressing quantity,,2026-02-10 16:10:10.335866
+93,56,1,Describing; Expressing evaluation,,2026-02-10 21:42:01.32186
+94,56,2,Making statements; Conveying meaning & exchanging information,,2026-02-10 21:44:54.281757
+95,56,3,Making statements; Conveying meaning & exchanging information,,2026-02-10 21:45:30.132387
+96,56,4,Asking for information,,2026-02-10 21:45:54.5163
+97,56,5,Describing; Referring to entities,,2026-02-10 21:47:30.754777
+98,56,6,Referring to entities; Describing,,2026-02-10 21:48:59.352079
+99,56,7,Describing,,2026-02-10 21:50:04.22998
+100,56,8,Expressing progression,,2026-02-10 21:52:24.485242
+101,56,9,Expressing cause; Framing or linking information,,2026-02-10 21:56:22.750389
+102,56,10,Other: Avoiding repetition; Specifying information,,2026-02-10 22:00:46.182386
+103,56,11,Making statements; Conveying meaning; Referring to entities; Emphasizing the affected entity; Describing,,2026-02-10 22:03:31.233697
+104,56,12,Referring to entities; Describing,,2026-02-10 22:04:08.677945
+105,56,13,Expressing degree; Describing,,2026-02-10 22:04:18.024213
+106,56,14,Providing detail; Expressing degree,,2026-02-10 22:06:13.06742
+107,56,15,Pointing to entities; Referring to entities,,2026-02-10 22:09:18.47196
+108,56,16,Referring to entities,,2026-02-10 22:10:52.781062
+109,56,17,Expressing frequency; Making statements; Describing,,2026-02-10 22:11:18.978378
+110,56,18,Expressing certainty; Other: Expressing frequency,,2026-02-10 22:17:21.733225
+111,56,19,Referring to future actions and events,,2026-02-10 22:18:29.919855
+112,56,20,Referring to entities,,2026-02-10 22:18:57.479654
+113,56,21,Specifying information; Referring to entities,,2026-02-10 22:25:56.623003
+114,56,22,Describing; Conveying meaning,,2026-02-10 22:26:07.393143
+115,56,23,Describing; Referring to self; Referring to the affected entity; Referring to the acting or experiencing entity,,2026-02-10 22:26:27.987702
+116,56,24,Framing or linking information; Referring to entities; Referring to impersonal events,,2026-02-10 22:30:46.439629
+117,56,25,"Situating events in time; Specifying information; Referring to actions, states or relations",,2026-02-10 22:31:19.247413
+118,56,26,Expressing ability,,2026-02-10 22:32:25.48205
+119,56,27,Expressing ability; Expressing negation; Referring to present states events and facts,,2026-02-10 22:36:51.879504
+120,56,28,Asking for information,,2026-02-10 22:37:07.264509
+121,56,29,Making offers and invitations,,2026-02-10 22:37:58.931462
+122,56,30,Situating events in time; Referring to future actions and events,,2026-02-10 22:38:27.381333
+123,56,31,Expressing preference; Expressing politeness,,2026-02-10 22:38:48.746996
+124,56,32,Describing; Referring to entities,,2026-02-10 22:38:58.410569
+125,56,33,Describing; Expressing negation; Making statements; Emphasizing the affected entity; Conveying meaning & exchanging information,,2026-02-10 22:39:19.303411
+126,56,34,"Expressing negation; Referring to actions, states or relations",,2026-02-10 22:39:37.369278
+127,56,35,Expressing ability; Expressing negation; Making statements,,2026-02-10 22:40:02.713791
+128,56,36,Making statements; Expressing negation,,2026-02-10 22:40:42.366476
+129,56,37,Expressing negation; Making statements; Describing,,2026-02-10 22:41:01.168858
+130,56,38,Making statements; Situating events in time; Conveying meaning,,2026-02-10 22:41:24.330224
+131,56,39,Referring to entities; Describing,,2026-02-10 22:41:47.468461
+132,56,40,Referring to entities; Expressing certainty,,2026-02-10 22:42:28.868681
+133,56,1,Describing; Expressing evaluation,,2026-02-10 22:43:01.459051
+134,56,2,Making statements; Conveying meaning & exchanging information,,2026-02-10 22:43:01.624589
+135,56,8,Expressing progression,,2026-02-10 22:43:01.736624
+136,56,3,Making statements; Conveying meaning & exchanging information,,2026-02-10 22:43:01.790044
+137,56,4,Asking for information,,2026-02-10 22:43:01.80428
+138,56,6,Referring to entities; Describing,,2026-02-10 22:43:01.809834
+139,56,5,Describing; Referring to entities,,2026-02-10 22:43:01.812333
+140,56,7,Describing,,2026-02-10 22:43:01.847078
+141,56,9,Expressing cause; Framing or linking information,,2026-02-10 22:43:01.873615
+142,56,10,Other: Avoiding repetition; Specifying information,,2026-02-10 22:43:01.905473
+143,56,13,Expressing degree; Describing,,2026-02-10 22:43:01.931355
+144,56,11,Making statements; Conveying meaning; Referring to entities; Emphasizing the affected entity; Describing,,2026-02-10 22:43:01.934834
+145,56,12,Referring to entities; Describing,,2026-02-10 22:43:01.935273
+146,56,14,Providing detail; Expressing degree,,2026-02-10 22:43:01.964758
+147,56,15,Pointing to entities; Referring to entities,,2026-02-10 22:43:02.023315
+148,56,16,Referring to entities,,2026-02-10 22:43:02.059438
+149,56,17,Expressing frequency; Making statements; Describing,,2026-02-10 22:43:02.090476
+150,56,19,Referring to future actions and events,,2026-02-10 22:43:02.105462
+151,56,18,Expressing certainty; Other: Expressing frequency,,2026-02-10 22:43:02.106298
+152,56,20,Referring to entities,,2026-02-10 22:43:02.135434
+153,56,21,Specifying information; Referring to entities,,2026-02-10 22:43:02.145532
+154,56,22,Describing; Conveying meaning,,2026-02-10 22:43:02.172299
+155,56,23,Describing; Referring to self; Referring to the affected entity; Referring to the acting or experiencing entity,,2026-02-10 22:43:02.202507
+156,56,24,Framing or linking information; Referring to entities; Referring to impersonal events,,2026-02-10 22:43:02.202575
+157,56,25,"Situating events in time; Specifying information; Referring to actions, states or relations",,2026-02-10 22:43:02.255367
+158,56,26,Expressing ability,,2026-02-10 22:43:02.263075
+159,56,27,Expressing ability; Expressing negation; Referring to present states events and facts,,2026-02-10 22:43:02.294536
+160,56,28,Asking for information,,2026-02-10 22:43:02.356277
+161,56,29,Making offers and invitations,,2026-02-10 22:43:02.357546
+162,56,30,Situating events in time; Referring to future actions and events,,2026-02-10 22:43:02.358223
+163,56,31,Expressing preference; Expressing politeness,,2026-02-10 22:43:02.393943
+164,56,32,Describing; Referring to entities,,2026-02-10 22:43:02.442782
+165,56,33,Describing; Expressing negation; Making statements; Emphasizing the affected entity; Conveying meaning & exchanging information,,2026-02-10 22:43:02.448113
+252,58,78,Expressing degree,,2026-02-11 09:22:28.902097
+166,56,34,"Expressing negation; Referring to actions, states or relations",,2026-02-10 22:43:02.457728
+168,56,35,Expressing ability; Expressing negation; Making statements,,2026-02-10 22:43:02.472594
+169,56,37,Expressing negation; Making statements; Describing,,2026-02-10 22:43:02.671565
+170,56,39,Referring to entities; Describing,,2026-02-10 22:43:02.700074
+1271,61,86,Other: Presenting alternatives,,2026-02-18 14:53:02.303495
+1272,61,87,Expressing quantity,More specifically this expresses the presence or absence of something rather than an exact quantity.,2026-02-18 14:53:02.317154
+1273,61,88,Other: Comparing within a set,"This construct points out a unique entity within a set based on the characteristic described by the adjective: e.g., out of all mobile phones in the shop, this one stands out based on its price.",2026-02-18 14:53:02.320322
+1274,61,89,Comparing within a set; Comparing,"Similarly to the ""the + ADJ.SUP"" construct, this construct compares entities within a set but relatively rather than by singling out one unique entity like the comparative construction.",2026-02-18 14:53:02.329005
+1275,61,90,Other: Referring to past actions and events,"""I have left my suitcase in your house"" is the most straightforward of the examples because it refers to the action of leaving the suitcase being completed in the past.
+The second example refers to the duration of time that has passed since some time in the past, rather than a completed action, because of the use of ""been"".
+The third example is a bit confusing because ""have you got"" is usually just a synonym for ""have"", but if we take the same form with a different word we also get a construction referring to the past, e.g., ""Have you done your homework?"". I guess you could also say that ""have you got"" implies the getting of the mobile phone at some point in the past?",2026-02-18 14:53:02.353599
+1281,61,97,Expressing quantity,,2026-02-18 14:53:02.409709
+1291,61,107,Expressing degree,,2026-02-18 14:53:02.502411
+1356,87,167,Describing; Providing detail; Expressing evaluation; Expressing degree,,2026-02-18 16:05:32.881333
+1358,87,168,Referring to entities; Referring back to entities; Requesting,,2026-02-18 16:05:32.887085
+1368,87,177,Sequencing events; Comparing; Referring to past actions and events,,2026-02-18 16:05:32.898382
+1370,87,182,Referring to entities; Expressing quantity; Expressing negation,,2026-02-18 16:05:32.902314
+1379,87,191,Making statements; Situating entities in space; Situating events in time,,2026-02-18 16:05:32.928611
+1385,87,196,"Asking for information; Referring to present states, events and facts",,2026-02-18 16:05:32.933717
+1388,87,198,Referring to past events with present relevance; Expressing negation; Providing detail,,2026-02-18 16:05:32.938457
+1450,81,95,Expressing condition; Making suggestions,,2026-02-18 17:20:04.046322
+1452,81,97,Referring to entities; Expressing quantity,"What would be ""Referring to self"" in this context?",2026-02-18 17:20:04.053848
+1454,81,99,Other: See comments,"These are two constructions for me: ""That was ADJ"". (e.g., describing events).  ""After that, PHRASE."" (Sequencing events)",2026-02-18 17:20:04.057371
+1458,81,104,Expressing quantity,,2026-02-18 17:20:04.060982
+1464,81,110,Referring to future actions and events; Expressing progression; Providing detail,,2026-02-18 17:20:04.069453
+1466,81,112,Referring to future actions and events; Asking for information,,2026-02-18 17:20:04.073094
+1469,81,114,"Referring to actions, events or states; Conveying meaning",,2026-02-18 17:20:04.075918
+1507,81,107,Expressing degree; Other: expressing affection? ,,2026-02-18 17:20:14.460598
+1508,81,112,Referring to future actions and events; Asking for information,,2026-02-18 17:20:14.464194
+1509,81,113,Referring to future actions and events; Expressing negation; Other: communicate a refusal,,2026-02-18 17:20:14.469731
+1514,81,115,Referring to future actions and events; Reporting information; Other: Referring to future actions and events that will certainly happen (in contrast to will-future),,2026-02-18 17:20:14.477012
+167,56,36,Making statements; Expressing negation,,2026-02-10 22:43:02.471791
+171,56,38,Making statements; Situating events in time; Conveying meaning,,2026-02-10 22:43:02.700737
+173,56,41,Referring to entities; Referring to the affected entity; Framing or linking information,,2026-02-10 22:43:02.756473
+1283,61,99,Referring to entities; Other: Referring to third-person subjects and objects,,2026-02-18 14:53:02.411053
+1284,61,100,Referring to entities; Other: Referring to third-person subjects and objects,,2026-02-18 14:53:02.421824
+1285,61,101,Specifying information; Pointing to entities; Referring to entities,,2026-02-18 14:53:02.450247
+1287,61,103,Referring to entities; Pointing to entities,,2026-02-18 14:53:02.458404
+1293,61,108,Expressing manner,,2026-02-18 14:53:02.503276
+1304,61,120,Asking for information,,2026-02-18 14:53:02.606044
+1306,61,122,"Asking for information; Other: Expressing politeness, requesting","'Expressing politeness' and 'requesting' are two separate functions: questions asked with modal verbs tend to sound softer and less direct than questions without modal verbs, and you can use this form to politely ask someone to do something.",2026-02-18 14:53:02.620037
+1307,61,123,Referring to entities,,2026-02-18 14:53:02.631194
+1308,61,114,Other: Referring to actions,,2026-02-18 14:53:02.733268
+1309,87,165,Describing; Situating events or entities; Sequencing events; Situating entities in space; Situating events in time,,2026-02-18 15:06:10.967421
+1310,87,166,Referring to entities; Expressing negation; Specifying; Expressing manner,,2026-02-18 15:07:55.470708
+1311,87,166,Referring to entities; Expressing negation; Specifying; Expressing manner,,2026-02-18 15:09:30.738486
+1312,87,166,Referring to entities; Expressing negation; Specifying; Expressing manner,,2026-02-18 15:09:33.291371
+1313,87,166,Referring to entities; Expressing negation; Specifying; Expressing manner,,2026-02-18 15:09:44.25933
+1314,87,167,Describing; Providing detail; Expressing evaluation; Expressing degree,,2026-02-18 15:10:58.086216
+1315,87,168,Referring to entities; Referring back to entities; Requesting,,2026-02-18 15:11:50.143846
+1316,87,169,Describing; Comparing within a set; Giving directions or instructions; Making suggestions,,2026-02-18 15:12:29.57938
+1317,87,170,Referring to past actions and events,,2026-02-18 15:13:16.415187
+1318,87,170,Referring to past actions and events,,2026-02-18 15:13:25.144062
+1319,87,171,"Referring to present states, events and facts",,2026-02-18 15:14:08.670017
+1320,87,172,Referring to past actions and events; Expressing progression; Expressing frequency,,2026-02-18 15:15:51.548148
+1321,87,173,Referring to past actions and events; Expressing progression; Providing detail,,2026-02-18 15:16:56.609463
+1322,87,174,Referring to past actions and events; Referring to third-person subjects; Referring to the acting or experiencing entity; Referring to the affected entity,,2026-02-18 15:19:03.576573
+1323,87,175,Expressing negation; Making statements; Describing; Conveying meaning; Referring to past actions and events,,2026-02-18 15:25:04.613089
+1324,87,176,Asking for information; Referring to past actions and events; Expressing quantity,,2026-02-18 15:25:41.608896
+1325,87,177,Sequencing events; Comparing; Referring to past actions and events,,2026-02-18 15:27:55.892585
+1326,87,178,Comparing within a set; Describing; Referring to present states events and facts; Referring to self,,2026-02-18 15:28:42.654918
+1327,87,179,"Referring to actions, events or states",,2026-02-18 15:30:08.440095
+1328,87,180,"Asking for confirmation; Referring to actions, events or states",,2026-02-18 15:31:03.139629
+1329,87,181,Referring to entities; Expressing quantity,,2026-02-18 15:32:19.94563
+1330,87,182,Referring to entities; Expressing quantity; Expressing negation,,2026-02-18 15:32:40.965894
+1331,87,183,Expressing possession; Specifying information; Pointing to entities,,2026-02-18 15:33:02.848837
+1332,87,184,Referring to entities; Expressing possession; Referring to the acting or experiencing entity,,2026-02-18 15:33:29.209913
+1333,87,185,Expressing possession; Referring to entities; Emphasizing the affected entity,,2026-02-18 15:33:52.331293
+1334,87,186,Expressing possession; Framing or linking information; Referring to entities,,2026-02-18 15:34:44.120685
+1335,87,187,Describing; Comparing within a set; Expressing possession,,2026-02-18 15:35:36.178367
+1336,87,188,Describing; Expressing manner; Expressing negation,,2026-02-18 15:36:27.787287
+1337,87,189,Comparing; Describing; Expressing manner; Expressing politeness,,2026-02-18 15:44:45.148837
+1338,87,190,Referring to entities; Referring back to entities; Describing; Giving directions or instructions,,2026-02-18 15:45:07.377691
+1339,87,191,Making statements; Situating entities in space; Situating events in time,,2026-02-18 15:47:39.213312
+1340,87,192,"Referring to impersonal events; Referring to actions, events or states",,2026-02-18 15:48:50.430393
+1341,87,193,Situating events in time; Situating entities in space; Referring to present states events and facts; Referring to self,,2026-02-18 15:49:41.351234
+1342,87,194,"Referring to actions, events or states; Asking for information",,2026-02-18 15:50:16.321957
+1343,87,195,"Expressing negation; Expressing ability; Referring to present states, events and facts; Expressing progression",,2026-02-18 15:51:08.468275
+1344,87,196,Asking for information,,2026-02-18 15:52:13.197427
+1345,87,196,"Asking for information; Referring to present states, events and facts",,2026-02-18 15:52:18.753519
+1346,87,197,Referring to past events with present relevance; Emphasizing the affected entity,,2026-02-18 15:53:30.739589
+1347,87,198,Referring to past events with present relevance; Expressing negation; Providing detail,,2026-02-18 15:53:49.939624
+1348,87,199,Emphasizing the affected entity; Asking for information,,2026-02-18 15:54:18.867859
+1349,87,200,Referring to past events with present relevance; Referring to self,,2026-02-18 15:59:35.693014
+1350,87,201,Referring to future actions and events; Referring to third-person subjects,,2026-02-18 16:01:25.980881
+1351,87,202,"Referring to present states, events and facts; Asking for information; Situating entities in space; Situating events or entities",,2026-02-18 16:02:20.717842
+1352,87,203,"Expressing frequency; Referring to the acting or experiencing entity; Referring to third-person subjects; Referring to present states, events and facts",,2026-02-18 16:03:07.658924
+1353,87,204,"Referring to actions, events or states; Providing detail; Expressing quantity; Making suggestions",,2026-02-18 16:04:11.309039
+1354,87,165,Describing; Situating events or entities; Sequencing events; Situating entities in space; Situating events in time,,2026-02-18 16:05:32.873005
+1357,87,169,Describing; Comparing within a set; Giving directions or instructions; Making suggestions,,2026-02-18 16:05:32.881915
+1359,87,166,Referring to entities; Expressing negation; Specifying; Expressing manner,,2026-02-18 16:05:32.887142
+1360,87,174,Referring to past actions and events; Referring to third-person subjects; Referring to the acting or experiencing entity; Referring to the affected entity,,2026-02-18 16:05:32.890884
+1366,87,179,"Referring to actions, events or states",,2026-02-18 16:05:32.89778
+1373,87,186,Expressing possession; Framing or linking information; Referring to entities,,2026-02-18 16:05:32.90529
+172,56,40,Referring to entities; Expressing certainty,,2026-02-10 22:43:02.701053
+174,58,42,Referring to entities; Situating events or entities; Situating entities in space,"
+",2026-02-11 08:55:59.205634
+175,58,43,Referring to the acting or experiencing entity; Making statements; Describing; Emphasizing the affected entity,,2026-02-11 08:56:47.539806
+176,58,44,Referring to entities; Describing; Expressing degree; Expressing evaluation,,2026-02-11 08:57:33.80286
+177,58,45,Referring to entities,,2026-02-11 08:57:54.771727
+178,58,46,Situating entities in space,,2026-02-11 08:58:42.941497
+179,58,47,Situating entities in space,,2026-02-11 08:59:10.536581
+180,58,48,Expressing quantity,,2026-02-11 08:59:30.368875
+181,58,49,Expressing possession; Specifying information,,2026-02-11 09:00:06.62845
+182,58,50,Describing,,2026-02-11 09:00:31.753441
+183,58,51,Referring to entities; Situating entities in space,,2026-02-11 09:01:03.236643
+184,58,52,Situating events or entities; Situating entities in space,,2026-02-11 09:01:54.345795
+185,58,53,Situating events or entities,,2026-02-11 09:02:12.134158
+186,58,54,"Referring to actions, events or states; Referring to future actions and events; Referring to impersonal events; Referring to past actions and events",,2026-02-11 09:02:57.671375
+187,58,55,"Referring to present states, events and facts; Expressing progression",,2026-02-11 09:03:41.643332
+188,58,56,"Referring to present states, events and facts; Other: you could probably use it for all of the above",,2026-02-11 09:05:14.83916
+189,58,57,"Referring to present states, events and facts; Expressing negation; Referring to the acting or experiencing entity",,2026-02-11 09:06:51.51024
+190,58,58,"Referring to present states, events and facts; Expressing degree",,2026-02-11 09:07:25.724462
+191,58,59,Requesting,,2026-02-11 09:08:45.175583
+192,58,60,Referring to entities,,2026-02-11 09:09:55.808627
+193,58,61,Referring to entities; Referring to the affected entity,,2026-02-11 09:10:28.656755
+194,58,62,Referring to entities; Comparing within a set; Conveying meaning; Making statements,,2026-02-11 09:11:24.787356
+195,58,63,"Referring to the acting or experiencing entity, Asking for information",,2026-02-11 09:12:12.985373
+196,58,64,Referring to the acting or experiencing entity,,2026-02-11 09:12:48.259729
+197,58,65,Referring to entities; Referring to the acting or experiencing entity; Referring to self-directed actions,,2026-02-11 09:13:24.38605
+198,58,65,Referring to entities; Referring to the acting or experiencing entity; Referring to self-directed actions; Referring to third-person subjects,,2026-02-11 09:13:39.89571
+199,58,66,Referring to entities,,2026-02-11 09:13:56.399421
+200,58,67,Expressing quantity,,2026-02-11 09:14:20.546002
+201,58,68,Expressing quantity; Referring to entities,,2026-02-11 09:15:08.338279
+202,58,69,Expressing degree,,2026-02-11 09:15:50.291257
+203,58,70,Framing or linking information; Specifying information,,2026-02-11 09:16:12.126157
+204,58,71,Referring to entities,,2026-02-11 09:16:28.159541
+205,58,72,Referring to entities,,2026-02-11 09:16:38.237233
+206,58,73,Situating events in time,,2026-02-11 09:17:00.157906
+207,58,74,"Referring to actions, events or states",,2026-02-11 09:17:51.24578
+208,58,75,"Referring to actions, events or states; Expressing preference",,2026-02-11 09:18:36.894027
+209,58,76,"Referring to actions, events or states; Other: making sugestions; Expressing preference",,2026-02-11 09:19:24.150963
+210,58,77,Describing; Expressing degree,,2026-02-11 09:19:39.098686
+211,58,78,Expressing degree,,2026-02-11 09:20:24.518787
+212,58,79,Describing; Situating events in time; Situating events or entities,,2026-02-11 09:20:46.132594
+213,58,79,Describing; Situating events in time; Situating events or entities; Expressing degree,,2026-02-11 09:20:52.651476
+214,58,80,Framing or linking information,,2026-02-11 09:21:45.539513
+215,58,81,Asking for information; Requesting,,2026-02-11 09:22:14.418942
+216,58,42,Referring to entities; Situating events or entities; Situating entities in space,"
+",2026-02-11 09:22:28.681096
+217,58,43,Referring to the acting or experiencing entity; Making statements; Describing; Emphasizing the affected entity,,2026-02-11 09:22:28.705255
+218,58,44,Referring to entities; Describing; Expressing degree; Expressing evaluation,,2026-02-11 09:22:28.715322
+219,58,48,Expressing quantity,,2026-02-11 09:22:28.736075
+220,58,45,Referring to entities,,2026-02-11 09:22:28.741962
+221,58,49,Expressing possession; Specifying information,,2026-02-11 09:22:28.749434
+222,58,47,Situating entities in space,,2026-02-11 09:22:28.770052
+223,58,51,Referring to entities; Situating entities in space,,2026-02-11 09:22:28.771171
+224,58,52,Situating events or entities; Situating entities in space,,2026-02-11 09:22:28.77355
+225,58,53,Situating events or entities,,2026-02-11 09:22:28.77448
+226,58,46,Situating entities in space,,2026-02-11 09:22:28.781556
+227,58,50,Describing,,2026-02-11 09:22:28.793754
+228,58,57,"Referring to present states, events and facts; Expressing negation; Referring to the acting or experiencing entity",,2026-02-11 09:22:28.807276
+229,58,56,"Referring to present states, events and facts; Other: you could probably use it for all of the above",,2026-02-11 09:22:28.808845
+230,58,55,"Referring to present states, events and facts; Expressing progression",,2026-02-11 09:22:28.810111
+231,58,54,"Referring to actions, events or states; Referring to future actions and events; Referring to impersonal events; Referring to past actions and events",,2026-02-11 09:22:28.810537
+232,58,58,"Referring to present states, events and facts; Expressing degree",,2026-02-11 09:22:28.813326
+233,58,59,Requesting,,2026-02-11 09:22:28.816783
+234,58,60,Referring to entities,,2026-02-11 09:22:28.829078
+235,58,61,Referring to entities; Referring to the affected entity,,2026-02-11 09:22:28.834584
+236,58,64,Referring to the acting or experiencing entity,,2026-02-11 09:22:28.837222
+237,58,62,Referring to entities; Comparing within a set; Conveying meaning; Making statements,,2026-02-11 09:22:28.839863
+238,58,65,Referring to entities; Referring to the acting or experiencing entity; Referring to self-directed actions; Referring to third-person subjects,,2026-02-11 09:22:28.841416
+239,58,63,"Referring to the acting or experiencing entity, Asking for information",,2026-02-11 09:22:28.841941
+240,58,66,Referring to entities,,2026-02-11 09:22:28.851311
+241,58,67,Expressing quantity,,2026-02-11 09:22:28.857709
+242,58,71,Referring to entities,,2026-02-11 09:22:28.869314
+243,58,69,Expressing degree,,2026-02-11 09:22:28.869912
+244,58,70,Framing or linking information; Specifying information,,2026-02-11 09:22:28.870745
+245,58,68,Expressing quantity; Referring to entities,,2026-02-11 09:22:28.871553
+246,58,72,Referring to entities,,2026-02-11 09:22:28.876116
+247,58,73,Situating events in time,,2026-02-11 09:22:28.880476
+248,58,74,"Referring to actions, events or states",,2026-02-11 09:22:28.898952
+249,58,76,"Referring to actions, events or states; Other: making sugestions; Expressing preference",,2026-02-11 09:22:28.899679
+250,58,75,"Referring to actions, events or states; Expressing preference",,2026-02-11 09:22:28.900564
+1363,87,172,Referring to past actions and events; Expressing progression; Expressing frequency,,2026-02-18 16:05:32.891605
+1367,87,178,Comparing within a set; Describing; Referring to present states events and facts; Referring to self,,2026-02-18 16:05:32.898048
+1374,87,183,Expressing possession; Specifying information; Pointing to entities,,2026-02-18 16:05:32.90556
+1377,87,189,Comparing; Describing; Expressing manner; Expressing politeness,,2026-02-18 16:05:32.926893
+1382,87,193,Situating events in time; Situating entities in space; Referring to present states events and facts; Referring to self,,2026-02-18 16:05:32.931485
+1451,81,96,Expressing condition; Giving directions or instructions,,2026-02-18 17:20:04.047019
+1453,81,98,Referring to entities; Other: Referring to persons; Characterizing persons; Specifying; Describing,"""Making statement"" is a general function of affirmative phrases.",2026-02-18 17:20:04.054156
+1455,81,101,Pointing to entities; Specifying information; Referring to entities,Asking for advice is too general and may refer to the whole sentence and not only this construction?,2026-02-18 17:20:04.058902
+1463,81,107,Expressing degree; Other: expressing affection? ,,2026-02-18 17:20:04.0688
+1467,81,111,Other: Making suggestions,"Politeness, when it appears in a question? Shall I ...? ",2026-02-18 17:20:04.073567
+1471,81,115,Referring to future actions and events; Reporting information; Other: Referring to future actions and events that will certainly happen (in contrast to will-future),,2026-02-18 17:20:04.077329
+1473,81,118,Referring to entities; Referring to the acting or experiencing entity; Other: Referring to an indefinite person or group,,2026-02-18 17:20:04.080292
+1482,81,86,"Comparing; Comparing within a set; Asking for confirmation; Asking for information; Asking for information, Referring to additional or alternative entities",Maybe it is better to precise: ADJ or ADJ; NOUN or NOUN? VERB or VERB; What is the difference between comparing and comparing within a set? In my opinion there are some prototypical functions like comparing and others that are less prototypical (Asking for information).,2026-02-18 17:20:14.424358
+1487,81,90,"Referring to actions, events or states; Making offers and invitations; Making suggestions; Providing detail; Referring back to entities",One short comment: It would have been easier if the constructions had been set out in bold in the text.,2026-02-18 17:20:14.43224
+1490,81,92,Expressing certainty; Specifying information,"Here you have a semi-schematic construction ""Be sure + clause"". In my opinion, it is easier to connect it with a concrete function.",2026-02-18 17:20:14.437028
+1500,81,104,Expressing quantity,,2026-02-18 17:20:14.449455
+1503,81,110,Referring to future actions and events; Expressing progression; Providing detail,,2026-02-18 17:20:14.458233
+1511,81,114,"Referring to actions, events or states; Conveying meaning",,2026-02-18 17:20:14.476218
+1518,81,123,Expressing quantity; Referring to entities,,2026-02-18 17:20:14.487746
+251,58,77,Describing; Expressing degree,,2026-02-11 09:22:28.9019
+256,58,82,Describing; Making statements; Expressing contrast,,2026-02-11 09:22:28.935862
+1362,87,173,Referring to past actions and events; Expressing progression; Providing detail,,2026-02-18 16:05:32.891715
+1364,87,175,Expressing negation; Making statements; Describing; Conveying meaning; Referring to past actions and events,,2026-02-18 16:05:32.896398
+1369,87,180,"Asking for confirmation; Referring to actions, events or states",,2026-02-18 16:05:32.899531
+1371,87,181,Referring to entities; Expressing quantity,,2026-02-18 16:05:32.902587
+1376,87,187,Describing; Comparing within a set; Expressing possession,,2026-02-18 16:05:32.926476
+1391,87,200,Referring to past events with present relevance; Referring to self,,2026-02-18 16:05:32.941236
+1394,87,205,Referring to entities; Expressing quantity; Expressing preference; Expressing ability,,2026-02-18 16:05:32.945542
+1395,81,83,Describing; Referring to entities,,2026-02-18 16:30:20.458889
+1396,81,84,Expressing wishes; Other: Description of habits; Making offers and invitations,,2026-02-18 16:33:35.149389
+1397,81,85,Giving directions or instructions; Requesting; Making suggestions,,2026-02-18 16:34:22.322886
+1398,81,86,"Comparing; Comparing within a set; Asking for confirmation; Asking for information; Asking for information, Referring to additional or alternative entities",Maybe it is better to precise: ADJ or ADJ; NOUN or NOUN? VERB or VERB; What is the difference between comparing and comparing within a set? In my opinion there are some prototypical functions like comparing and others that are less prototypical (Asking for information).,2026-02-18 16:36:14.832275
+1399,81,87,Expressing quantity; Referring to entities,"I don't have any. As a fixed multi-word unit? What does the function ""conveying meaning"" mean? In my opinion it is too abstract...",2026-02-18 16:37:35.447267
+1400,81,88,Referring to entities; Referring to the acting or experiencing entity; Referring to the affected entity; Referring to third-person subjects; Reporting information,"I don't see a clear difference between the categories A, B, C",2026-02-18 16:38:51.467358
+1401,81,89,Describing; Comparing; Comparing within a set; Making statements; Conveying meaning,"What is the difference between ""comparing"" and ""comparing within a set""? What does ""conveying meaning"" mean in this context?",2026-02-18 16:40:21.783215
+1402,81,90,"Referring to actions, events or states; Making offers and invitations; Making suggestions; Providing detail; Referring back to entities",One short comment: It would have been easier if the constructions had been set out in bold in the text.,2026-02-18 16:42:22.715467
+1403,81,91,Describing; Comparing,A and B are the prototipical functions. ,2026-02-18 16:43:33.538061
+1404,81,92,Expressing certainty; Specifying information,"Here you have a semi-schematic construction ""Be sure + clause"". In my opinion, it is easier to connect it with a concrete function.",2026-02-18 16:45:13.407716
+1405,81,93,Comparing; Describing,"Expressing negation? Why do you add this function here but not ""expressing meaning""? ",2026-02-18 16:46:31.528775
+1406,81,94,Describing; Comparing; Referring to the affected entity,,2026-02-18 16:47:05.510406
+1407,81,95,Expressing condition; Making suggestions,,2026-02-18 16:47:57.088022
+1408,81,96,Expressing condition; Giving directions or instructions,,2026-02-18 16:48:20.270567
+1409,81,97,Referring to entities; Expressing quantity,"What would be ""Referring to self"" in this context?",2026-02-18 16:49:10.971053
+1410,81,98,Referring to entities; Other: Referring to persons; Characterizing persons; Specifying; Describing,"""Making statement"" is a general function of affirmative phrases.",2026-02-18 16:50:51.253322
+1411,81,99,Other: See comments,"These are two constructions for me: ""That was ADJ"". (e.g., describing events).  ""After that, PHRASE."" (Sequencing events)",2026-02-18 16:52:59.963057
+1412,81,100,Referring to entities; Other: See comments,"Probably also two constructions? ""This is a very ADJ NOUN"". (Describing entitities; Referring to entities; Qualifying entities and events"".    BE very ADJ about X. (Focus more on the person who qualifies something). ",2026-02-18 16:57:01.561675
+1413,81,101,Pointing to entities; Specifying information; Referring to entities,Asking for advice is too general and may refer to the whole sentence and not only this construction?,2026-02-18 16:58:17.873904
+1414,81,102,Referring to entities; Pointing to entities,,2026-02-18 16:58:33.830032
+1415,81,103,Referring to entities; Pointing to entities,"Make sure that the difference between ""this"" and ""that"" is clear. This - near to the speaker; that - far away from the speaker.",2026-02-18 17:00:18.572737
+1416,81,104,Expressing quantity,,2026-02-18 17:00:40.337335
+1417,81,105,Asking for information; Requesting,,2026-02-18 17:00:57.264178
+1418,81,106,Referring to impersonal events; Making statements; Conveying meaning,Here again: I would define two constructions: It is ADJ; It is TIME. These are completely different form-meaning pairs.,2026-02-18 17:02:17.933712
+1419,81,107,Expressing degree; Other: expressing affection? ,,2026-02-18 17:02:53.55189
+1420,81,108,Expressing manner,,2026-02-18 17:03:42.838157
+1421,81,109,"Referring to actions, events or states; Expressing preference",This is a clear semi-schematic construction with a meaning side: Expressing the positive feelings experienced during an activity.,2026-02-18 17:05:35.06967
+1422,81,110,Referring to future actions and events; Expressing progression; Providing detail,,2026-02-18 17:06:12.874875
+1423,81,111,Other: Making suggestions,"Politeness, when it appears in a question? Shall I ...? ",2026-02-18 17:07:30.067044
+1424,81,112,Referring to future actions and events; Asking for information,,2026-02-18 17:07:52.55812
+1425,81,113,Referring to future actions and events; Expressing negation; Other: communicate a refusal,,2026-02-18 17:09:05.464348
+1426,81,114,"Referring to actions, events or states; Conveying meaning",,2026-02-18 17:09:31.619909
+1427,81,115,Referring to future actions and events; Reporting information; Other: Referring to future actions and events that will certainly happen (in contrast to will-future),,2026-02-18 17:11:09.698512
+1428,81,116,Referring to future actions and events; Asking for information; Requesting,,2026-02-18 17:11:23.590491
+1429,81,117,Referring to entities; Other: Referring to an indefinite person or group,,2026-02-18 17:12:54.673808
+1430,81,116,Referring to future actions and events; Asking for information; Requesting,,2026-02-18 17:13:52.106772
+1431,81,117,Referring to entities; Other: Referring to an indefinite person or group,,2026-02-18 17:13:53.13591
+1432,81,117,Referring to entities; Other: Referring to an indefinite person or group,,2026-02-18 17:14:03.131309
+1433,81,118,Referring to entities; Referring to the acting or experiencing entity; Other: Referring to an indefinite person or group,,2026-02-18 17:14:11.298111
+1434,81,119,Referring to entities; Referring to additional or alternative entities; Specifying information,,2026-02-18 17:14:54.293417
+1435,81,120,Asking for information,Different constructions? BE SUBJ MOTION (Are you going? Are you playing? Are you swimming) HAVE SUBJ got OBJ (Here you express possession).,2026-02-18 17:17:23.840457
+1436,81,121,Asking for information,,2026-02-18 17:17:40.089725
+1437,81,122,Other: Politeness; Asking for information,,2026-02-18 17:19:44.668484
+253,58,79,Describing; Situating events in time; Situating events or entities; Expressing degree,,2026-02-11 09:22:28.903532
+1380,87,190,Referring to entities; Referring back to entities; Describing; Giving directions or instructions,,2026-02-18 16:05:32.928377
+1383,87,195,"Expressing negation; Expressing ability; Referring to present states, events and facts; Expressing progression",,2026-02-18 16:05:32.932709
+1387,87,199,Emphasizing the affected entity; Asking for information,,2026-02-18 16:05:32.938221
+1392,87,203,"Expressing frequency; Referring to the acting or experiencing entity; Referring to third-person subjects; Referring to present states, events and facts",,2026-02-18 16:05:32.941908
+1444,81,87,Expressing quantity; Referring to entities,"I don't have any. As a fixed multi-word unit? What does the function ""conveying meaning"" mean? In my opinion it is too abstract...",2026-02-18 17:20:04.033325
+1449,81,93,Comparing; Describing,"Expressing negation? Why do you add this function here but not ""expressing meaning""? ",2026-02-18 17:20:04.0466
+1456,81,100,Referring to entities; Other: See comments,"Probably also two constructions? ""This is a very ADJ NOUN"". (Describing entitities; Referring to entities; Qualifying entities and events"".    BE very ADJ about X. (Focus more on the person who qualifies something). ",2026-02-18 17:20:04.058905
+1465,81,109,"Referring to actions, events or states; Expressing preference",This is a clear semi-schematic construction with a meaning side: Expressing the positive feelings experienced during an activity.,2026-02-18 17:20:04.069528
+1470,81,116,Referring to future actions and events; Asking for information; Requesting,,2026-02-18 17:20:04.077086
+1475,81,120,Asking for information,Different constructions? BE SUBJ MOTION (Are you going? Are you playing? Are you swimming) HAVE SUBJ got OBJ (Here you express possession).,2026-02-18 17:20:04.084353
+1478,81,123,Expressing quantity; Referring to entities,,2026-02-18 17:20:04.088932
+1480,81,84,Expressing wishes; Other: Description of habits; Making offers and invitations,,2026-02-18 17:20:14.422013
+1492,81,97,Referring to entities; Expressing quantity,"What would be ""Referring to self"" in this context?",2026-02-18 17:20:14.440732
+1498,81,103,Referring to entities; Pointing to entities,"Make sure that the difference between ""this"" and ""that"" is clear. This - near to the speaker; that - far away from the speaker.",2026-02-18 17:20:14.448826
+1506,81,111,Other: Making suggestions,"Politeness, when it appears in a question? Shall I ...? ",2026-02-18 17:20:14.458849
+1510,81,116,Referring to future actions and events; Asking for information; Requesting,,2026-02-18 17:20:14.476002
+254,58,80,Framing or linking information,,2026-02-11 09:22:28.926812
+255,58,81,Asking for information; Requesting,,2026-02-11 09:22:28.934652
+257,54,1,"Describing; Providing detail; Expressing manner; Other: Adding emphasis in e.g. ""fare and square"", ""safe and sound"".","For expressing manner, I thought of a typical example ""nice and easy"", but this may be idiomatic. I couldn't think of any other examples, but a quick search turned up more: ""safe and sound"", ""plain and simple"", ""fair and square"". Looking at these, I feel like there is also a function of adding emphasis in these, because why would you otherwise repeat synonymous words like that. ",2026-02-11 11:13:21.092318
+258,54,2,Making statements; Specifying information,,2026-02-11 11:15:12.411653
+259,64,124,Situating entities in space,,2026-02-11 11:17:27.829843
+260,64,125,Describing,,2026-02-11 11:19:19.140956
+261,64,126,Describing; Conveying meaning; Making statements,,2026-02-11 11:19:58.418594
+262,64,127,"Expressing quantity, Expressing negation",,2026-02-11 11:20:21.805086
+263,64,128,Specifying information; Providing detail,,2026-02-11 11:21:19.226664
+264,54,3,Making statements; Expressing wishes; Giving advice,"I mean there are many different modal verbs, and each has different functions, sometimes multiple.
+Some might be beyond A2: guessing, probabilities, hypothesising, hedging... I'm not completely sure, but doesn't EGP have different modal verb functions listed, too? I would imagine that by A2 it should be more than just wishes and advice. ",2026-02-11 11:23:14.487836
+265,54,4,"Asking for information; Other: Asking for an explanation? (with ""why""), asking for clarification/confirmation, permission (""is it ok...?""), expressing reaction or surprise (""are you crazy?"")","Also, ""how are you?"" is not really asking for information, it's just a greeting most of the time. ",2026-02-11 11:27:47.048063
+266,54,5,Describing,,2026-02-11 11:29:13.268274
+267,54,6,Referring to entities; Describing,,2026-02-11 11:29:47.785079
+268,54,7,Describing,,2026-02-11 11:30:05.652085
+269,54,8,"Expressing progression; Making suggestions; Referring to actions, events or states; Other: Talking about plans and arrangements","In the label, perpahs the AUX and BE should be linked (e.g. ""AUX_BE""), so that it's clear that we don't have an AUX and then also BE.
+Referring to actions and events is relevant for constructions with V-ing, but states is relevant for those with V-PastP. Not sure if it's worth combining the two.
+Also for the V-PastP there's the whole passive constructions, but not sure if this is whithin A2 scope. 
+",2026-02-11 11:49:36.506779
+270,54,9,Expressing cause; Framing or linking information,,2026-02-11 11:50:09.560785
+271,54,10,Framing or linking information; Other: Sequencing events,,2026-02-11 11:51:19.909074
+272,54,11,Referring to entities; Describing,"I added describing, but not sure about is - a noun can express a feature in predicate position, but here we have no larger frame, so I don't know if you'd say describing only applied when you have it in the predicate frame. 
+
+Side note: ""Conveying meaning"" seems like a somewhat misleading label for a function. Based on the tooltip, I'd say it's explaining meaning. Otherwise, everything is conveying some meaning. ",2026-02-11 11:54:16.090535
+273,54,12,Describing; Referring to entities,"I don't know if ""swimming pool"" is the same kind of compound noun as ""bus stop"". Swimming pool is formed with V-ing + Noun (even though this V-ing can function just like a noun). ",2026-02-11 11:55:41.81346
+274,54,13,Expressing degree; Describing,,2026-02-11 11:56:01.018301
+275,54,14,"Expressing degree; Other: Expressing frequency, providing time of events (for time adverbials)",Do degree and time adverbials share many functions? Why would they be combined into one construction?,2026-02-11 11:58:45.447395
+276,54,15,Referring to entities; Pointing to entities,,2026-02-11 11:59:13.437596
+277,54,16,Referring to entities; Other: pointing to entities (if DET is a demonstrative),,2026-02-11 12:01:20.669186
+278,54,17,Expressing frequency; Making statements,,2026-02-11 12:01:53.065326
+279,54,18,Expressing certainty; Other: Expressing frequency,,2026-02-11 12:03:26.957086
+280,54,19,"Referring to future actions and events; Other: Promises, predictions",,2026-02-11 12:04:08.962202
+281,54,20,Other: Generalisation,,2026-02-11 12:05:07.48692
+282,54,20,Other: Generalisation,"I'm not convinced by this being a construction, in a sense that I don't see what other functions it has beyond just the meaning of the word ""everything"". But I'm not a constructionist, so not very certain how they define constructions.",2026-02-11 12:06:17.708988
+283,54,21,Expressing indefiniteness,,2026-02-11 12:07:14.172269
+284,54,22,Conveying meaning; Describing; Other: Making statements,,2026-02-11 12:08:06.477524
+285,54,22,Conveying meaning; Describing; Other: Making statements,,2026-02-11 12:08:20.324454
+286,54,23,Describing; Other: Making statements,"The label is the same as the previous one, isn't it? What is the difference?",2026-02-11 12:09:29.090955
+287,54,24,Framing or linking information; Other: sequencing events,,2026-02-11 12:09:53.780672
+288,54,24,Framing or linking information; Other: sequencing events,"Some of these functions are more general than others. E.g. ""linking information"" may include sequencing, expressing cause, comparing etc.",2026-02-11 12:11:05.628077
+289,54,25,"Referring to actions, events or states; Other: Making statements",,2026-02-11 12:44:35.32855
+290,54,26,Expressing possibility; Expressing ability; Other: Giving permission,,2026-02-11 12:45:01.735477
+291,54,27,Expressing possibility; Expressing negation; Expressing ability; Other: Prohibition,,2026-02-11 12:46:14.24463
+292,54,28,"Other: Asking permission, making suggestions, asking for help, making requests; Asking for information",,2026-02-11 12:47:10.398106
+293,54,29,Making suggestions; Making offers and invitations,Plus all the other functions of modals (I listed those in the other construction that had modals).,2026-02-11 12:47:51.719756
+294,54,30,"Referring to future actions and events; Other: Predictions, promises.","How is this construction different from ""will V""? Given that ""will V"" cannot really appear without any subject, I don't see a point in having two separate ones. ",2026-02-11 12:49:03.847167
+295,54,31,"Expressing preference; Other: Making requests, polite requests, expressing intentions",,2026-02-11 12:51:13.688442
+296,54,32,Other: Literally referring to my best friend:),"Hm... isn't this just a collocation? There are not slots here, if we can't substitute any of the words?",2026-02-11 12:52:32.501244
+297,54,33,Expressing negation; Describing,,2026-02-11 12:52:58.53317
+298,54,34,"Expressing negation; Referring to actions, events or states",,2026-02-11 12:53:29.41111
+299,54,35,Expressing possibility; Expressing ability; Expressing negation; Other: Prohibition,,2026-02-11 12:53:46.956732
+300,54,36,Expressing negation,,2026-02-11 12:54:12.910456
+301,54,37,Describing; Expressing negation,,2026-02-11 12:54:34.964005
+302,54,38,Situating events in time,,2026-02-11 12:55:00.353373
+303,54,39,Referring to entities; Describing,,2026-02-11 12:55:09.157472
+304,54,40,"Referring to entities; Other: Describing, introducing, explaining what something means",,2026-02-11 12:56:05.037095
+358,63,136,Expressing probability; Making suggestions,,2026-02-11 13:45:11.901832
+359,63,137,Expressing probability,,2026-02-11 13:45:25.687884
+305,54,1,"Describing; Providing detail; Expressing manner; Other: Adding emphasis in e.g. ""fare and square"", ""safe and sound"".","For expressing manner, I thought of a typical example ""nice and easy"", but this may be idiomatic. I couldn't think of any other examples, but a quick search turned up more: ""safe and sound"", ""plain and simple"", ""fair and square"". Looking at these, I feel like there is also a function of adding emphasis in these, because why would you otherwise repeat synonymous words like that. ",2026-02-11 12:56:43.713382
+306,54,2,Making statements; Specifying information,,2026-02-11 12:56:43.737418
+307,54,3,Making statements; Expressing wishes; Giving advice,"I mean there are many different modal verbs, and each has different functions, sometimes multiple.
+Some might be beyond A2: guessing, probabilities, hypothesising, hedging... I'm not completely sure, but doesn't EGP have different modal verb functions listed, too? I would imagine that by A2 it should be more than just wishes and advice. ",2026-02-11 12:56:43.743192
+308,54,5,Describing,,2026-02-11 12:56:43.745423
+309,54,4,"Asking for information; Other: Asking for an explanation? (with ""why""), asking for clarification/confirmation, permission (""is it ok...?""), expressing reaction or surprise (""are you crazy?"")","Also, ""how are you?"" is not really asking for information, it's just a greeting most of the time. ",2026-02-11 12:56:43.745402
+310,54,6,Referring to entities; Describing,,2026-02-11 12:56:43.750163
+311,54,7,Describing,,2026-02-11 12:56:43.750159
+312,54,8,"Expressing progression; Making suggestions; Referring to actions, events or states; Other: Talking about plans and arrangements","In the label, perpahs the AUX and BE should be linked (e.g. ""AUX_BE""), so that it's clear that we don't have an AUX and then also BE.
+Referring to actions and events is relevant for constructions with V-ing, but states is relevant for those with V-PastP. Not sure if it's worth combining the two.
+Also for the V-PastP there's the whole passive constructions, but not sure if this is whithin A2 scope. 
+",2026-02-11 12:56:43.759225
+313,54,9,Expressing cause; Framing or linking information,,2026-02-11 12:56:43.764189
+314,54,11,Referring to entities; Describing,"I added describing, but not sure about is - a noun can express a feature in predicate position, but here we have no larger frame, so I don't know if you'd say describing only applied when you have it in the predicate frame. 
+
+Side note: ""Conveying meaning"" seems like a somewhat misleading label for a function. Based on the tooltip, I'd say it's explaining meaning. Otherwise, everything is conveying some meaning. ",2026-02-11 12:56:43.767905
+315,54,10,Framing or linking information; Other: Sequencing events,,2026-02-11 12:56:43.768017
+316,54,12,Describing; Referring to entities,"I don't know if ""swimming pool"" is the same kind of compound noun as ""bus stop"". Swimming pool is formed with V-ing + Noun (even though this V-ing can function just like a noun). ",2026-02-11 12:56:43.772629
+317,54,13,Expressing degree; Describing,,2026-02-11 12:56:43.773157
+318,54,14,"Expressing degree; Other: Expressing frequency, providing time of events (for time adverbials)",Do degree and time adverbials share many functions? Why would they be combined into one construction?,2026-02-11 12:56:43.780889
+319,54,15,Referring to entities; Pointing to entities,,2026-02-11 12:56:43.782029
+320,54,16,Referring to entities; Other: pointing to entities (if DET is a demonstrative),,2026-02-11 12:56:43.786279
+321,54,17,Expressing frequency; Making statements,,2026-02-11 12:56:43.789878
+322,54,18,Expressing certainty; Other: Expressing frequency,,2026-02-11 12:56:43.795813
+323,54,19,"Referring to future actions and events; Other: Promises, predictions",,2026-02-11 12:56:43.800407
+324,54,22,Conveying meaning; Describing; Other: Making statements,,2026-02-11 12:56:43.807275
+325,54,21,Expressing indefiniteness,,2026-02-11 12:56:43.807325
+326,54,20,Other: Generalisation,"I'm not convinced by this being a construction, in a sense that I don't see what other functions it has beyond just the meaning of the word ""everything"". But I'm not a constructionist, so not very certain how they define constructions.",2026-02-11 12:56:43.807191
+327,54,23,Describing; Other: Making statements,"The label is the same as the previous one, isn't it? What is the difference?",2026-02-11 12:56:43.811091
+328,54,24,Framing or linking information; Other: sequencing events,"Some of these functions are more general than others. E.g. ""linking information"" may include sequencing, expressing cause, comparing etc.",2026-02-11 12:56:43.81733
+329,54,25,"Referring to actions, events or states; Other: Making statements",,2026-02-11 12:56:43.825318
+330,54,26,Expressing possibility; Expressing ability; Other: Giving permission,,2026-02-11 12:56:43.830497
+331,54,27,Expressing possibility; Expressing negation; Expressing ability; Other: Prohibition,,2026-02-11 12:56:43.831335
+332,54,28,"Other: Asking permission, making suggestions, asking for help, making requests; Asking for information",,2026-02-11 12:56:43.831626
+333,54,29,Making suggestions; Making offers and invitations,Plus all the other functions of modals (I listed those in the other construction that had modals).,2026-02-11 12:56:43.832799
+334,54,30,"Referring to future actions and events; Other: Predictions, promises.","How is this construction different from ""will V""? Given that ""will V"" cannot really appear without any subject, I don't see a point in having two separate ones. ",2026-02-11 12:56:43.838884
+335,54,33,Expressing negation; Describing,,2026-02-11 12:56:43.852256
+336,54,32,Other: Literally referring to my best friend:),"Hm... isn't this just a collocation? There are not slots here, if we can't substitute any of the words?",2026-02-11 12:56:43.853443
+337,54,31,"Expressing preference; Other: Making requests, polite requests, expressing intentions",,2026-02-11 12:56:43.853499
+338,54,35,Expressing possibility; Expressing ability; Expressing negation; Other: Prohibition,,2026-02-11 12:56:43.857694
+339,54,34,"Expressing negation; Referring to actions, events or states",,2026-02-11 12:56:43.859115
+340,54,36,Expressing negation,,2026-02-11 12:56:43.863772
+341,54,37,Describing; Expressing negation,,2026-02-11 12:56:43.871901
+342,54,38,Situating events in time,,2026-02-11 12:56:43.871971
+343,54,39,Referring to entities; Describing,,2026-02-11 12:56:43.878516
+344,54,40,"Referring to entities; Other: Describing, introducing, explaining what something means",,2026-02-11 12:56:43.882108
+345,54,41,Referring to the affected entity,,2026-02-11 12:56:43.883979
+346,63,124,Situating entities in space,,2026-02-11 13:36:54.130916
+347,63,125,Describing,,2026-02-11 13:37:49.311651
+348,63,126,Describing,,2026-02-11 13:38:17.731387
+349,63,127,"Expressing quantity, Expressing negation",,2026-02-11 13:38:32.180422
+350,63,128,Providing detail,,2026-02-11 13:39:00.159067
+351,63,129,Expressing probability,,2026-02-11 13:39:19.455453
+352,63,130,Expressing possibility,,2026-02-11 13:39:44.92978
+353,63,131,Expressing negation,,2026-02-11 13:40:22.497214
+354,63,132,Expressing politeness,,2026-02-11 13:40:35.615322
+355,63,133,Expressing obligation or necessity,,2026-02-11 13:41:46.33758
+356,63,134,Expressing negation,,2026-02-11 13:44:05.885319
+357,63,135,Expressing obligation or necessity,,2026-02-11 13:44:19.309533
+539,69,227,Expressing quantity,,2026-02-12 14:00:02.475426
+360,63,138,Expressing obligation or necessity,,2026-02-11 13:45:41.026177
+361,63,139,Expressing obligation or necessity; Expressing negation,,2026-02-11 13:45:57.908479
+362,63,140,Referring to future actions and events; Expressing certainty,,2026-02-11 13:46:13.632883
+363,63,141,Referring to future actions and events; Asking for information,,2026-02-11 13:46:32.439962
+364,63,142,Giving advice; Making suggestions,,2026-02-11 13:46:55.335471
+365,63,143,Giving advice,,2026-02-11 13:47:41.669314
+366,63,143,Giving advice; Expressing negation,,2026-02-11 13:47:52.341449
+367,63,144,Asking for advice; Expressing politeness,,2026-02-11 13:48:36.666615
+368,63,145,Referring to future actions and events; Expressing negation,,2026-02-11 13:48:55.445085
+369,63,146,Referring to future actions and events; Asking for information,,2026-02-11 13:49:10.991335
+370,63,147,Expressing hypotheses or inferences; Other: Expressing politeness,,2026-02-11 13:50:26.068881
+371,63,148,Expressing negation; Expressing hypotheses or inferences,,2026-02-11 13:56:05.983429
+372,63,149,"Expressing quantity, Expressing negation",,2026-02-11 13:56:21.129222
+373,59,42,Situating entities in space; Situating events or entities,,2026-02-12 12:33:46.696923
+374,59,43,Referring to the acting or experiencing entity; Making statements; Describing,,2026-02-12 12:34:31.018156
+375,59,44,Referring to entities; Describing; Expressing evaluation,,2026-02-12 12:36:27.75243
+376,59,45,Referring to entities; Describing,,2026-02-12 12:36:44.990992
+377,65,124,Situating entities in space,,2026-02-12 12:41:15.64994
+378,65,125,Describing,,2026-02-12 12:43:42.559056
+379,65,126,Conveying meaning,,2026-02-12 12:44:50.712235
+380,65,127,"Expressing quantity, Expressing negation",,2026-02-12 12:45:23.455254
+381,65,128,Specifying information,,2026-02-12 12:47:01.521449
+382,65,129,Expressing probability; Referring to past events with present relevance,,2026-02-12 12:48:16.897415
+383,59,46,Situating entities in space,,2026-02-12 12:49:17.09934
+384,65,130,Expressing possibility; Expressing ability; Referring to the acting or experiencing entity,,2026-02-12 12:49:18.665865
+385,59,47,Situating entities in space,,2026-02-12 12:49:31.056888
+386,65,131,Referring to past actions and events; Expressing ability; Expressing negation,,2026-02-12 12:49:47.467293
+387,65,132,Expressing politeness; Requesting,,2026-02-12 12:50:09.048423
+388,65,133,Expressing obligation or necessity,,2026-02-12 12:51:21.738259
+389,59,48,Expressing quantity,,2026-02-12 12:51:36.68209
+390,65,134,Expressing negation; Expressing obligation or necessity,,2026-02-12 12:51:56.338436
+391,59,49,Expressing possession; Referring to entities; Specifying information,,2026-02-12 12:52:05.852922
+392,65,135,Expressing obligation or necessity,,2026-02-12 12:52:29.863628
+393,65,136,"Expressing probability; Making suggestions; Referring to actions, events or states",,2026-02-12 12:54:07.431002
+394,65,137,Expressing probability; Expressing beliefs and opinions; Expressing condition,,2026-02-12 13:16:50.397717
+395,65,138,Expressing obligation or necessity; Referring to self-directed actions,,2026-02-12 13:17:35.578617
+396,65,139,Expressing obligation or necessity; Expressing negation,,2026-02-12 13:18:08.613656
+397,65,140,Referring to future actions and events; Expressing certainty; Expressing evaluation,,2026-02-12 13:18:27.978473
+398,65,141,Referring to future actions and events; Asking for information,,2026-02-12 13:18:44.904461
+399,65,142,Giving advice; Making suggestions; Giving directions or instructions; Expressing obligation or necessity; Expressing beliefs and opinions,,2026-02-12 13:18:55.968886
+400,69,206,Expressing quantity,,2026-02-12 13:19:06.795321
+401,65,143,Giving advice; Expressing obligation or necessity,,2026-02-12 13:19:18.213789
+402,65,144,Asking for advice; Expressing politeness; Expressing possibility,,2026-02-12 13:19:32.24495
+403,69,207,Expressing quantity,,2026-02-12 13:19:49.054597
+404,71,206,Expressing quantity,,2026-02-12 13:19:54.87572
+405,65,145,Referring to future actions and events; Expressing negation,,2026-02-12 13:19:58.412815
+406,65,146,Referring to future actions and events; Asking for information; Making offers and invitations; Giving advice,,2026-02-12 13:20:20.498638
+407,69,208,Asking for confirmation; Expressing hypotheses or inferences,,2026-02-12 13:20:31.303073
+408,65,147,Expressing hypotheses or inferences; Expressing probability; Expressing preference,,2026-02-12 13:20:50.444721
+409,65,148,Expressing negation; Expressing hypotheses or inferences,,2026-02-12 13:21:09.763208
+410,69,209,Referring to the acting or experiencing entity; Referring to self-directed actions,,2026-02-12 13:21:34.953692
+411,65,149,"Expressing quantity, Expressing negation; Pointing to entities",,2026-02-12 13:21:35.026935
+412,71,207,Expressing quantity,,2026-02-12 13:21:38.883964
+413,65,150,Making statements,,2026-02-12 13:22:11.744756
+414,69,210,Reporting information; Making suggestions,,2026-02-12 13:22:18.739048
+415,65,151,Expressing negation; Pointing to entities,,2026-02-12 13:22:40.201435
+416,71,208,Asking for confirmation; Expressing negation; Expressing hypotheses or inferences,,2026-02-12 13:22:59.832976
+417,65,152,Expressing negation; Referring to past actions and events; Expressing frequency,,2026-02-12 13:23:00.810829
+418,69,211,Reporting information,,2026-02-12 13:23:09.426842
+419,65,153,Giving directions or instructions; Referring to the affected entity,,2026-02-12 13:23:15.81093
+420,65,154,Referring to entities,,2026-02-12 13:23:59.024841
+421,69,212,Reporting information; Expressing Beliefs and Opinions; Referring to self,,2026-02-12 13:24:01.225104
+422,65,155,"Expressing negation; Referring back to entities; Referring to actions, events or states",,2026-02-12 13:24:21.22777
+423,65,156,Referring to the affected entity; Reporting information,,2026-02-12 13:24:37.079432
+424,71,209,"Referring to actions, events or states; Referring to the acting or experiencing entity",,2026-02-12 13:24:38.061039
+425,71,210,"Reporting information; Referring back to entities; Referring to actions, events or states",,2026-02-12 13:25:00.547184
+426,69,213,Expressing obligation or necessity,,2026-02-12 13:25:20.708559
+427,65,157,Giving directions or instructions; Requesting,no examples,2026-02-12 13:25:24.819571
+428,71,211,Referring to additional or alternative entities; Referring to entities; Reporting information,,2026-02-12 13:25:52.526755
+429,69,214,Framing or linking information,,2026-02-12 13:26:03.468863
+430,65,158,Asking for confirmation; Asking for information,,2026-02-12 13:26:12.393822
+431,69,215,Expressing quantity; Other: Evaluation/exaggeration,,2026-02-12 13:28:10.214478
+432,69,216,Expressing quantity,,2026-02-12 13:28:57.107708
+433,65,159,Expressing negation; Referring to entities,,2026-02-12 13:30:01.847053
+434,69,216,Expressing quantity,,2026-02-12 13:30:25.201658
+435,69,217,Referring to entities; Referring to the affected entity,A and E in a sense of to include only part of the possible referents within that entity,2026-02-12 13:32:12.55209
+436,65,160,Asking for information,,2026-02-12 13:34:19.71439
+437,65,161,Making statements; Describing; Providing detail,,2026-02-12 13:34:34.929774
+438,65,162,Referring to entities; Referring back to entities,,2026-02-12 13:35:20.78511
+439,65,163,Referring to the affected entity; Referring to third-person subjects; Referring to the acting or experiencing entity,,2026-02-12 13:35:44.915853
+440,65,124,Situating entities in space,,2026-02-12 13:36:02.182009
+441,65,130,Expressing possibility; Expressing ability; Referring to the acting or experiencing entity,,2026-02-12 13:36:02.203963
+442,65,125,Describing,,2026-02-12 13:36:02.220583
+443,65,131,Referring to past actions and events; Expressing ability; Expressing negation,,2026-02-12 13:36:02.238578
+444,65,132,Expressing politeness; Requesting,,2026-02-12 13:36:02.243945
+445,65,126,Conveying meaning,,2026-02-12 13:36:02.265525
+446,65,134,Expressing negation; Expressing obligation or necessity,,2026-02-12 13:36:02.272739
+447,65,128,Specifying information,,2026-02-12 13:36:02.278326
+448,65,127,"Expressing quantity, Expressing negation",,2026-02-12 13:36:02.291039
+449,65,136,"Expressing probability; Making suggestions; Referring to actions, events or states",,2026-02-12 13:36:02.300839
+450,65,137,Expressing probability; Expressing beliefs and opinions; Expressing condition,,2026-02-12 13:36:02.306269
+451,65,135,Expressing obligation or necessity,,2026-02-12 13:36:02.306856
+452,65,129,Expressing probability; Referring to past events with present relevance,,2026-02-12 13:36:02.319668
+453,65,139,Expressing obligation or necessity; Expressing negation,,2026-02-12 13:36:02.321086
+454,65,138,Expressing obligation or necessity; Referring to self-directed actions,,2026-02-12 13:36:02.319632
+455,65,140,Referring to future actions and events; Expressing certainty; Expressing evaluation,,2026-02-12 13:36:02.332559
+456,65,141,Referring to future actions and events; Asking for information,,2026-02-12 13:36:02.333088
+457,65,133,Expressing obligation or necessity,,2026-02-12 13:36:02.335401
+458,65,143,Giving advice; Expressing obligation or necessity,,2026-02-12 13:36:02.344351
+459,65,142,Giving advice; Making suggestions; Giving directions or instructions; Expressing obligation or necessity; Expressing beliefs and opinions,,2026-02-12 13:36:02.344854
+460,65,144,Asking for advice; Expressing politeness; Expressing possibility,,2026-02-12 13:36:02.344935
+461,65,145,Referring to future actions and events; Expressing negation,,2026-02-12 13:36:02.355165
+462,65,146,Referring to future actions and events; Asking for information; Making offers and invitations; Giving advice,,2026-02-12 13:36:02.357273
+463,65,147,Expressing hypotheses or inferences; Expressing probability; Expressing preference,,2026-02-12 13:36:02.361034
+464,65,148,Expressing negation; Expressing hypotheses or inferences,,2026-02-12 13:36:02.366544
+465,65,150,Making statements,,2026-02-12 13:36:02.367335
+466,65,149,"Expressing quantity, Expressing negation; Pointing to entities",,2026-02-12 13:36:02.370328
+467,65,151,Expressing negation; Pointing to entities,,2026-02-12 13:36:02.377711
+468,65,152,Expressing negation; Referring to past actions and events; Expressing frequency,,2026-02-12 13:36:02.378754
+469,65,153,Giving directions or instructions; Referring to the affected entity,,2026-02-12 13:36:02.381509
+470,65,154,Referring to entities,,2026-02-12 13:36:02.387077
+471,65,155,"Expressing negation; Referring back to entities; Referring to actions, events or states",,2026-02-12 13:36:02.39259
+472,65,156,Referring to the affected entity; Reporting information,,2026-02-12 13:36:02.392964
+473,65,157,Giving directions or instructions; Requesting,no examples,2026-02-12 13:36:02.399659
+474,65,158,Asking for confirmation; Asking for information,,2026-02-12 13:36:02.401096
+475,65,159,Expressing negation; Referring to entities,,2026-02-12 13:36:02.40249
+476,65,160,Asking for information,,2026-02-12 13:36:02.405576
+477,65,161,Making statements; Describing; Providing detail,,2026-02-12 13:36:02.412793
+478,65,162,Referring to entities; Referring back to entities,,2026-02-12 13:36:02.414809
+479,65,163,Referring to the affected entity; Referring to third-person subjects; Referring to the acting or experiencing entity,,2026-02-12 13:36:02.422115
+480,65,164,Expressing possession,,2026-02-12 13:36:02.423884
+481,69,218,Expressing wishes; Other: Greetings/Goodbyes -  idiomatic expressions for politeness,"I would say A applies but not in a general sense but I think this ellipsis only occurs in more fixed strings and contexts of greetings/saying goodbye. So, I'm not sure if it is very productive for any kind of good wishes",2026-02-12 13:36:17.180316
+482,69,219,Framing or linking information,,2026-02-12 13:37:17.729382
+483,69,220,Describing; Comparing within a set,To C: Doesn't any element in a statement convey (additional) meaning?,2026-02-12 13:39:11.927153
+484,69,221,Expressing quantity; Referring to entities,A: appears in a lot of existential constructions,2026-02-12 13:40:11.473123
+485,69,222,Referring to entities; Referring to impersonal events,,2026-02-12 13:40:48.637814
+486,69,223,Situating events in time; Sequencing events; Situating events or entities; Expressing frequency,,2026-02-12 13:41:52.345602
+487,69,224,"Describing, Expressing degree",,2026-02-12 13:42:18.117629
+488,69,225,"Describing, Expressing degree; Other: Referring to self/affected entities",,2026-02-12 13:43:26.810872
+489,69,226,Referring to entities,,2026-02-12 13:43:52.399434
+490,69,227,Expressing quantity,,2026-02-12 13:44:44.823353
+491,69,228,Referring to entities,,2026-02-12 13:45:30.332618
+492,69,229,Reporting information; Expressing Beliefs and Opinions; Framing or linking information,"A, B and C depend on which verb you use. I think the function of that object clause are more linked to verb semantics",2026-02-12 13:47:15.037972
+493,69,230,Conveying meaning; Making statements; Describing; Reporting information,For C especially: convey a transfer of some sorts,2026-02-12 13:48:25.542646
+494,69,231,"Referring to actions, events or states",A: especially with future reference,2026-02-12 13:49:52.877682
+495,69,231,"Referring to actions, events or states",A: especially with future reference,2026-02-12 13:49:57.408777
+496,69,232,Expressing preference; Describing,,2026-02-12 13:51:06.246032
+497,69,233,Asking for information,,2026-02-12 13:51:23.625498
+498,69,234,Asking for information,,2026-02-12 13:51:35.164473
+499,69,235,Asking for information; Other: Asking for evaluation,,2026-02-12 13:52:24.206573
+500,69,236,Asking for information; Other: Asking for evaluation,,2026-02-12 13:53:03.440938
+501,69,237,Asking for information; Other: Asking for evaluation; Referring to past events with present relevance,,2026-02-12 13:54:04.621182
+502,69,237,Asking for information; Other: Asking for evaluation; Referring to past events with present relevance,,2026-02-12 13:54:32.306264
+503,69,238,Asking for information; Other: Referring to future actions/ indicating or asking about intentions,,2026-02-12 13:55:27.293487
+504,69,239,Expressing evaluation,,2026-02-12 13:55:44.793283
+505,69,240,Expressing evaluation,,2026-02-12 13:55:54.089372
+506,69,235,Asking for information; Other: Asking for evaluation,,2026-02-12 13:56:56.22652
+507,69,236,Asking for information; Other: Asking for evaluation or advice,,2026-02-12 13:56:56.812052
+508,69,237,Asking for information; Other: Asking for evaluation; Referring to past events with present relevance,,2026-02-12 13:56:57.257541
+509,69,238,Asking for information; Other: Referring to future actions/ indicating or asking about intentions / offering advice,,2026-02-12 13:56:57.732772
+510,69,239,Expressing evaluation,,2026-02-12 13:56:58.244776
+511,69,240,Expressing evaluation,,2026-02-12 13:56:58.881459
+512,69,240,Expressing evaluation,,2026-02-12 13:57:04.370184
+513,69,241,Making offers and invitations; Expressing politeness,,2026-02-12 13:57:29.290251
+514,69,242,Asking for information,,2026-02-12 13:57:46.685207
+515,69,243,Asking for information; Other: Asking for evaluation / confirmation,,2026-02-12 13:58:29.130324
+516,69,244,Asking for information; Other: Asking for confirmation,,2026-02-12 13:59:04.699816
+517,69,245,Asking for information; Asking for confirmation,,2026-02-12 13:59:33.572417
+518,69,206,Expressing quantity,,2026-02-12 14:00:02.315524
+519,69,212,Reporting information; Expressing Beliefs and Opinions; Referring to self,,2026-02-12 14:00:02.379016
+520,69,207,Expressing quantity,,2026-02-12 14:00:02.396049
+521,69,208,Asking for confirmation; Expressing hypotheses or inferences,,2026-02-12 14:00:02.403404
+523,69,210,Reporting information; Making suggestions,,2026-02-12 14:00:02.411935
+525,69,214,Framing or linking information,,2026-02-12 14:00:02.420363
+527,69,209,Referring to the acting or experiencing entity; Referring to self-directed actions,,2026-02-12 14:00:02.426913
+530,69,218,Expressing wishes; Other: Greetings/Goodbyes -  idiomatic expressions for politeness,"I would say A applies but not in a general sense but I think this ellipsis only occurs in more fixed strings and contexts of greetings/saying goodbye. So, I'm not sure if it is very productive for any kind of good wishes",2026-02-12 14:00:02.440021
+532,69,220,Describing; Comparing within a set,To C: Doesn't any element in a statement convey (additional) meaning?,2026-02-12 14:00:02.445582
+534,69,222,Referring to entities; Referring to impersonal events,,2026-02-12 14:00:02.451996
+535,69,223,Situating events in time; Sequencing events; Situating events or entities; Expressing frequency,,2026-02-12 14:00:02.456943
+536,69,224,"Describing, Expressing degree",,2026-02-12 14:00:02.46374
+548,69,236,Asking for information; Other: Asking for evaluation or advice,,2026-02-12 14:00:02.519514
+551,69,239,Expressing evaluation,,2026-02-12 14:00:02.576781
+1384,87,194,"Referring to actions, events or states; Asking for information",,2026-02-18 16:05:32.932886
+1390,87,202,"Referring to present states, events and facts; Asking for information; Situating entities in space; Situating events or entities",,2026-02-18 16:05:32.941131
+1442,81,88,Referring to entities; Referring to the acting or experiencing entity; Referring to the affected entity; Referring to third-person subjects; Reporting information,"I don't see a clear difference between the categories A, B, C",2026-02-18 17:20:04.032038
+1445,81,90,"Referring to actions, events or states; Making offers and invitations; Making suggestions; Providing detail; Referring back to entities",One short comment: It would have been easier if the constructions had been set out in bold in the text.,2026-02-18 17:20:04.03437
+1446,81,91,Describing; Comparing,A and B are the prototipical functions. ,2026-02-18 17:20:04.044003
+1483,81,88,Referring to entities; Referring to the acting or experiencing entity; Referring to the affected entity; Referring to third-person subjects; Reporting information,"I don't see a clear difference between the categories A, B, C",2026-02-18 17:20:14.425031
+1485,81,89,Describing; Comparing; Comparing within a set; Making statements; Conveying meaning,"What is the difference between ""comparing"" and ""comparing within a set""? What does ""conveying meaning"" mean in this context?",2026-02-18 17:20:14.431212
+1489,81,94,Describing; Comparing; Referring to the affected entity,,2026-02-18 17:20:14.436868
+1494,81,98,Referring to entities; Other: Referring to persons; Characterizing persons; Specifying; Describing,"""Making statement"" is a general function of affirmative phrases.",2026-02-18 17:20:14.443117
+1497,81,102,Referring to entities; Pointing to entities,,2026-02-18 17:20:14.448748
+1501,81,105,Asking for information; Requesting,,2026-02-18 17:20:14.45253
+1502,81,106,Referring to impersonal events; Making statements; Conveying meaning,Here again: I would define two constructions: It is ADJ; It is TIME. These are completely different form-meaning pairs.,2026-02-18 17:20:14.456211
+1512,81,117,Referring to entities; Other: Referring to an indefinite person or group,,2026-02-18 17:20:14.476325
+1517,81,122,Other: Politeness; Asking for information,,2026-02-18 17:20:14.487526
+522,69,213,Expressing obligation or necessity,,2026-02-12 14:00:02.406996
+524,69,211,Reporting information,,2026-02-12 14:00:02.418175
+526,69,215,Expressing quantity; Other: Evaluation/exaggeration,,2026-02-12 14:00:02.425322
+528,69,216,Expressing quantity,,2026-02-12 14:00:02.431308
+529,69,217,Referring to entities; Referring to the affected entity,A and E in a sense of to include only part of the possible referents within that entity,2026-02-12 14:00:02.434706
+531,69,219,Framing or linking information,,2026-02-12 14:00:02.441807
+533,69,221,Expressing quantity; Referring to entities,A: appears in a lot of existential constructions,2026-02-12 14:00:02.449408
+537,69,225,"Describing, Expressing degree; Other: Referring to self/affected entities",,2026-02-12 14:00:02.464264
+540,69,228,Referring to entities,,2026-02-12 14:00:02.47788
+543,69,231,"Referring to actions, events or states",A: especially with future reference,2026-02-12 14:00:02.50184
+547,69,235,Asking for information; Other: Asking for evaluation,,2026-02-12 14:00:02.508869
+552,69,240,Expressing evaluation,,2026-02-12 14:00:02.585519
+555,69,243,Asking for information; Other: Asking for evaluation / confirmation,,2026-02-12 14:00:02.588534
+556,69,244,Asking for information; Other: Asking for confirmation,,2026-02-12 14:00:02.609081
+557,69,245,Asking for information; Asking for confirmation,,2026-02-12 14:00:02.613786
+558,69,246,Asking for information; Other: Asking for confirmation,,2026-02-12 14:00:02.616467
+1438,81,83,Describing; Referring to entities,,2026-02-18 17:20:04.015012
+1439,81,84,Expressing wishes; Other: Description of habits; Making offers and invitations,,2026-02-18 17:20:04.025098
+1440,81,86,"Comparing; Comparing within a set; Asking for confirmation; Asking for information; Asking for information, Referring to additional or alternative entities",Maybe it is better to precise: ADJ or ADJ; NOUN or NOUN? VERB or VERB; What is the difference between comparing and comparing within a set? In my opinion there are some prototypical functions like comparing and others that are less prototypical (Asking for information).,2026-02-18 17:20:04.028933
+1443,81,89,Describing; Comparing; Comparing within a set; Making statements; Conveying meaning,"What is the difference between ""comparing"" and ""comparing within a set""? What does ""conveying meaning"" mean in this context?",2026-02-18 17:20:04.032978
+1447,81,92,Expressing certainty; Specifying information,"Here you have a semi-schematic construction ""Be sure + clause"". In my opinion, it is easier to connect it with a concrete function.",2026-02-18 17:20:04.045705
+1459,81,103,Referring to entities; Pointing to entities,"Make sure that the difference between ""this"" and ""that"" is clear. This - near to the speaker; that - far away from the speaker.",2026-02-18 17:20:04.061699
+1460,81,105,Asking for information; Requesting,,2026-02-18 17:20:04.064654
+1461,81,106,Referring to impersonal events; Making statements; Conveying meaning,Here again: I would define two constructions: It is ADJ; It is TIME. These are completely different form-meaning pairs.,2026-02-18 17:20:04.066818
+1462,81,108,Expressing manner,,2026-02-18 17:20:04.068718
+1468,81,113,Referring to future actions and events; Expressing negation; Other: communicate a refusal,,2026-02-18 17:20:04.075704
+1472,81,117,Referring to entities; Other: Referring to an indefinite person or group,,2026-02-18 17:20:04.079679
+1474,81,119,Referring to entities; Referring to additional or alternative entities; Specifying information,,2026-02-18 17:20:04.082379
+1476,81,121,Asking for information,,2026-02-18 17:20:04.085532
+1477,81,122,Other: Politeness; Asking for information,,2026-02-18 17:20:04.088196
+1479,81,83,Describing; Referring to entities,,2026-02-18 17:20:14.421538
+1484,81,87,Expressing quantity; Referring to entities,"I don't have any. As a fixed multi-word unit? What does the function ""conveying meaning"" mean? In my opinion it is too abstract...",2026-02-18 17:20:14.425202
+1486,81,91,Describing; Comparing,A and B are the prototipical functions. ,2026-02-18 17:20:14.431792
+1488,81,93,Comparing; Describing,"Expressing negation? Why do you add this function here but not ""expressing meaning""? ",2026-02-18 17:20:14.436372
+1491,81,95,Expressing condition; Making suggestions,,2026-02-18 17:20:14.440729
+1496,81,99,Other: See comments,"These are two constructions for me: ""That was ADJ"". (e.g., describing events).  ""After that, PHRASE."" (Sequencing events)",2026-02-18 17:20:14.447397
+1504,81,108,Expressing manner,,2026-02-18 17:20:14.458529
+1513,81,118,Referring to entities; Referring to the acting or experiencing entity; Other: Referring to an indefinite person or group,,2026-02-18 17:20:14.476573
+1519,81,121,Asking for information,,2026-02-18 17:20:14.488062
+538,69,226,Referring to entities,,2026-02-12 14:00:02.467094
+541,69,229,Reporting information; Expressing Beliefs and Opinions; Framing or linking information,"A, B and C depend on which verb you use. I think the function of that object clause are more linked to verb semantics",2026-02-12 14:00:02.483974
+542,69,230,Conveying meaning; Making statements; Describing; Reporting information,For C especially: convey a transfer of some sorts,2026-02-12 14:00:02.496573
+544,69,232,Expressing preference; Describing,,2026-02-12 14:00:02.502371
+1481,81,85,Giving directions or instructions; Requesting; Making suggestions,,2026-02-18 17:20:14.423363
+1493,81,96,Expressing condition; Giving directions or instructions,,2026-02-18 17:20:14.441121
+1495,81,100,Referring to entities; Other: See comments,"Probably also two constructions? ""This is a very ADJ NOUN"". (Describing entitities; Referring to entities; Qualifying entities and events"".    BE very ADJ about X. (Focus more on the person who qualifies something). ",2026-02-18 17:20:14.445341
+1499,81,101,Pointing to entities; Specifying information; Referring to entities,Asking for advice is too general and may refer to the whole sentence and not only this construction?,2026-02-18 17:20:14.449102
+1505,81,109,"Referring to actions, events or states; Expressing preference",This is a clear semi-schematic construction with a meaning side: Expressing the positive feelings experienced during an activity.,2026-02-18 17:20:14.458766
+1515,81,119,Referring to entities; Referring to additional or alternative entities; Specifying information,,2026-02-18 17:20:14.4781
+1516,81,120,Asking for information,Different constructions? BE SUBJ MOTION (Are you going? Are you playing? Are you swimming) HAVE SUBJ got OBJ (Here you express possession).,2026-02-18 17:20:14.486989
+545,69,234,Asking for information,,2026-02-12 14:00:02.505892
+550,69,238,Asking for information; Other: Referring to future actions/ indicating or asking about intentions / offering advice,,2026-02-12 14:00:02.567876
+553,69,241,Making offers and invitations; Expressing politeness,,2026-02-12 14:00:02.585733
+1520,68,165,Describing,,2026-02-19 14:03:25.496496
+1521,68,166,Specifying,,2026-02-19 14:04:28.691514
+1522,68,167,Providing detail; Expressing degree; Expressing evaluation; Describing,,2026-02-19 14:05:20.690912
+1523,68,168,Referring back to entities,,2026-02-19 14:05:39.364839
+1524,68,169,Comparing within a set,,2026-02-19 14:06:00.278585
+1525,68,170,Referring to past actions and events; Emphasizing the affected entity; Referring to the affected entity,,2026-02-19 14:07:08.14725
+1526,68,171,"Referring to present states, events and facts; Emphasizing the affected entity",,2026-02-19 14:07:29.022904
+1527,68,172,Referring to past actions and events; Expressing progression; Expressing frequency,,2026-02-19 14:09:36.768496
+1528,68,173,Referring to past actions and events; Expressing progression,,2026-02-19 14:10:49.760109
+1529,68,174,Referring to past actions and events; Referring to the acting or experiencing entity; Referring to the affected entity; Referring to third-person subjects; Reporting information,,2026-02-19 14:11:32.360296
+1530,68,174,Referring to past actions and events; Referring to the acting or experiencing entity; Referring to the affected entity; Referring to third-person subjects; Reporting information,,2026-02-19 14:11:43.741029
+1531,68,175,Referring to past actions and events; Expressing negation; Conveying meaning; Making statements; Describing,,2026-02-19 14:12:01.99831
+1532,68,176,Referring to past actions and events; Asking for information,,2026-02-19 14:12:17.753091
+1533,68,177,Referring to past actions and events; Sequencing events,,2026-02-19 14:13:35.746061
+1534,68,178,Comparing within a set; Describing; Referring to present states events and facts,,2026-02-19 14:13:49.097259
+1535,68,179,"Referring to actions, events or states",,2026-02-19 14:14:03.441803
+1536,68,180,"Referring to actions, events or states; Asking for confirmation",,2026-02-19 14:14:48.534233
+1537,68,181,Referring to entities; Expressing quantity,,2026-02-19 14:15:02.481449
+1538,68,182,Referring to entities; Expressing quantity,,2026-02-19 14:15:22.564839
+1539,68,183,Expressing possession; Specifying information; Pointing to entities,,2026-02-19 14:15:33.844709
+1540,68,184,Referring to entities; Expressing possession; Referring to third-person subjects; Referring to the acting or experiencing entity,,2026-02-19 14:16:05.095726
+1541,68,185,Referring back to entities; Expressing possession,,2026-02-19 14:16:29.68561
+1542,68,186,Referring back to entities; Expressing possession,,2026-02-19 14:16:51.385458
+1543,68,187,Describing; Comparing within a set,,2026-02-19 14:17:07.308026
+1544,68,188,Describing; Expressing manner,,2026-02-19 14:18:08.175456
+1545,68,189,Describing; Comparing,,2026-02-19 14:18:40.81603
+1546,68,190,Referring to entities; Describing,,2026-02-19 14:19:03.709583
+1547,68,191,Situating entities in space; Conveying meaning; Making statements; Describing,,2026-02-19 14:19:33.608011
+1548,68,192,"Referring to impersonal events; Referring to actions, events or states",,2026-02-19 14:20:03.272964
+1549,68,193,Situating events in time; Referring to present states events and facts,,2026-02-19 14:20:27.831341
+1550,68,194,"Referring to actions, events or states; Asking for information",,2026-02-19 14:27:40.688623
+1551,68,195,"Referring to present states, events and facts; Expressing progression; Expressing negation",,2026-02-19 14:27:53.416871
+1552,68,196,"Asking for information; Expressing progression; Referring to present states, events and facts",,2026-02-19 14:28:09.380871
+1553,68,197,Referring to past events with present relevance,,2026-02-19 14:28:28.117776
+1554,68,198,Referring to past events with present relevance; Expressing negation,,2026-02-19 14:28:40.78349
+1555,68,199,Referring to past events with present relevance; Asking for information,,2026-02-19 14:28:52.772745
+1556,68,200,Referring to past events with present relevance; Situating events in time; Referring to self,,2026-02-19 14:29:13.055962
+1557,68,201,Referring to future actions and events; Referring to third-person subjects; Requesting,,2026-02-19 14:29:34.23072
+1558,68,202,"Referring to present states, events and facts; Asking for information",,2026-02-19 14:29:53.605216
+1559,68,203,"Expressing frequency; Referring to the acting or experiencing entity; Referring to third-person subjects; Referring to present states, events and facts",,2026-02-19 14:30:22.68518
+1560,68,204,Expressing quantity; Making suggestions,,2026-02-19 14:30:36.749196
+1561,68,165,Describing,,2026-02-19 14:30:48.773621
+1562,68,166,Specifying,,2026-02-19 14:30:48.810369
+1563,68,167,Providing detail; Expressing degree; Expressing evaluation; Describing,,2026-02-19 14:30:48.834013
+1565,68,169,Comparing within a set,,2026-02-19 14:30:48.846138
+1578,68,184,Referring to entities; Expressing possession; Referring to third-person subjects; Referring to the acting or experiencing entity,,2026-02-19 14:30:48.934641
+1582,68,187,Describing; Comparing within a set,,2026-02-19 14:30:48.955722
+1587,68,189,Describing; Comparing,,2026-02-19 14:30:48.985504
+1588,68,192,"Referring to impersonal events; Referring to actions, events or states",,2026-02-19 14:30:48.992254
+1589,68,193,Situating events in time; Referring to present states events and facts,,2026-02-19 14:30:49.002976
+1591,68,195,"Referring to present states, events and facts; Expressing progression; Expressing negation",,2026-02-19 14:30:49.021568
+1594,68,198,Referring to past events with present relevance; Expressing negation,,2026-02-19 14:30:49.027808
+1595,68,199,Referring to past events with present relevance; Asking for information,,2026-02-19 14:30:49.037966
+1596,68,200,Referring to past events with present relevance; Situating events in time; Referring to self,,2026-02-19 14:30:49.046232
+1597,68,201,Referring to future actions and events; Referring to third-person subjects; Requesting,,2026-02-19 14:30:49.058509
+1599,68,203,"Expressing frequency; Referring to the acting or experiencing entity; Referring to third-person subjects; Referring to present states, events and facts",,2026-02-19 14:30:49.067481
+1600,68,204,Expressing quantity; Making suggestions,,2026-02-19 14:30:49.072317
+546,69,233,Asking for information,,2026-02-12 14:00:02.507267
+554,69,242,Asking for information,,2026-02-12 14:00:02.586473
+1564,68,168,Referring back to entities,,2026-02-19 14:30:48.845569
+1566,68,170,Referring to past actions and events; Emphasizing the affected entity; Referring to the affected entity,,2026-02-19 14:30:48.853062
+1567,68,171,"Referring to present states, events and facts; Emphasizing the affected entity",,2026-02-19 14:30:48.858693
+1568,68,172,Referring to past actions and events; Expressing progression; Expressing frequency,,2026-02-19 14:30:48.8644
+1569,68,173,Referring to past actions and events; Expressing progression,,2026-02-19 14:30:48.867048
+1570,68,175,Referring to past actions and events; Expressing negation; Conveying meaning; Making statements; Describing,,2026-02-19 14:30:48.880484
+1571,68,174,Referring to past actions and events; Referring to the acting or experiencing entity; Referring to the affected entity; Referring to third-person subjects; Reporting information,,2026-02-19 14:30:48.883768
+1572,68,176,Referring to past actions and events; Asking for information,,2026-02-19 14:30:48.893943
+1573,68,177,Referring to past actions and events; Sequencing events,,2026-02-19 14:30:48.899157
+1574,68,179,"Referring to actions, events or states",,2026-02-19 14:30:48.901051
+1575,68,178,Comparing within a set; Describing; Referring to present states events and facts,,2026-02-19 14:30:48.908268
+1576,68,181,Referring to entities; Expressing quantity,,2026-02-19 14:30:48.91588
+1577,68,180,"Referring to actions, events or states; Asking for confirmation",,2026-02-19 14:30:48.920252
+1579,68,182,Referring to entities; Expressing quantity,,2026-02-19 14:30:48.93718
+1580,68,183,Expressing possession; Specifying information; Pointing to entities,,2026-02-19 14:30:48.941024
+1581,68,186,Referring back to entities; Expressing possession,,2026-02-19 14:30:48.949843
+1583,68,185,Referring back to entities; Expressing possession,,2026-02-19 14:30:48.955729
+1584,68,188,Describing; Expressing manner,,2026-02-19 14:30:48.968934
+1585,68,190,Referring to entities; Describing,,2026-02-19 14:30:48.980148
+1586,68,191,Situating entities in space; Conveying meaning; Making statements; Describing,,2026-02-19 14:30:48.985161
+1590,68,194,"Referring to actions, events or states; Asking for information",,2026-02-19 14:30:49.003442
+1592,68,196,"Asking for information; Expressing progression; Referring to present states, events and facts",,2026-02-19 14:30:49.0224
+1593,68,197,Referring to past events with present relevance,,2026-02-19 14:30:49.027261
+1598,68,202,"Referring to present states, events and facts; Asking for information",,2026-02-19 14:30:49.06678
+549,69,237,Asking for information; Other: Asking for evaluation; Referring to past events with present relevance,,2026-02-12 14:00:02.526182
+559,59,50,Describing; Referring to self; Referring to the acting or experiencing entity; Referring to the affected entity,,2026-02-12 14:05:05.772894
+560,59,51,Situating entities in space,,2026-02-12 14:09:04.436968
+561,59,52,Sequencing events; Situating events or entities; Situating entities in space,,2026-02-12 14:09:29.767485
+562,59,53,Situating events or entities,,2026-02-12 14:14:37.489458
+563,71,212,Reporting information; Expressing Beliefs and Opinions; Referring to self,,2026-02-12 16:05:48.035704
+564,71,213,Expressing obligation or necessity; Other: Referring to future actions and events; Referring to present states events and facts,,2026-02-12 16:06:56.650803
+565,71,214,Framing or linking information,,2026-02-12 16:07:41.368933
+566,71,215,Referring to entities; Expressing quantity,,2026-02-12 16:08:37.750611
+567,71,216,Expressing quantity; Expressing certainty,,2026-02-12 16:09:33.842296
+568,71,217,Referring to entities; Expressing quantity,There is a small formatting error in the examples.,2026-02-12 16:12:26.655769
+569,71,218,Expressing wishes; Pointing to entities,,2026-02-12 16:12:45.413406
+570,71,219,Framing or linking information,,2026-02-12 16:13:54.615419
+571,71,220,Describing; Comparing within a set; Conveying meaning; Making statements; Emphasizing the affected entity,,2026-02-12 16:15:16.847445
+572,71,220,Describing; Comparing within a set; Making statements; Emphasizing the affected entity,,2026-02-12 16:15:30.938882
+573,71,221,Referring to entities; Expressing quantity,,2026-02-12 16:16:46.330543
+574,71,222,Referring to entities; Referring to additional or alternative entities,,2026-02-12 16:17:34.155412
+575,67,165,Describing,,2026-02-12 19:27:41.549096
+576,67,166,Referring to entities; Specifying,,2026-02-12 19:28:23.953613
+577,67,167,Describing; Providing detail,,2026-02-12 19:30:33.133739
+578,67,168,Referring to entities; Referring back to entities; Referring to third-person subjects; Reporting information,,2026-02-12 19:31:36.376358
+579,67,169,Describing; Comparing within a set,,2026-02-12 19:32:27.816734
+580,67,170,Referring to past actions and events; Referring to the affected entity; Reporting information,,2026-02-12 19:33:46.798993
+581,67,171,"Referring to present states, events and facts; Emphasizing the affected entity",,2026-02-12 19:34:28.367543
+582,67,172,Referring to past actions and events; Expressing progression,,2026-02-12 19:35:15.322425
+583,67,173,Referring to past actions and events; Expressing progression,,2026-02-12 19:36:48.069023
+584,67,174,Referring to past actions and events,,2026-02-12 19:37:33.346157
+585,67,175,Referring to past actions and events; Expressing negation,,2026-02-12 19:38:19.137074
+586,67,176,Referring to past actions and events; Asking for information,,2026-02-12 19:38:45.055478
+587,67,177,Referring to past actions and events; Sequencing events,,2026-02-12 19:40:15.510888
+588,67,178,Describing; Comparing within a set; Referring to present states events and facts,,2026-02-12 19:42:18.413013
+589,67,179,"Referring to actions, events or states",,2026-02-13 07:02:36.181918
+590,67,180,"Referring to actions, events or states",,2026-02-13 07:03:13.531252
+591,67,181,Expressing quantity,,2026-02-13 07:03:35.575213
+592,67,181,Expressing quantity; Referring to entities,,2026-02-13 07:04:11.100386
+593,67,182,Referring to entities; Expressing quantity,,2026-02-13 07:04:17.244601
+594,67,183,Expressing possession; Pointing to entities; Specifying information,,2026-02-13 07:05:09.662991
+595,67,184,Referring to entities; Expressing possession; Referring to the acting or experiencing entity,,2026-02-13 07:06:25.895056
+596,67,185,Referring back to entities; Referring to entities; Expressing possession,,2026-02-13 07:07:04.19974
+597,67,186,Referring to entities; Referring back to entities; Expressing possession,,2026-02-13 07:07:41.875958
+598,67,187,Describing; Comparing within a set; Expressing possession,,2026-02-13 07:08:24.915216
+599,67,188,Describing,,2026-02-13 07:09:21.451364
+600,67,189,Describing; Comparing,,2026-02-13 07:10:03.108744
+601,67,190,Referring to entities; Referring back to entities; Describing,,2026-02-13 07:11:56.614495
+602,67,191,Situating entities in space; Conveying meaning; Describing,,2026-02-13 07:13:25.18495
+603,67,192,"Referring to present states events and facts; Referring to actions, events or states",,2026-02-13 07:15:34.815752
+604,67,193,Situating events in time; Referring to present states events and facts,,2026-02-13 07:16:17.220828
+605,67,194,"Asking for information; Referring to actions, events or states",,2026-02-13 07:16:49.50511
+606,67,195,"Referring to present states, events and facts",,2026-02-13 07:31:29.413784
+607,67,196,"Referring to present states, events and facts; Asking for information",,2026-02-13 07:31:54.816328
+608,67,196,"Referring to present states, events and facts; Asking for information; Expressing progression",,2026-02-13 07:32:08.213294
+609,67,195,"Referring to present states, events and facts",,2026-02-13 07:32:27.558246
+610,67,195,"Referring to present states, events and facts; Expressing progression",,2026-02-13 07:32:34.859735
+611,67,196,"Referring to present states, events and facts; Asking for information; Expressing progression",,2026-02-13 07:32:36.700379
+612,67,195,"Referring to present states, events and facts",,2026-02-13 07:32:52.069834
+613,67,196,"Referring to present states, events and facts; Asking for information",,2026-02-13 07:32:52.475211
+614,67,197,Referring to past events with present relevance,,2026-02-13 07:33:24.006297
+615,67,198,Referring to past events with present relevance; Expressing negation,,2026-02-13 07:33:47.112407
+616,67,199,Referring to past events with present relevance; Asking for information,,2026-02-13 07:34:06.048215
+617,67,200,Referring to past events with present relevance; Situating events in time,,2026-02-13 07:34:58.221584
+618,67,201,Referring to future actions and events,,2026-02-13 07:35:40.371073
+619,67,202,"Asking for information; Referring to present states, events and facts",,2026-02-13 07:36:01.308347
+620,67,203,"Referring to present states, events and facts; Expressing frequency; Referring to the acting or experiencing entity; Referring to the affected entity",,2026-02-13 07:36:58.532622
+621,67,204,Expressing quantity; Providing detail; Referring back to entities,,2026-02-13 07:37:32.643589
+622,67,165,Describing,,2026-02-13 07:38:02.34169
+623,67,169,Describing; Comparing within a set,,2026-02-13 07:38:02.422022
+624,67,171,"Referring to present states, events and facts; Emphasizing the affected entity",,2026-02-13 07:38:02.526163
+625,67,166,Referring to entities; Specifying,,2026-02-13 07:38:02.52695
+626,67,167,Describing; Providing detail,,2026-02-13 07:38:02.527358
+627,67,168,Referring to entities; Referring back to entities; Referring to third-person subjects; Reporting information,,2026-02-13 07:38:02.527615
+628,67,172,Referring to past actions and events; Expressing progression,,2026-02-13 07:38:02.544327
+631,67,174,Referring to past actions and events,,2026-02-13 07:38:02.555017
+629,67,170,Referring to past actions and events; Referring to the affected entity; Reporting information,,2026-02-13 07:38:02.548661
+630,67,173,Referring to past actions and events; Expressing progression,,2026-02-13 07:38:02.554099
+632,67,175,Referring to past actions and events; Expressing negation,,2026-02-13 07:38:02.575784
+636,67,179,"Referring to actions, events or states",,2026-02-13 07:38:02.603174
+643,67,186,Referring to entities; Referring back to entities; Expressing possession,,2026-02-13 07:38:02.724176
+648,67,191,Situating entities in space; Conveying meaning; Describing,,2026-02-13 07:38:02.834915
+656,67,198,Referring to past events with present relevance; Expressing negation,,2026-02-13 07:38:02.864426
+662,67,201,Referring to future actions and events,,2026-02-13 07:38:03.03429
+663,71,223,Situating events in time; Sequencing events; Situating events or entities,,2026-02-13 08:16:49.250997
+664,71,224,"Describing, Expressing degree",,2026-02-13 08:17:19.174865
+1601,68,205,Referring to entities; Expressing quantity,,2026-02-19 14:30:49.073543
+1602,62,103,Pointing to entities,,2026-02-19 17:02:57.699907
+1603,62,104,Expressing quantity,,2026-02-19 17:03:27.133083
+1604,62,105,Asking for information; Expressing politeness,,2026-02-19 17:04:05.52382
+1605,62,106,Referring to impersonal events,,2026-02-19 17:08:14.938521
+1606,62,107,Expressing degree,,2026-02-19 17:08:25.002562
+1607,62,108,Expressing manner,,2026-02-19 17:09:07.264446
+633,67,176,Referring to past actions and events; Asking for information,,2026-02-13 07:38:02.576328
+634,67,177,Referring to past actions and events; Sequencing events,,2026-02-13 07:38:02.581028
+635,67,181,Expressing quantity; Referring to entities,,2026-02-13 07:38:02.603078
+642,67,185,Referring back to entities; Referring to entities; Expressing possession,,2026-02-13 07:38:02.723901
+655,67,197,Referring to past events with present relevance,,2026-02-13 07:38:02.86398
+661,67,203,"Referring to present states, events and facts; Expressing frequency; Referring to the acting or experiencing entity; Referring to the affected entity",,2026-02-13 07:38:03.034236
+637,67,180,"Referring to actions, events or states",,2026-02-13 07:38:02.604366
+641,67,184,Referring to entities; Expressing possession; Referring to the acting or experiencing entity,,2026-02-13 07:38:02.722769
+649,67,192,"Referring to present states events and facts; Referring to actions, events or states",,2026-02-13 07:38:02.835345
+653,67,196,"Referring to present states, events and facts; Asking for information",,2026-02-13 07:38:02.86284
+660,67,200,Referring to past events with present relevance; Situating events in time,,2026-02-13 07:38:03.033822
+638,67,182,Referring to entities; Expressing quantity,,2026-02-13 07:38:02.604846
+639,67,178,Describing; Comparing within a set; Referring to present states events and facts,,2026-02-13 07:38:02.604702
+640,67,183,Expressing possession; Pointing to entities; Specifying information,,2026-02-13 07:38:02.610197
+644,67,187,Describing; Comparing within a set; Expressing possession,,2026-02-13 07:38:02.725005
+645,67,188,Describing,,2026-02-13 07:38:02.725223
+646,67,189,Describing; Comparing,,2026-02-13 07:38:02.832205
+647,67,190,Referring to entities; Referring back to entities; Describing,,2026-02-13 07:38:02.833393
+650,67,193,Situating events in time; Referring to present states events and facts,,2026-02-13 07:38:02.836786
+651,67,194,"Asking for information; Referring to actions, events or states",,2026-02-13 07:38:02.856438
+652,67,195,"Referring to present states, events and facts",,2026-02-13 07:38:02.859997
+654,67,199,Referring to past events with present relevance; Asking for information,,2026-02-13 07:38:02.863877
+657,67,202,"Asking for information; Referring to present states, events and facts",,2026-02-13 07:38:03.032836
+658,67,204,Expressing quantity; Providing detail; Referring back to entities,,2026-02-13 07:38:03.033285
+659,67,205,Referring to entities; Expressing quantity,,2026-02-13 07:38:03.03323
+665,71,224,"Describing, Expressing degree",,2026-02-13 08:17:59.646306
+666,71,225,"Describing, Expressing degree; Other: Expressing advice",,2026-02-13 08:18:03.80184
+667,71,226,Referring to entities,,2026-02-13 08:19:11.888418
+668,71,227,Expressing quantity; Expressing condition; Expressing degree,,2026-02-13 08:21:08.561645
+669,71,228,Referring to entities,,2026-02-13 08:21:19.995968
+670,71,229,Reporting information; Expressing Beliefs and Opinions; Framing or linking information; Giving advice; Giving directions or instructions,,2026-02-13 08:22:09.139443
+671,71,230,Reporting information; Making statements,,2026-02-13 08:24:28.100569
+672,71,231,"Referring to actions, events or states; Other: Expressing desire","Not sure if ""Expressing desire"" falls under the ""Expressing belief/opinion"" umbrella or the granularity of the categories",2026-02-13 08:27:44.118512
+673,64,129,Expressing probability,,2026-02-13 11:43:58.045946
+674,64,130,Expressing possibility; Expressing ability,,2026-02-13 11:44:13.42122
+675,64,131,Referring to past actions and events; Expressing negation,,2026-02-13 11:44:44.48053
+676,64,132,Requesting; Expressing politeness,,2026-02-13 11:44:58.555749
+677,64,133,Expressing obligation or necessity; Conveying meaning,,2026-02-13 11:45:39.294334
+678,64,134,Expressing negation; Expressing obligation or necessity,,2026-02-13 11:47:02.656835
+679,64,135,Expressing obligation or necessity; Asking for information,,2026-02-13 11:48:52.302242
+680,64,136,Expressing probability; Providing detail,,2026-02-13 11:49:24.6214
+681,64,137,Expressing probability; Expressing beliefs and opinions,,2026-02-13 11:49:44.249816
+682,64,138,Expressing obligation or necessity,,2026-02-13 11:49:57.31884
+683,64,139,Expressing obligation or necessity; Expressing negation,,2026-02-13 11:50:13.833005
+684,64,140,Referring to future actions and events,,2026-02-13 11:51:36.256809
+685,64,141,Referring to future actions and events; Asking for information,,2026-02-13 11:51:50.974059
+686,64,142,Giving advice; Making suggestions,,2026-02-13 11:52:06.233845
+687,64,143,Expressing negation; Giving advice,,2026-02-13 11:53:05.100138
+688,64,144,Asking for advice; Expressing politeness,,2026-02-13 11:53:30.926429
+689,64,145,Referring to future actions and events; Expressing negation,,2026-02-13 11:53:52.707327
+690,64,146,Referring to future actions and events; Asking for information,,2026-02-13 11:54:13.308393
+691,64,147,Expressing hypotheses or inferences; Expressing preference,,2026-02-13 11:54:43.462945
+692,64,148,Expressing hypotheses or inferences; Expressing negation,,2026-02-13 11:55:02.547237
+693,60,83,Describing,,2026-02-13 12:38:33.007377
+694,60,84,Other: Emphasizing,,2026-02-13 12:40:06.222749
+695,60,85,Requesting; Giving directions or instructions,,2026-02-13 12:40:47.832431
+696,60,86,Other: Connecting words/phrases/clauses,,2026-02-13 12:42:02.382108
+697,60,87,Referring to entities,,2026-02-13 12:42:17.542696
+698,60,88,Referring to the affected entity,,2026-02-13 12:42:52.325523
+699,60,89,Comparing; Comparing within a set,,2026-02-13 12:43:25.521585
+700,60,90,Other: Tense,,2026-02-13 12:45:11.11808
+701,60,91,Comparing,,2026-02-13 12:45:28.350092
+702,60,92,Expressing certainty,,2026-02-13 12:45:41.632098
+703,60,93,Comparing,,2026-02-13 12:45:53.954276
+704,60,94,Comparing,,2026-02-13 12:46:03.882349
+705,60,95,Expressing condition,,2026-02-13 12:46:41.535245
+706,60,95,Expressing condition,,2026-02-13 12:46:50.775778
+707,60,95,Expressing condition; Making suggestions,,2026-02-13 12:47:11.85643
+708,60,96,Expressing condition,,2026-02-13 12:47:19.174267
+709,60,97,Expressing quantity,,2026-02-13 12:47:48.500016
+710,60,98,Referring to entities; Describing; Specifying,,2026-02-13 12:48:02.781753
+711,60,99,Referring to entities,,2026-02-13 12:48:31.589878
+712,60,99,Referring to entities,,2026-02-13 12:48:52.570928
+713,60,100,Referring to entities,,2026-02-13 12:49:09.118927
+714,60,101,Referring to entities; Pointing to entities,,2026-02-13 12:49:21.405173
+715,60,102,Pointing to entities,,2026-02-13 12:49:28.75873
+716,60,103,Pointing to entities; Referring to entities,,2026-02-13 12:49:42.758006
+717,60,104,Expressing possession,,2026-02-13 12:50:09.301834
+718,60,105,Asking for information,,2026-02-13 12:50:20.695159
+719,60,106,Referring to impersonal events,,2026-02-13 12:50:29.368686
+720,60,106,Referring to impersonal events; Making statements,,2026-02-13 12:50:33.486709
+721,60,107,Expressing degree,,2026-02-13 12:50:49.14237
+722,60,107,Expressing degree,,2026-02-13 12:50:55.099675
+723,60,108,Expressing manner,,2026-02-13 12:51:08.279428
+724,60,109,Expressing preference,,2026-02-13 12:51:27.146317
+725,60,110,Referring to future actions and events,,2026-02-13 12:51:37.092754
+726,60,111,Referring to future actions and events,,2026-02-13 12:52:00.228217
+727,60,112,Referring to future actions and events; Asking for information,,2026-02-13 12:52:13.282086
+728,60,113,Referring to future actions and events; Expressing negation,,2026-02-13 12:52:22.271917
+729,60,114,"Referring to actions, events or states",,2026-02-13 12:53:53.989393
+730,60,115,Referring to future actions and events,,2026-02-13 12:54:10.528449
+731,60,116,Referring to future actions and events; Asking for information,,2026-02-13 12:54:17.728896
+732,60,117,Referring to entities,,2026-02-13 12:54:40.193315
+733,60,117,Referring to entities,,2026-02-13 12:54:52.21119
+734,60,118,Referring to entities,,2026-02-13 12:55:11.799938
+735,60,119,Referring to additional or alternative entities,,2026-02-13 12:55:26.5155
+736,60,120,Asking for information,,2026-02-13 12:55:49.246433
+737,60,121,Asking for information,,2026-02-13 12:55:55.616436
+738,60,122,Asking for information,,2026-02-13 12:56:04.632007
+739,60,83,Describing,,2026-02-13 12:56:22.393231
+740,60,84,Other: Emphasizing,,2026-02-13 12:56:22.398024
+741,60,87,Referring to entities,,2026-02-13 12:56:22.405264
+743,60,88,Referring to the affected entity,,2026-02-13 12:56:22.404971
+744,60,85,Requesting; Giving directions or instructions,,2026-02-13 12:56:22.406373
+742,60,90,Other: Tense,,2026-02-13 12:56:22.405328
+745,60,89,Comparing; Comparing within a set,,2026-02-13 12:56:22.409648
+746,60,86,Other: Connecting words/phrases/clauses,,2026-02-13 12:56:22.411292
+747,60,95,Expressing condition; Making suggestions,,2026-02-13 12:56:22.415636
+748,60,92,Expressing certainty,,2026-02-13 12:56:22.41583
+749,60,93,Comparing,,2026-02-13 12:56:22.416008
+750,60,91,Comparing,,2026-02-13 12:56:22.41632
+751,60,94,Comparing,,2026-02-13 12:56:22.417069
+752,60,96,Expressing condition,,2026-02-13 12:56:22.418098
+753,60,98,Referring to entities; Describing; Specifying,,2026-02-13 12:56:22.422318
+754,60,99,Referring to entities,,2026-02-13 12:56:22.422511
+755,60,97,Expressing quantity,,2026-02-13 12:56:22.423969
+756,60,100,Referring to entities,,2026-02-13 12:56:22.424614
+757,60,102,Pointing to entities,,2026-02-13 12:56:22.426594
+758,60,101,Referring to entities; Pointing to entities,,2026-02-13 12:56:22.426606
+759,60,104,Expressing possession,,2026-02-13 12:56:22.430331
+760,60,106,Referring to impersonal events; Making statements,,2026-02-13 12:56:22.431777
+761,60,105,Asking for information,,2026-02-13 12:56:22.433095
+762,60,109,Expressing preference,,2026-02-13 12:56:22.436166
+763,60,110,Referring to future actions and events,,2026-02-13 12:56:22.436488
+764,60,103,Pointing to entities; Referring to entities,,2026-02-13 12:56:22.437922
+765,60,108,Expressing manner,,2026-02-13 12:56:22.438264
+766,60,107,Expressing degree,,2026-02-13 12:56:22.438293
+767,60,111,Referring to future actions and events,,2026-02-13 12:56:22.440535
+768,60,112,Referring to future actions and events; Asking for information,,2026-02-13 12:56:22.443467
+769,60,113,Referring to future actions and events; Expressing negation,,2026-02-13 12:56:22.445395
+770,60,115,Referring to future actions and events,,2026-02-13 12:56:22.446143
+771,60,116,Referring to future actions and events; Asking for information,,2026-02-13 12:56:22.448089
+772,60,114,"Referring to actions, events or states",,2026-02-13 12:56:22.448433
+773,60,117,Referring to entities,,2026-02-13 12:56:22.449284
+774,60,118,Referring to entities,,2026-02-13 12:56:22.450922
+775,60,119,Referring to additional or alternative entities,,2026-02-13 12:56:22.450991
+776,60,121,Asking for information,,2026-02-13 12:56:22.454218
+777,60,120,Asking for information,,2026-02-13 12:56:22.454892
+778,60,123,Expressing quantity,,2026-02-13 12:56:22.455958
+779,60,122,Asking for information,,2026-02-13 12:56:22.456193
+780,73,206,Expressing quantity,,2026-02-13 14:31:43.717515
+781,73,207,Expressing quantity,,2026-02-13 14:32:11.423877
+782,73,208,Asking for confirmation,,2026-02-13 14:32:59.628229
+783,73,209,Referring to self-directed actions,"I would take the reflexive pronoun used along with the verb ""enjoy"" not to be self-directed, but rather part of the idiosyncratic behavior of the transitive verb ""to enjoy [_]""",2026-02-13 14:35:30.230027
+784,73,210,Reporting information,,2026-02-13 14:36:16.680229
+785,73,211,Reporting information,,2026-02-13 14:36:58.335175
+786,73,212,Reporting information; Expressing Beliefs and Opinions,,2026-02-13 14:37:28.639163
+787,73,213,Expressing obligation or necessity,,2026-02-13 14:37:43.436628
+788,73,214,Framing or linking information,,2026-02-13 14:38:00.51514
+789,73,215,Expressing quantity,,2026-02-13 14:38:31.971475
+790,73,216,Expressing quantity,,2026-02-13 14:38:48.817492
+791,73,217,Referring to entities; Expressing quantity,,2026-02-13 14:39:21.400283
+792,73,218,Expressing wishes,,2026-02-13 14:39:43.368975
+793,73,219,Framing or linking information,,2026-02-13 14:39:58.949799
+794,73,220,Describing; Comparing within a set,"""Comparing within a set"" in the sense of comparing the entity in question with all the others (as a whole) and signaling it as the one possessing the attribute in the maximum degree",2026-02-13 14:42:10.270804
+795,73,221,Referring to entities; Expressing quantity,,2026-02-13 14:42:25.837205
+796,73,222,Referring to entities,,2026-02-13 14:42:39.488913
+797,73,223,Situating events in time; Sequencing events,,2026-02-13 14:42:56.493587
+798,73,224,"Describing, Expressing degree",,2026-02-13 14:43:18.176115
+799,73,225,"Describing, Expressing degree",,2026-02-13 14:43:51.926974
+800,73,226,Referring to entities,,2026-02-13 14:50:01.998611
+801,73,227,Expressing quantity,,2026-02-13 14:50:34.83498
+802,73,228,Referring to entities,,2026-02-13 14:51:06.548684
+803,73,229,Reporting information,,2026-02-13 14:59:51.535655
+804,73,230,Reporting information; Making statements,,2026-02-13 15:00:30.626624
+805,73,231,"Referring to actions, events or states",,2026-02-13 15:11:34.456269
+806,64,149,"Expressing quantity, Expressing negation",,2026-02-13 15:11:53.193876
+807,64,150,Making statements; Expressing negation,,2026-02-13 15:12:30.310591
+808,64,151,Expressing negation; Specifying information,,2026-02-13 15:13:14.628085
+809,64,152,Referring to past actions and events; Expressing negation,,2026-02-13 15:13:37.571142
+810,62,88,Other: Comparing within a set,,2026-02-13 15:49:04.274615
+811,62,89,Comparing; Describing,,2026-02-13 15:51:47.478189
+812,62,90,"Other: Referring to past events with present relevance; Referring to actions, events or states",,2026-02-13 15:53:26.918733
+813,62,91,Describing; Comparing,,2026-02-13 15:54:11.384265
+814,62,92,Expressing certainty,,2026-02-13 15:55:06.766019
+815,62,93,Describing; Comparing,,2026-02-13 15:55:27.034231
+816,62,94,Describing; Comparing,,2026-02-13 15:55:52.723204
+817,62,95,Expressing condition,,2026-02-13 15:56:29.429761
+818,62,95,"Expressing condition; Referring to actions, events or states",,2026-02-13 15:56:59.924205
+819,62,96,Expressing condition; Giving directions or instructions,,2026-02-13 15:57:01.410744
+820,62,97,Expressing quantity,,2026-02-13 15:57:53.489104
+821,62,98,Referring to entities; Specifying; Describing,,2026-02-13 15:59:50.691643
+822,62,99,Referring to entities; Referring to third-person subjects,,2026-02-13 16:01:51.21704
+823,62,99,Referring to entities; Referring to third-person subjects,,2026-02-13 16:02:14.005046
+824,62,100,Referring to entities; Other: Referring to third-person subjects,,2026-02-13 16:02:27.162079
+825,62,101,Pointing to entities; Specifying information,,2026-02-13 16:03:14.28712
+826,62,102,Pointing to entities; Other: Specifying information,,2026-02-13 16:03:58.566301
+827,55,1,Describing,,2026-02-15 10:21:59.294838
+828,55,2,Making statements; Pointing to entities; Other: Expressing opinions,,2026-02-15 10:28:27.755376
+829,55,3,Making statements,,2026-02-15 10:31:47.550243
+830,55,4,Asking for information,,2026-02-15 10:33:19.610804
+831,55,5,Describing,,2026-02-15 10:34:48.661194
+832,55,6,Describing; Referring to past events with present relevance; Referring to present states events and facts; Referring to self; Referring to entities,,2026-02-15 10:36:43.172415
+833,55,7,Describing; Giving advice,,2026-02-15 10:37:47.119706
+834,55,8,Expressing progression; Other: Expressing intent,,2026-02-15 10:40:12.246487
+835,55,9,Framing or linking information; Expressing cause; Other: Making excuses,,2026-02-15 10:44:30.853345
+836,55,10,Specifying information,,2026-02-15 10:47:36.111206
+837,55,11,Referring to entities; Conveying meaning; Making statements; Describing,These selections were made based on what is typical of A2 communication in general because I can't think of any function that does not require a common noun.,2026-02-15 10:53:55.21261
+838,55,12,Referring to entities; Making statements; Describing; Expressing obligation or necessity,,2026-02-15 10:57:55.004326
+839,55,13,Expressing degree; Describing,,2026-02-15 10:58:57.30172
+840,55,14,Providing detail; Expressing degree; Reporting information; Requesting; Sequencing events,,2026-02-15 11:00:07.54904
+841,55,15,Referring to entities; Pointing to entities; Asking for information; Comparing; Comparing within a set,,2026-02-15 11:01:23.630626
+842,55,14,Providing detail; Expressing degree; Reporting information; Requesting; Sequencing events,,2026-02-15 11:03:56.720155
+843,55,15,Referring to entities; Pointing to entities; Asking for information; Comparing; Comparing within a set,,2026-02-15 11:03:58.866537
+844,55,16,Referring to entities,,2026-02-15 11:04:03.290015
+845,55,17,Expressing frequency; Making statements,,2026-02-15 11:05:24.210256
+846,55,18,Expressing certainty; Other: Indicating frequency,,2026-02-15 11:08:43.455799
+847,55,19,"Referring to future actions and events; Other: Making offers, promises, or predictions",,2026-02-15 11:11:18.892932
+848,55,20,Expressing hypotheses or inferences; Expressing negation,,2026-02-15 11:12:29.811849
+849,75,1,Describing,"potentially also ""providing detail"" but I think it is more a general description as primary function",2026-02-15 11:13:17.710819
+850,75,1,Describing,"potentially also ""providing detail"" but I think it is more a general description as primary function",2026-02-15 11:13:34.051991
+851,75,2,Making statements,,2026-02-15 11:14:16.230432
+852,75,3,Expressing wishes; Giving advice; Other: Expressing possibilities,,2026-02-15 11:15:24.433246
+853,55,21,Expressing indefiniteness; Other: Making promises,,2026-02-15 11:15:28.044315
+854,55,22,Describing; Comparing; Comparing within a set; Other: Expressing opinions,,2026-02-15 11:16:52.919321
+855,55,22,Describing; Comparing; Comparing within a set; Other: Expressing opinions,,2026-02-15 11:17:08.345149
+856,55,22,Describing; Comparing; Comparing within a set; Other: Expressing opinions,,2026-02-15 11:17:16.158167
+857,55,22,Describing; Comparing; Comparing within a set; Other: Expressing opinions,,2026-02-15 11:17:24.53964
+858,55,22,Describing; Comparing; Comparing within a set; Other: Expressing opinions,,2026-02-15 11:17:46.525224
+859,75,4,Asking for information; Other: Asking for confirmation,"Maybe one could count ""confirmation"" as information. Example: Is this correct? Are you in the office? ",2026-02-15 11:19:20.653819
+860,55,22,Describing; Comparing; Comparing within a set; Other: Expressing opinions,,2026-02-15 11:19:44.297112
+861,55,22,Describing; Comparing; Comparing within a set; Other: Expressing opinions,,2026-02-15 11:20:08.260883
+862,55,22,Describing; Comparing; Comparing within a set; Other: Expressing opinions,,2026-02-15 11:20:23.29125
+863,75,5,Describing,,2026-02-15 11:21:55.564684
+864,75,5,Describing,,2026-02-15 11:22:16.461427
+865,55,23,Describing; Referring to self,"I don't quite understand how this form is different from the previous one. In ""I am 22 years old,"" ""22 years old"" is the complement.",2026-02-15 11:22:55.876443
+866,75,6,Describing,,2026-02-15 11:23:31.259699
+867,55,24,Framing or linking information; Referring to future actions and events; Referring to impersonal events; Referring to entities; Referring to past actions and events,,2026-02-15 11:24:19.015704
+868,75,1,Describing,"potentially also ""providing detail"" but I think it is more a general description as primary function",2026-02-15 11:24:42.378083
+869,75,2,Making statements,,2026-02-15 11:24:51.219619
+870,75,3,Expressing wishes; Giving advice; Other: Expressing possibilities,,2026-02-15 11:24:55.524846
+871,75,4,Asking for information; Other: Asking for confirmation,"Maybe one could count ""confirmation"" as information. Example: Is this correct? Are you in the office? ",2026-02-15 11:24:57.020202
+872,75,5,Describing,"could also be ""referring to entiries"" but I would say this would then start with ""this/that + a ...""
+",2026-02-15 11:25:51.148615
+873,55,25,"Referring to actions, events or states; Situating events in time; Specifying information; Pointing to entities; Asking for advice",I would say this is too broad a category to be considered a form.,2026-02-15 11:26:00.934858
+874,55,26,Expressing possibility; Expressing ability,,2026-02-15 11:26:36.679832
+875,75,5,Describing,"
+",2026-02-15 11:27:29.658319
+876,55,27,Expressing possibility; Expressing ability; Expressing negation; Referring to past events with present relevance; Referring to present states events and facts,,2026-02-15 11:27:29.936348
+877,75,5,Describing,,2026-02-15 11:27:52.759242
+878,75,6,Describing,,2026-02-15 11:28:04.426795
+879,55,28,Asking for information,,2026-02-15 11:28:29.977541
+880,55,29,"Referring to actions, events or states; Giving directions or instructions; Making offers and invitations; Making suggestions",,2026-02-15 11:29:37.702933
+881,75,7,Describing,"if could also be ""expressing quantities"" but I think ""a few people"" with ""few"" used as adjective is more B-level CEFR, but I am not entirely sure",2026-02-15 11:30:22.109038
+882,55,30,Referring to future actions and events; Sequencing events; Situating events or entities; Situating events in time,,2026-02-15 11:30:49.333181
+883,55,31,Other: Expressing intent,,2026-02-15 11:32:44.643838
+884,75,8,"Referring to actions, events or states",,2026-02-15 11:33:12.781348
+885,75,9,Framing or linking information; Expressing cause,,2026-02-15 11:34:13.190141
+886,55,32,Describing; Referring to entities,"And I would say this is way too specific, haha. ",2026-02-15 11:34:28.18586
+887,75,10,Framing or linking information,,2026-02-15 11:35:15.146586
+888,55,33,"Describing; Expressing negation; Referring to actions, events or states; Making statements",,2026-02-15 11:35:41.838258
+889,55,34,"Referring to actions, events or states; Expressing negation",,2026-02-15 11:36:03.290245
+890,55,35,Expressing possibility; Expressing ability; Expressing negation; Making statements,,2026-02-15 11:36:21.379342
+891,75,11,Referring to entities,,2026-02-15 11:36:29.34605
+892,55,36,Making statements; Expressing negation,,2026-02-15 11:36:45.909969
+893,55,37,Making statements; Expressing negation; Describing,,2026-02-15 11:37:14.31122
+894,55,38,Situating events in time,,2026-02-15 11:38:47.577885
+895,75,12,Other: combining 2 words to act as a single unit; Referring to entities,,2026-02-15 11:38:52.694795
+896,55,39,Describing,,2026-02-15 11:39:12.504636
+897,75,13,Expressing degree; Describing,,2026-02-15 11:39:19.302062
+898,75,13,Expressing degree; Describing,,2026-02-15 11:39:24.348845
+899,55,40,Referring to entities; Expressing beliefs and opinions,,2026-02-15 11:39:47.596369
+900,75,14,Expressing degree; Providing detail,,2026-02-15 11:39:48.064598
+901,55,1,Describing,,2026-02-15 11:40:38.139614
+902,55,2,Making statements; Pointing to entities; Other: Expressing opinions,,2026-02-15 11:40:38.164294
+903,55,4,Asking for information,,2026-02-15 11:40:38.176083
+904,55,7,Describing; Giving advice,,2026-02-15 11:40:38.181963
+905,55,8,Expressing progression; Other: Expressing intent,,2026-02-15 11:40:38.189427
+906,55,3,Making statements,,2026-02-15 11:40:38.197562
+907,55,9,Framing or linking information; Expressing cause; Other: Making excuses,,2026-02-15 11:40:38.204884
+908,55,10,Specifying information,,2026-02-15 11:40:38.215271
+909,55,11,Referring to entities; Conveying meaning; Making statements; Describing,These selections were made based on what is typical of A2 communication in general because I can't think of any function that does not require a common noun.,2026-02-15 11:40:38.218769
+910,55,6,Describing; Referring to past events with present relevance; Referring to present states events and facts; Referring to self; Referring to entities,,2026-02-15 11:40:38.224025
+911,55,12,Referring to entities; Making statements; Describing; Expressing obligation or necessity,,2026-02-15 11:40:38.227324
+912,55,5,Describing,,2026-02-15 11:40:38.237922
+913,55,13,Expressing degree; Describing,,2026-02-15 11:40:38.239031
+914,55,14,Providing detail; Expressing degree; Reporting information; Requesting; Sequencing events,,2026-02-15 11:40:38.244761
+915,55,15,Referring to entities; Pointing to entities; Asking for information; Comparing; Comparing within a set,,2026-02-15 11:40:38.250098
+916,55,17,Expressing frequency; Making statements,,2026-02-15 11:40:38.254501
+917,55,16,Referring to entities,,2026-02-15 11:40:38.254652
+918,55,18,Expressing certainty; Other: Indicating frequency,,2026-02-15 11:40:38.26681
+919,55,19,"Referring to future actions and events; Other: Making offers, promises, or predictions",,2026-02-15 11:40:38.268091
+920,55,20,Expressing hypotheses or inferences; Expressing negation,,2026-02-15 11:40:38.272042
+921,55,21,Expressing indefiniteness; Other: Making promises,,2026-02-15 11:40:38.275279
+922,55,22,Describing; Comparing; Comparing within a set; Other: Expressing opinions,,2026-02-15 11:40:38.278222
+923,55,23,Describing; Referring to self,"I don't quite understand how this form is different from the previous one. In ""I am 22 years old,"" ""22 years old"" is the complement.",2026-02-15 11:40:38.280734
+924,55,24,Framing or linking information; Referring to future actions and events; Referring to impersonal events; Referring to entities; Referring to past actions and events,,2026-02-15 11:40:38.293452
+925,55,25,"Referring to actions, events or states; Situating events in time; Specifying information; Pointing to entities; Asking for advice",I would say this is too broad a category to be considered a form.,2026-02-15 11:40:38.293732
+926,55,27,Expressing possibility; Expressing ability; Expressing negation; Referring to past events with present relevance; Referring to present states events and facts,,2026-02-15 11:40:38.298715
+927,55,26,Expressing possibility; Expressing ability,,2026-02-15 11:40:38.298701
+928,55,28,Asking for information,,2026-02-15 11:40:38.300703
+929,55,29,"Referring to actions, events or states; Giving directions or instructions; Making offers and invitations; Making suggestions",,2026-02-15 11:40:38.307436
+930,55,30,Referring to future actions and events; Sequencing events; Situating events or entities; Situating events in time,,2026-02-15 11:40:38.318223
+931,55,31,Other: Expressing intent,,2026-02-15 11:40:38.320335
+932,55,32,Describing; Referring to entities,"And I would say this is way too specific, haha. ",2026-02-15 11:40:38.321061
+933,55,34,"Referring to actions, events or states; Expressing negation",,2026-02-15 11:40:38.323349
+934,55,33,"Describing; Expressing negation; Referring to actions, events or states; Making statements",,2026-02-15 11:40:38.32525
+935,55,35,Expressing possibility; Expressing ability; Expressing negation; Making statements,,2026-02-15 11:40:38.333182
+936,55,36,Making statements; Expressing negation,,2026-02-15 11:40:38.343571
+937,55,38,Situating events in time,,2026-02-15 11:40:38.344563
+938,55,37,Making statements; Expressing negation; Describing,,2026-02-15 11:40:38.345626
+939,55,39,Describing,,2026-02-15 11:40:38.346074
+940,55,40,Referring to entities; Expressing beliefs and opinions,,2026-02-15 11:40:38.351803
+941,55,41,Other: Making statements,,2026-02-15 11:40:38.359445
+942,75,15,Pointing to entities,,2026-02-15 11:40:39.799473
+943,75,15,Pointing to entities,"potentially also ""referring to entities""",2026-02-15 11:41:31.103614
+944,75,16,Referring to entities,"potentially also ""pointing to entities"", like ""this place""",2026-02-15 11:42:03.152039
+945,75,17,Expressing frequency; Making statements; Describing; Other: Describing an action; stating habits,,2026-02-15 11:43:31.511636
+946,75,17,Expressing frequency; Making statements; Describing; Other: Describing an action; stating habits,,2026-02-15 11:47:45.49927
+947,75,18,Other: expressing XX (depending on adverb) ,"""Happily I will accept your invitation."" ""Slowly we are approaching the end of the line."" --> expressing manner 
+""Sometimes I go to the beach."" --> expressing frequency
+I did not select ""expressing degree"" as I don't think that adverbs of degree are often fronted.
+
+Adding emphasise could also be possible. 
+",2026-02-15 11:52:13.065596
+948,75,19,Referring to future actions and events,,2026-02-15 11:52:28.273976
+949,75,20,Other: Referring to a state (of being); Referring to entities,Referring to unified group of entities,2026-02-15 11:57:26.648477
+950,75,21,Other: Generalization; referring to something unspecific,I find nothing in this messy room. ,2026-02-16 08:17:00.488017
+951,75,22,Describing,,2026-02-16 08:17:41.327001
+952,75,22,Describing,,2026-02-16 08:17:51.798358
+953,75,22,Describing,,2026-02-16 08:17:58.800624
+954,75,23,Describing,,2026-02-16 08:19:24.827127
+955,75,24,Framing or linking information; Other: Making statements,"You mentioned that some examples don't match the construction, I would say this is the case here: 
+""I like English lessons but I don't like physics."" --> it doesn't contain ""and""",2026-02-16 08:21:53.189765
+956,75,25,"Referring to actions, events or states",,2026-02-16 08:22:28.269715
+957,75,26,Expressing possibility; Expressing ability,,2026-02-16 08:22:54.160772
+958,64,153,Expressing negation; Giving directions or instructions,,2026-02-16 08:25:45.224531
+959,64,154,Referring to entities; Expressing negation; Expressing quantity,,2026-02-16 08:26:08.075394
+960,75,27,Other: expressing missing ability/possibility/permission; Expressing negation,"Potentially it could be ""expressing negation"" but more specifically with the modal verb ""can"" I would say it is negated ability/possibility/permission or even expressing surprise: ""This can't be true"" but I assume this is not A2",2026-02-16 08:26:30.255161
+961,64,155,"Expressing negation; Referring to actions, events or states",,2026-02-16 08:26:41.950242
+962,64,156,Referring to entities; Expressing negation,,2026-02-16 08:27:07.124329
+963,64,157,Giving directions or instructions; Expressing negation,,2026-02-16 08:27:44.201897
+964,64,158,Asking for confirmation,,2026-02-16 08:28:20.642546
+965,64,159,Expressing negation; Referring to entities,,2026-02-16 08:28:49.230901
+966,64,160,Asking for information,,2026-02-16 08:29:34.82143
+967,64,161,Describing; Providing detail,,2026-02-16 08:30:09.227699
+968,64,162,Referring to entities; Providing detail,,2026-02-16 08:30:38.092102
+969,64,163,Referring to entities,,2026-02-16 08:30:54.165566
+970,64,153,Expressing negation; Giving directions or instructions,,2026-02-16 08:31:05.987507
+971,64,157,Giving directions or instructions; Expressing negation,,2026-02-16 08:31:05.991901
+972,64,154,Referring to entities; Expressing negation; Expressing quantity,,2026-02-16 08:31:05.992345
+973,64,158,Asking for confirmation,,2026-02-16 08:31:05.995733
+974,64,156,Referring to entities; Expressing negation,,2026-02-16 08:31:05.997533
+975,64,155,"Expressing negation; Referring to actions, events or states",,2026-02-16 08:31:05.999346
+976,64,159,Expressing negation; Referring to entities,,2026-02-16 08:31:05.999353
+977,64,161,Describing; Providing detail,,2026-02-16 08:31:06.001648
+978,64,162,Referring to entities; Providing detail,,2026-02-16 08:31:06.009009
+979,64,164,Expressing possession,,2026-02-16 08:31:06.011525
+980,64,163,Referring to entities,,2026-02-16 08:31:06.01225
+981,64,160,Asking for information,,2026-02-16 08:31:06.022586
+982,75,28,Asking for information; Other: Asking for permission/confirmation,"Potentially also ""Asking in order to make plans""? ",2026-02-16 08:32:24.18211
+983,75,28,Asking for information; Other: Asking for permission,"Potentially also ""Asking in order to make plans""? ",2026-02-16 08:32:34.409202
+984,75,29,Giving directions or instructions; Making offers and invitations; Making suggestions; Other: giving advice; providing alternatives; indicating future actions; expressing wishes,"Very many options with modals, depends on modal and sentence structure. I find it difficulty to evaluate the modal in isolation.",2026-02-16 08:35:09.457766
+985,75,30,Referring to future actions and events,"also: making promises (but only with subject ""I"")",2026-02-16 08:37:12.174267
+986,75,31,Expressing preference; Other: expressing wishes (polite),,2026-02-16 08:38:30.53165
+987,75,32,Referring to entities,,2026-02-16 08:38:55.863205
+988,75,33,Expressing negation; Describing,,2026-02-16 08:39:35.872788
+989,75,34,Expressing negation,"potentially also referring to ""states""",2026-02-16 08:40:54.731171
+990,75,35,Expressing negation; Other: expressing missing ability/possibility/permission,"if really strict then denied permission is expressed with ""not allowed"" ",2026-02-16 08:47:58.470268
+991,75,36,Making statements; Expressing negation,expressing states,2026-02-16 08:48:50.442391
+992,75,36,Making statements; Expressing negation,expressing states,2026-02-16 08:49:58.727944
+993,75,37,Making statements; Expressing negation; Describing,,2026-02-16 08:50:07.37706
+994,75,38,Situating events in time,,2026-02-16 08:51:02.221361
+995,75,39,Describing,,2026-02-16 08:51:23.580309
+996,75,40,Referring to entities; Other: describing,,2026-02-16 08:52:15.616599
+997,75,21,Other: Generalization; referring to something unspecific,I find nothing in this messy room. ,2026-02-16 08:52:38.246928
+998,75,22,Describing,,2026-02-16 08:52:38.275023
+999,75,23,Describing,,2026-02-16 08:52:38.279711
+1000,75,24,Framing or linking information; Other: Making statements,"You mentioned that some examples don't match the construction, I would say this is the case here: 
+""I like English lessons but I don't like physics."" --> it doesn't contain ""and""",2026-02-16 08:52:38.285698
+1001,75,25,"Referring to actions, events or states",,2026-02-16 08:52:38.292065
+1002,75,26,Expressing possibility; Expressing ability,,2026-02-16 08:52:38.29528
+1003,75,28,Asking for information; Other: Asking for permission,"Potentially also ""Asking in order to make plans""? ",2026-02-16 08:52:38.297176
+1004,75,27,Other: expressing missing ability/possibility/permission; Expressing negation,"Potentially it could be ""expressing negation"" but more specifically with the modal verb ""can"" I would say it is negated ability/possibility/permission or even expressing surprise: ""This can't be true"" but I assume this is not A2",2026-02-16 08:52:38.299196
+1005,75,29,Giving directions or instructions; Making offers and invitations; Making suggestions; Other: giving advice; providing alternatives; indicating future actions; expressing wishes,"Very many options with modals, depends on modal and sentence structure. I find it difficulty to evaluate the modal in isolation.",2026-02-16 08:52:38.302215
+1006,75,30,Referring to future actions and events,"also: making promises (but only with subject ""I"")",2026-02-16 08:52:38.308146
+1007,75,31,Expressing preference; Other: expressing wishes (polite),,2026-02-16 08:52:38.315861
+1008,75,32,Referring to entities,,2026-02-16 08:52:38.320947
+1009,75,33,Expressing negation; Describing,,2026-02-16 08:52:38.324768
+1010,75,34,Expressing negation,"potentially also referring to ""states""",2026-02-16 08:52:38.326866
+1011,75,35,Expressing negation; Other: expressing missing ability/possibility/permission,"if really strict then denied permission is expressed with ""not allowed"" ",2026-02-16 08:52:38.327087
+1012,75,36,Making statements; Expressing negation,expressing states,2026-02-16 08:52:38.331054
+1013,75,37,Making statements; Expressing negation; Describing,,2026-02-16 08:52:38.342933
+1014,75,38,Situating events in time,,2026-02-16 08:52:38.3435
+1015,75,39,Describing,,2026-02-16 08:52:38.351643
+1016,75,40,Referring to entities; Other: describing,,2026-02-16 08:52:38.35235
+1017,75,41,Referring to the affected entity,,2026-02-16 08:52:38.354896
+1018,63,150,Making statements; Expressing negation,,2026-02-16 09:12:56.42518
+1019,63,151,Expressing negation,,2026-02-16 09:13:08.566587
+1020,63,152,Referring to past actions and events; Expressing negation,,2026-02-16 09:13:19.34813
+1021,63,153,Giving directions or instructions; Expressing negation,,2026-02-16 09:13:25.877311
+1022,63,154,Expressing negation; Expressing quantity; Referring to entities,,2026-02-16 09:13:53.041032
+1023,63,155,"Expressing negation; Referring to actions, events or states",,2026-02-16 09:14:12.801217
+1024,63,156,Referring to entities; Expressing negation,,2026-02-16 09:14:24.198952
+1025,63,157,Giving directions or instructions,,2026-02-16 09:14:41.294157
+1026,63,158,Asking for confirmation,,2026-02-16 09:14:53.922847
+1027,63,159,Expressing negation; Referring to entities,,2026-02-16 09:15:08.824748
+1028,63,160,Asking for information,,2026-02-16 09:15:32.663699
+1029,63,161,Other: Referring to entities; Describing,,2026-02-16 09:16:03.353822
+1030,63,162,Providing detail,,2026-02-16 09:16:23.639969
+1031,63,163,Referring to entities,,2026-02-16 09:16:38.883257
+1032,63,151,Expressing negation,,2026-02-16 09:16:49.488147
+1033,63,155,"Expressing negation; Referring to actions, events or states",,2026-02-16 09:16:49.488392
+1034,63,154,Expressing negation; Expressing quantity; Referring to entities,,2026-02-16 09:16:49.488654
+1038,63,157,Giving directions or instructions,,2026-02-16 09:16:49.499402
+1045,63,161,Other: Referring to entities; Describing,,2026-02-16 09:16:49.509736
+1035,63,153,Giving directions or instructions; Expressing negation,,2026-02-16 09:16:49.489147
+1037,63,158,Asking for confirmation,,2026-02-16 09:16:49.499203
+1036,63,152,Referring to past actions and events; Expressing negation,,2026-02-16 09:16:49.489401
+1039,63,159,Expressing negation; Referring to entities,,2026-02-16 09:16:49.499658
+1042,63,163,Referring to entities,,2026-02-16 09:16:49.506982
+1040,63,160,Asking for information,,2026-02-16 09:16:49.501586
+1043,63,162,Providing detail,,2026-02-16 09:16:49.507988
+1041,63,156,Referring to entities; Expressing negation,,2026-02-16 09:16:49.502403
+1044,63,164,Expressing possession,,2026-02-16 09:16:49.508483
+1046,63,150,Making statements; Expressing negation,,2026-02-16 09:16:49.51509
+1047,74,206,Expressing quantity; Expressing frequency; Expressing evaluation,"explanation why I chose ""expressing evaluation"": I don't have any clothes -> ""any"" emphasizes that the speaker would need more clothes and is not happy about it.",2026-02-16 09:41:00.939999
+1048,74,207,Expressing quantity; Expressing frequency,,2026-02-16 09:46:31.730735
+1049,74,208,Asking for confirmation; Expressing hypotheses or inferences,,2026-02-16 09:47:44.914867
+1050,74,209,"Referring to self-directed actions; Referring to the acting or experiencing entity; Referring to actions, events or states",,2026-02-16 09:55:12.95401
+1051,74,209,"Referring to self-directed actions; Referring to the acting or experiencing entity; Referring to actions, events or states; Providing detail",,2026-02-16 09:56:11.378975
+1052,74,210,Reporting information; Referring back to entities,,2026-02-16 10:04:55.106827
+1053,74,211,"Reporting information; Referring to actions, events or states; Referring to entities","I am a bit confused about the pronoun shift in ""My sister told me that this film is very good. (Brazil; A2 WAYSTAGE; 2003; Portuguese; Pass)"". I thought in these constructions we care about the pronoun shift within the CLAUSE.",2026-02-16 10:12:21.93757
+1054,74,212,Expressing Beliefs and Opinions; Referring to present states events and facts,,2026-02-16 10:14:01.500596
+1055,74,213,Expressing obligation or necessity; Referring to present states events and facts,,2026-02-16 10:14:55.983911
+1056,74,214,Framing or linking information; Other: expressing evaluation,,2026-02-16 10:19:01.168244
+1057,74,215,Expressing quantity,"""I know, I bought too many things but I liked all of them. (Turkey; A2 WAYSTAGE; 2008; Turkish; Pass)"". In this case ""too many"" expresses an opinion. But the construction under consideration is just ""so many"", right? So I would only chose answer A.",2026-02-16 10:22:14.611541
+1058,74,216,Expressing quantity; Other: Expressing how much choices are possible,"I am confused about whether we consider ""some/any"" as pronouns or determiners here. I am assuming we consider both (since there is the NP in the construction description). ""She can call ANY friend"" emphasizes that the choice on which friend to call doesn't matter at all.",2026-02-16 10:43:29.076509
+1059,74,217,Referring to entities; Expressing quantity,,2026-02-16 10:56:01.043632
+1060,74,217,Referring to entities; Expressing quantity,"I am confused about the construction description: ""some V … | V … some""",2026-02-16 10:58:48.660621
+1061,74,218,Expressing wishes,,2026-02-16 11:00:10.82224
+1062,74,219,Framing or linking information; Reporting information,,2026-02-16 11:06:18.287838
+1063,74,220,Describing; Comparing within a set; Making statements,,2026-02-16 11:20:17.576144
+1064,74,221,Expressing quantity; Referring to entities,,2026-02-16 11:21:13.074957
+1065,74,222,Referring to entities; Referring to additional or alternative entities; Referring to impersonal events,,2026-02-16 11:23:29.977381
+1066,74,223,Situating events in time; Expressing frequency; Sequencing events; Situating events or entities,,2026-02-16 11:28:44.090573
+1067,74,224,"Describing, Expressing degree",,2026-02-16 11:29:45.152496
+1068,74,225,"Describing, Expressing degree",,2026-02-16 11:30:16.856717
+1069,74,226,Referring to entities,,2026-02-16 11:31:53.633756
+1070,74,227,Expressing quantity; Expressing evaluation,,2026-02-16 12:30:47.72657
+1071,74,228,Referring to entities,,2026-02-16 12:31:01.491483
+1072,74,229,Reporting information; Expressing Beliefs and Opinions; Giving advice; Giving directions or instructions,,2026-02-16 12:35:10.97593
+1073,74,230,Reporting information; Conveying meaning,,2026-02-16 12:37:09.875749
+1074,74,231,"Referring to actions, events or states",,2026-02-16 12:43:15.713639
+1075,74,232,"Expressing preference; Referring to actions, events or states",,2026-02-16 12:46:17.037775
+1076,74,233,Asking for information,,2026-02-16 12:46:58.734544
+1077,74,234,Asking for information,,2026-02-16 12:48:49.105354
+1078,74,235,Asking for information,,2026-02-16 12:49:03.473179
+1079,74,236,Asking for information; Referring to the acting or experiencing entity,,2026-02-16 12:49:37.087828
+1080,74,237,Asking for information; Referring to past events with present relevance,,2026-02-16 12:49:54.564485
+1081,74,238,Asking for information; Expressing politeness,,2026-02-16 12:50:26.90583
+1082,74,239,Expressing evaluation; Situating events or entities,,2026-02-16 12:51:30.466639
+1083,74,240,Expressing evaluation,,2026-02-16 12:51:46.215916
+1084,74,241,Making offers and invitations; Expressing politeness,,2026-02-16 12:53:04.096808
+1085,74,242,Asking for information,,2026-02-16 12:53:23.906764
+1086,74,243,Asking for information,,2026-02-16 12:54:19.399118
+1087,74,244,Asking for information,,2026-02-16 12:54:43.505433
+1088,74,245,Asking for information; Asking for advice; Asking for confirmation,,2026-02-16 12:55:35.053376
+1089,74,206,Expressing quantity; Expressing frequency; Expressing evaluation,"explanation why I chose ""expressing evaluation"": I don't have any clothes -> ""any"" emphasizes that the speaker would need more clothes and is not happy about it.",2026-02-16 12:56:11.919511
+1090,74,207,Expressing quantity; Expressing frequency,,2026-02-16 12:56:11.925191
+1091,74,210,Reporting information; Referring back to entities,,2026-02-16 12:56:11.928593
+1092,74,209,"Referring to self-directed actions; Referring to the acting or experiencing entity; Referring to actions, events or states; Providing detail",,2026-02-16 12:56:11.929473
+1093,74,208,Asking for confirmation; Expressing hypotheses or inferences,,2026-02-16 12:56:11.930406
+1094,74,211,"Reporting information; Referring to actions, events or states; Referring to entities","I am a bit confused about the pronoun shift in ""My sister told me that this film is very good. (Brazil; A2 WAYSTAGE; 2003; Portuguese; Pass)"". I thought in these constructions we care about the pronoun shift within the CLAUSE.",2026-02-16 12:56:11.930731
+1095,74,212,Expressing Beliefs and Opinions; Referring to present states events and facts,,2026-02-16 12:56:11.932373
+1096,74,213,Expressing obligation or necessity; Referring to present states events and facts,,2026-02-16 12:56:11.936637
+1097,74,214,Framing or linking information; Other: expressing evaluation,,2026-02-16 12:56:11.938708
+1098,74,215,Expressing quantity,"""I know, I bought too many things but I liked all of them. (Turkey; A2 WAYSTAGE; 2008; Turkish; Pass)"". In this case ""too many"" expresses an opinion. But the construction under consideration is just ""so many"", right? So I would only chose answer A.",2026-02-16 12:56:11.939006
+1099,74,216,Expressing quantity; Other: Expressing how much choices are possible,"I am confused about whether we consider ""some/any"" as pronouns or determiners here. I am assuming we consider both (since there is the NP in the construction description). ""She can call ANY friend"" emphasizes that the choice on which friend to call doesn't matter at all.",2026-02-16 12:56:11.940315
+1100,74,218,Expressing wishes,,2026-02-16 12:56:11.940664
+1102,74,219,Framing or linking information; Reporting information,,2026-02-16 12:56:11.941268
+1101,74,217,Referring to entities; Expressing quantity,"I am confused about the construction description: ""some V … | V … some""",2026-02-16 12:56:11.94066
+1103,74,220,Describing; Comparing within a set; Making statements,,2026-02-16 12:56:11.944775
+1110,74,227,Expressing quantity; Expressing evaluation,,2026-02-16 12:56:11.953254
+1112,74,228,Referring to entities,,2026-02-16 12:56:11.955203
+1115,74,232,"Expressing preference; Referring to actions, events or states",,2026-02-16 12:56:11.960267
+1122,74,239,Expressing evaluation; Situating events or entities,,2026-02-16 12:56:11.96676
+1128,74,246,Asking for information; Expressing politeness,,2026-02-16 12:56:11.975415
+1104,74,222,Referring to entities; Referring to additional or alternative entities; Referring to impersonal events,,2026-02-16 12:56:11.94677
+1107,74,225,"Describing, Expressing degree",,2026-02-16 12:56:11.948967
+1119,74,236,Asking for information; Referring to the acting or experiencing entity,,2026-02-16 12:56:11.962014
+1120,74,237,Asking for information; Referring to past events with present relevance,,2026-02-16 12:56:11.963741
+1123,74,240,Expressing evaluation,,2026-02-16 12:56:11.96853
+1126,74,242,Asking for information,,2026-02-16 12:56:11.971127
+1105,74,221,Expressing quantity; Referring to entities,,2026-02-16 12:56:11.947266
+1113,74,229,Reporting information; Expressing Beliefs and Opinions; Giving advice; Giving directions or instructions,,2026-02-16 12:56:11.955492
+1118,74,235,Asking for information,,2026-02-16 12:56:11.961017
+1124,74,241,Making offers and invitations; Expressing politeness,,2026-02-16 12:56:11.969145
+1106,74,224,"Describing, Expressing degree",,2026-02-16 12:56:11.948001
+1109,74,226,Referring to entities,,2026-02-16 12:56:11.951427
+1114,74,231,"Referring to actions, events or states",,2026-02-16 12:56:11.95633
+1117,74,233,Asking for information,,2026-02-16 12:56:11.960412
+1121,74,238,Asking for information; Expressing politeness,,2026-02-16 12:56:11.966608
+1125,74,243,Asking for information,,2026-02-16 12:56:11.969622
+1127,74,244,Asking for information,,2026-02-16 12:56:11.973676
+1129,74,245,Asking for information; Asking for advice; Asking for confirmation,,2026-02-16 12:56:11.975502
+1130,59,54,"Referring to actions, events or states; Referring to past actions and events; Referring to future actions and events; Referring to impersonal events","Verb + Preposition is really quite tricky because of phrasal verbs in English. ""Get up you lazybones!""  uses the same structure as ""Please get up this ladder and look for a hole in the roof"", but the phrasal verb has a special meaning (to get out of bed). So when the sentence is deconstructed like this, the meanings can be vastly different depending on the way the preposition is used. For example, 'look after' in the example text here is really a phrasal verb - after isn't being used as a preposition of position or order (but you could make a sentence where it is being used that way (""Sometimes people drop coins during the race, you should look after they've run through here."")). I don't know what you can do about this, but it is something I guess you should at least be aware of.",2026-02-16 15:35:56.293988
+1131,59,55,"Referring to present states, events and facts; Expressing progression; Other: Referring to future states, events and facts","This structure is quite often used for the future with 'subj be going to', but can still be used for the future with other ing verbs - e.g. we are hosting a party this weekend.",2026-02-16 15:38:27.393365
+1132,59,56,"Referring to present states, events and facts; Other: Giving instructions","One difficult thing here is that I am choosing 'Referring to present states, events and facts' both here and for the Present Continuous before. It is true for both of them, but in different ways - present simple is for things that are usually or always true, while present continuous is for things that are true right now but not always. Both of these could be 'referring to present states', but I don't know if conflating them under one function is appropriate.",2026-02-16 16:06:39.822788
+1133,59,55,"Referring to present states, events and facts; Expressing progression; Other: Referring to future states, events and facts","This structure is quite often used for the future with 'subj be going to', but can still be used for the future with other ing verbs - e.g. we are hosting a party this weekend.",2026-02-16 16:11:30.081313
+1134,59,56,"Referring to present states, events and facts; Other: Giving instructions","One difficult thing here is that I am choosing 'Referring to present states, events and facts' both here and for the Present Continuous before. It is true for both of them, but in different ways - present simple is for things that are usually or always true, while present continuous is for things that are true right now but not always. Both of these could be 'referring to present states', but I don't know if conflating them under one function is appropriate.",2026-02-16 16:11:30.217069
+1135,59,57,"Expressing negation; Referring to present states, events and facts; Referring to the acting or experiencing entity; Referring to third-person subjects","What is the difference between a 'third-person subject' and 'the acting or experiencing entity' - both appear to describe the subject of the sentence, with the only different being that 'third-person' rules out I, you, or we. And given that 'SUBJ' is part of the construction here, it seems obvious that the construction 'refers to' a subject.  Honestly, very few constructions (other than the passive be + PP) DON'T refer to a subject. Maybe that category is too broad? Or maybe I simply am not properly understanding the category.
+I also don't understand why the options presented here for present simple negative aren't the same as those for present simple, but with the addition of 'expressing negation'. These two constructions are so similar, that their functions must also be similar.
+I don't know, I'm finding this exercise quite difficult!",2026-02-16 16:15:07.829383
+1136,59,58,Expressing degree,,2026-02-16 16:15:48.033161
+1137,61,83,Describing,,2026-02-17 12:09:07.207278
+1138,61,83,Describing,This construct makes the meaning of the adjective more specific.,2026-02-17 12:14:30.167672
+1139,61,84,Other: Expressing degree,,2026-02-17 12:17:08.817143
+1140,61,85,Giving directions or instructions; Requesting,,2026-02-17 12:18:06.580238
+1141,61,86,Other: Presenting or asking about preference between alternatives,"I am unsure whether to also mark ""asking for information"", since in the examples, the function of the construction is asking for the interlocutor's choice between option A and option B. I thought making a separate communicative function is fitting because it's more specific than just broadly asking for information.",2026-02-17 12:31:08.072441
+1142,61,87,Expressing quantity,,2026-02-17 12:32:23.597966
+1143,61,88,Other: Indicating uniqueness within a group of entities,"This construction indicates that the entity being referred to stands out compared to the other entities in the same group based on the description that the adjective provides: e.g., out of all mobile phones in the group, this one stands out based on its price",2026-02-17 12:40:24.694936
+1144,61,88,Other: Indicating uniqueness within a set,"This construction indicates that the entity being referred to stands out compared to the other entities in the same group based on the description that the adjective provides: e.g., out of all mobile phones in the group, this one stands out based on its price",2026-02-17 12:41:14.499432
+1145,61,88,Other: Comparing within a set,"This construction indicates that the entity being referred to stands out compared to the other entities in the same group based on the description that the adjective provides: e.g., out of all mobile phones in the group, this one stands out based on its price",2026-02-17 12:41:26.495167
+1146,61,89,Describing; Comparing within a set,,2026-02-17 12:42:42.11889
+1147,61,83,Describing,,2026-02-18 12:44:22.489827
+1148,61,83,Referring to past actions and events,,2026-02-18 12:44:38.963833
+1149,61,83,Describing,This construct makes the meaning of the adjective more specific. I don't think this is broad enough to be a function of its own so I put it under 'describing'.,2026-02-18 12:47:03.441516
+1150,61,84,Other: Expressing degree,,2026-02-18 12:47:47.761035
+1151,61,85,Giving directions or instructions; Requesting,,2026-02-18 12:48:00.74012
+1152,61,85,Giving directions or instructions; Requesting,,2026-02-18 12:48:07.433367
+1153,61,86,Other: Presenting alternatives,,2026-02-18 12:48:57.056775
+1154,61,87,Expressing quantity,,2026-02-18 12:50:13.763594
+1155,61,86,Other: Presenting alternatives,,2026-02-18 12:50:23.584596
+1156,61,87,Expressing quantity,,2026-02-18 12:50:24.225658
+1157,61,86,Other: Presenting alternatives,,2026-02-18 12:51:50.981569
+1158,61,87,Expressing quantity,More specifically this expresses the presence or absence of something rather than an exact quantity.,2026-02-18 12:51:52.296787
+1108,74,223,Situating events in time; Expressing frequency; Sequencing events; Situating events or entities,,2026-02-16 12:56:11.949245
+1111,74,230,Reporting information; Conveying meaning,,2026-02-16 12:56:11.95437
+1116,74,234,Asking for information,,2026-02-16 12:56:11.960364
+1159,61,88,Other: Comparing within a set,"This construct points out a unique entity within a set based on the characteristic described by the adjective: e.g., out of all mobile phones in the shop, this one stands out based on its price.",2026-02-18 12:52:59.548175
+1160,61,88,Other: Comparing within a set,"This construct points out a unique entity within a set based on the characteristic described by the adjective: e.g., out of all mobile phones in the shop, this one stands out based on its price.",2026-02-18 12:54:21.1266
+1161,61,89,Comparing within a set; Comparing,"Similarly to the ""the + ADJ.SUP"" construct, this construct compares entities within a set but relatively rather than by singling out one unique entity like the comparative construction.",2026-02-18 12:58:07.109208
+1162,61,88,Other: Comparing within a set,"This construct points out a unique entity within a set based on the characteristic described by the adjective: e.g., out of all mobile phones in the shop, this one stands out based on its price.",2026-02-18 13:00:29.756435
+1163,61,83,Describing,This construct makes the meaning of the adjective more specific. I don't think this is broad enough to be a function of its own so I put it under 'describing'.,2026-02-18 13:00:43.522617
+1164,61,84,Other: Expressing degree,,2026-02-18 13:00:44.201656
+1165,61,85,Giving directions or instructions; Requesting,,2026-02-18 13:00:44.93106
+1166,61,86,Other: Presenting alternatives,,2026-02-18 13:00:45.650764
+1167,61,87,Expressing quantity,More specifically this expresses the presence or absence of something rather than an exact quantity.,2026-02-18 13:00:46.493028
+1168,61,88,Other: Comparing within a set,"This construct points out a unique entity within a set based on the characteristic described by the adjective: e.g., out of all mobile phones in the shop, this one stands out based on its price.",2026-02-18 13:00:47.670123
+1169,61,89,Comparing within a set; Comparing,"Similarly to the ""the + ADJ.SUP"" construct, this construct compares entities within a set but relatively rather than by singling out one unique entity like the comparative construction.",2026-02-18 13:00:49.187206
+1170,61,89,Comparing within a set; Comparing,"Similarly to the ""the + ADJ.SUP"" construct, this construct compares entities within a set but relatively rather than by singling out one unique entity like the comparative construction.",2026-02-18 13:00:52.875564
+1171,61,83,Describing,This construct makes the meaning of the adjective more specific. I don't think this is broad enough to be a function of its own so I put it under 'describing'.,2026-02-18 13:01:53.488718
+1172,61,84,Other: Expressing degree,,2026-02-18 13:01:54.092041
+1173,61,85,Giving directions or instructions; Requesting,,2026-02-18 13:01:54.766143
+1174,61,86,Other: Presenting alternatives,,2026-02-18 13:01:55.46597
+1175,61,87,Expressing quantity,More specifically this expresses the presence or absence of something rather than an exact quantity.,2026-02-18 13:01:56.018702
+1176,61,88,Other: Comparing within a set,"This construct points out a unique entity within a set based on the characteristic described by the adjective: e.g., out of all mobile phones in the shop, this one stands out based on its price.",2026-02-18 13:01:56.691341
+1177,61,89,Comparing within a set; Comparing,"Similarly to the ""the + ADJ.SUP"" construct, this construct compares entities within a set but relatively rather than by singling out one unique entity like the comparative construction.",2026-02-18 13:01:57.391767
+1178,61,90,Other: Referring to ,,2026-02-18 13:01:59.310672
+1179,61,90,Other: Referring to past actions and events,"""I have left my suitcase in your house"" is the most straightforward of the examples because it refers to the action of leaving the suitcase being completed in the past.
+The second example refers to the duration of time that has passed since some time in the past, rather than a completed action, because of the use of ""been"".
+The third example is a bit confusing because ""have you got"" is usually just a synonym for ""have"", but if we take the same form with a different word we also get a construction referring to the past, e.g., ""Have you done your homework?"". I guess you could also say that ""have you got"" implies the getting of the mobile phone at some point in the past?",2026-02-18 13:20:20.894526
+1180,61,91,Describing; Comparing,,2026-02-18 14:11:13.450979
+1181,61,92,Expressing certainty,,2026-02-18 14:11:26.954857
+1182,61,93,Comparing; Other: Comparing within a set,,2026-02-18 14:11:52.312965
+1183,61,93,Comparing; Describing,,2026-02-18 14:12:11.848591
+1184,61,93,Comparing; Describing,,2026-02-18 14:12:27.44791
+1185,61,94,Comparing; Describing,,2026-02-18 14:12:30.001448
+1186,61,95,Expressing condition,,2026-02-18 14:12:43.032162
+1187,61,96,Expressing condition; Giving directions or instructions,,2026-02-18 14:12:50.528728
+1188,61,97,Expressing quantity,,2026-02-18 14:13:03.885877
+1189,61,98,Describing; Referring to entities; Specifying,,2026-02-18 14:13:45.699181
+1190,61,98,Describing; Referring to entities; Specifying,"I included 'referring to entities' because defining relative clauses identify which entity is being referred to out of a set of entities: Out of all people I agree specifically with those who think that Stonehenge is magical, not the ones who don't think that. Out of all the girls this book could be about, this book is about the one that went to war.",2026-02-18 14:21:05.068644
+1191,61,98,Describing; Referring to entities; Specifying,"I included 'referring to entities' because defining relative clauses identify which entity is being referred to out of a set of entities: Out of all people I agree specifically with those who think that Stonehenge is magical, not the ones who don't think that. Out of all the girls this book could be about, this book is about the one that went to war.",2026-02-18 14:21:12.376455
+1192,61,99,Referring to entities; Referring to third-person subjects,,2026-02-18 14:21:16.028591
+1193,61,99,Referring to entities; Referring to third-person subjects,,2026-02-18 14:21:50.906089
+1194,61,99,Referring to entities; Other: Referring to third-person subjects and objects,,2026-02-18 14:22:23.459615
+1195,61,100,Referring to entities; Other: Referring to third-person subjects and objects,,2026-02-18 14:22:26.406905
+1196,61,98,Describing; Specifying; Other: Pointing to entities,"I included 'pointing to entities' because defining relative clauses identify which specific entity/entities is/are being singled out in a set of entities: Out of all people I agree specifically with those who think that Stonehenge is magical, not the ones who don't think that. Out of all the girls this book could be about, this book is about the one that went to war.",2026-02-18 14:23:38.348085
+1197,61,99,Referring to entities; Other: Referring to third-person subjects and objects,,2026-02-18 14:23:39.80699
+1198,61,100,Referring to entities; Other: Referring to third-person subjects and objects,,2026-02-18 14:23:42.22516
+1199,61,101,Specifying information; Pointing to entities,,2026-02-18 14:23:45.40616
+1200,61,98,Describing; Specifying; Other: Pointing to entities; Referring to entities,"I included 'pointing to entities' and 'referring to entities' because defining relative clauses identify which specific entity/entities is/are being singled out in a set of entities: Out of all people I agree specifically with those who think that Stonehenge is magical, not the ones who don't think that. Out of all the girls this book could be about, this book is about the one that went to war.",2026-02-18 14:24:16.60081
+1201,61,99,Referring to entities; Other: Referring to third-person subjects and objects,,2026-02-18 14:24:18.184289
+1202,61,100,Referring to entities; Other: Referring to third-person subjects and objects,,2026-02-18 14:24:18.884596
+1203,61,101,Specifying information; Pointing to entities; Referring to entities,,2026-02-18 14:24:20.264167
+1204,61,102,Pointing to entities; Referring to entities,,2026-02-18 14:24:26.158215
+1205,61,103,Referring to entities; Pointing to entities,,2026-02-18 14:24:38.280747
+1206,61,104,Expressing quantity,,2026-02-18 14:24:49.912535
+1207,61,105,Asking for information; Expressing politeness,"Included 'expressing politeness' because this form can be used to ask for information in a softer way. Compare: ""Where is the train station?"" vs. ""Do you know how to get to the train station?""",2026-02-18 14:26:08.76223
+1208,61,106,Referring to impersonal events; Making statements,,2026-02-18 14:26:25.478823
+1209,61,107,Expressing degree,,2026-02-18 14:26:32.512348
+1210,61,108,Expressing manner,,2026-02-18 14:27:03.772821
+1211,61,109,Expressing preference,,2026-02-18 14:27:16.783911
+1212,61,110,Referring to future actions and events; Expressing progression,,2026-02-18 14:27:47.920306
+1213,61,111,Referring to future actions and events; Expressing politeness,"'Expressing politeness' is marked because 'shall' sounds softer and more polite than 'will', especially in questions (e.g., ""Shall we go?""). In the English I speak I rarely use 'shall' because it sounds a bit archaic and comically formal, but there are some varieties of English where it's used more regularly because it sounds less direct than 'will'.
+
+I was going to also add 'expressing obligation' because in some contexts, 'shall' implies that the speaker is bound to do whatever they're saying (e.g., ""Our institution shall respect everyone's opinons."" = ""Our institution promises to respect everyone's opinions."") but that's probably more of a C1 communicative function rather than A2.",2026-02-18 14:37:23.31068
+1214,61,112,Referring to future actions and events; Asking for information,,2026-02-18 14:37:46.294652
+1215,61,113,Referring to future actions and events; Expressing negation,,2026-02-18 14:38:12.29045
+1216,61,114,Other: Referring to actions,,2026-02-18 14:38:57.839421
+1217,61,114,Other: Referring to actions,,2026-02-18 14:40:03.171475
+1218,61,111,Referring to future actions and events; Expressing politeness,"'Expressing politeness' is marked because 'shall' sounds softer and more polite than 'will', especially in questions (e.g., ""Shall we go?""). In the English I speak I rarely use 'shall' because it sounds a bit archaic and comically formal, but there are some varieties of English where it's used more regularly because it sounds less direct than 'will'.
+
+I was going to also add 'expressing obligation' because in some contexts, 'shall' implies that the speaker is bound to do whatever they're saying (e.g., ""Our institution shall respect everyone's opinons."" = ""Our institution promises to respect everyone's opinions."") but that's probably more of a C1 communicative function rather than A2.",2026-02-18 14:43:03.69546
+1219,61,112,Referring to future actions and events; Asking for information,,2026-02-18 14:43:04.752111
+1220,61,113,Referring to future actions and events; Expressing negation,,2026-02-18 14:43:07.346962
+1221,61,114,Other: Referring to actions,,2026-02-18 14:43:09.438024

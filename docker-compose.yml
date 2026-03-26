@@ -1,0 +1,39 @@
+services:
+  postgres:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.postgres
+    container_name: l2-network-postgres
+    environment:
+      POSTGRES_DB: l2_network
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-changeme}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    networks:
+      - l2-network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d l2_network"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  viewer:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.viewer
+    container_name: l2-network-viewer
+    ports:
+      - "3006:3001"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - l2-network
+
+volumes:
+  pgdata:
+
+networks:
+  l2-network:
+    driver: bridge
