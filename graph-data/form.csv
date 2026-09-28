@@ -1,38 +1,38 @@
 id,polke_id,name,formula,cefr_level
-1,,Adjective,ADJ,A1
+1,,Adjective,ADJ,
 2,1,AdjectiveAndAdjective,ADJ and ADJ,A1
 3,3,AttributiveAdjective,ADJ N,A1
 4,125,PredicativeAdjectiveWithBe,SUBJ BE ADJ,A1
 5,5,MyBestFriend,my best friend,A1
-6,,Adverb,ADV,A1
+6,,Adverb,ADV,
 7,11,VeryAdjective,very ADJ,A1
 8,12,VeryTimeAdverb,very ADV.TIME,A1
 9,13,DegreeTimeAdverbVerb,ADV.DEGREE/ADV.TIME V,A1
 10,14,PlaceAdverbComplement,SUBJ VERB ADV.PLACE,A1
-11,148,DegreeAdverb,ADV.DEGREE ADJ,A1
+11,148,DegreeAdverbPremodifyingAdjective,ADV.DEGREE ADJ,A1
 12,16,FrequencyMidAdverb,SUBJ ADV.FREQ V,A1
 13,152,FrontAdverb,ADV CLAUSE,A1
 14,18,ReallyMidAdverb,SUBJ really V,A1
 15,19,TimeEndAdverb,CLAUSE ADV.TIME,A1
 16,20,PlaceEndAdverb,CLAUSE ADV.PLACE,A1
-17,,AdverbPhrase,ADVP,A1
+17,,AdverbPhrase,ADVP,
 18,21,VeryAdverb,very ADV,A1
-19,,Clause,CLAUSE,A1
+19,,Clause,CLAUSE,
 20,22,MainClauseAndMainClause,CLAUSE.MAIN and CLAUSE.MAIN,A1
 21,23,ClauseAndClauseElliptedSubject,CLAUSE and (ØSUBJ) CLAUSE,A1
 22,24,AffirmativeDeclarativeClause,SUBJ V (… ),A1
 23,25,NegativeDeclarativeClauseWithBe,SUBJ BE not ADJ,A1
 24,26,NegativeDeclarativeClauseLexVerb,SUBJ AUX not V,A1
 25,27,AffirmativeDeclarativeClauseModal,SUBJ V.MODAL V,A1
-26,,MainClauseSubClause,CLAUSE.MAIN CLAUSE.SUBORD,A1
+26,,MainClauseSubClause,CLAUSE.MAIN CLAUSE.SUBORD,
 27,28,AffirmativeInterrogativeClauseWithBe,(wh) BE SUBJ (…),A1
-28,,Conjunction,CONJ,A1
+28,,Conjunction,CONJ,
 29,30,WordAndWord,WORD and WORD,A1
 30,31,PhraseAndPhrase,PHRASE and PHRASE,A1
 31,32,ClauseAndClause,CLAUSE and CLAUSE,A1
 32,33,SentenceAndSentence,SENTENCE and SENTENCE,A1
 33,36,BecauseSubClause,because CLAUSE.SUBORD,A1
-34,,Determiner,DET,A1
+34,,Determiner,DET,
 35,37,DeterminerWithNoun,DET N,A1
 36,38,ArticleAWithAdjective,a ADJ N,A1
 37,39,ArticleAVeryAdjective,a very ADJ N,A1
@@ -43,24 +43,24 @@ id,polke_id,name,formula,cefr_level
 42,47,QuantifierWithPluralNoun,QUANT N.PL,A1
 43,48,QuantifierWithSingularNoun,QUANT N.SG,A1
 44,49,FutureWillAffirmative,SUBJ will V,A1
-45,,Adjunct,ADJUNCT,A1
-46,,Complement,COMP,A1
-47,,Object,OBJ,A1
-48,,DirectObject,OBJ.D,A1
-49,,IndirectObject,OBJ.I,A1
-50,,Predicate,PRED,A1
-51,,Subject,SUBJ,A1
+45,,Adjunct,ADJUNCT,
+46,,Complement,COMP,
+47,,Object,OBJ,
+48,,DirectObject,OBJ.D,
+49,,IndirectObject,OBJ.I,
+50,,Predicate,PRED,
+51,,Subject,SUBJ,
 52,51,ModalCanAffirmative,SUBJ can V,A1
 53,52,ModalCanNegative,SUBJ cannot/can't V,A1
 54,53,ModalCanQuestion,(WH) can SUBJ V,A1
 55,58,ModalWillAffirmative,SUBJ will V,A1
 56,60,ModalWouldLikeAffirmative,SUBJ would like to V.INF,A1
-57,,NounPhrase,NP,A1
+57,,NounPhrase,NP,
 58,63,DeterminerWithNoun,DET N,A1
 59,64,NounPhraseDeterminerAdjectiveNoun,DET ADJ N,A1
 60,65,NounPhraseAdjectivePluralNoun,ADJ N.PL,A1
 61,66,NounPhraseNounNoun,N N,A1
-62,,Noun,N,A1
+62,,Noun,N,
 63,67,CommonNoun,N.COMMON,A1
 64,68,ProperNoun,N.PROPER,A1
 65,69,CompoundNoun,N-N,A1
@@ -75,7 +75,7 @@ id,polke_id,name,formula,cefr_level
 74,,PastSimpleBeAffirmative,SUBJ was/were (COMP),A1
 75,,PastSimpleRegularVerbForm,V-ed,A1
 76,,PastSimpleIrregularVerbForm,V.PAST(irregular),A1
-77,,Preposition,PREP,A1
+77,,Preposition,PREP,
 78,78,PrepositionSimple,PREP.S,A1
 79,79,PrepositionPlusNounPhrase,PREP NP,A1
 80,80,PresentContinuousAffirmative,SUBJ BE V-ing,A1
@@ -83,7 +83,7 @@ id,polke_id,name,formula,cefr_level
 82,,PresentSimpleThirdPersonS,SUBJ V-s,A1
 83,314,PresentSimpleNegative,SUBJ DO not V,A1
 84,84,PresentSimpleWithReally,SUBJ REALLY V,A1
-85,,Pronoun,PRON,A1
+85,,Pronoun,PRON,
 86,86,PronounObjectIt,V it,A1
 87,87,PronounObjectPersonal,(SUBJ) V PRON,A1
 88,88,PronounObjectWithPreposition,PREP PRON,A1
@@ -96,15 +96,15 @@ id,polke_id,name,formula,cefr_level
 95,93,IndefinitePronounObject,V PRON.IND,A1
 96,94,IndefinitePronounEverythingSubject,everything V,A1
 97,95,YesNoQuestionModalVerb,V.MODAL SUBJ V,A1
-98,,Verb,V,A1
+98,,Verb,V,
 99,96,PrepositionalVerbPattern,V PREP NP,A1
 100,97,MainVerb,SUBJ V (OBJ),A1
-101,,TransitiveVerb,SUBJ V OBJ,A1
-102,,IntransitiveVerb,SUBJ V,A1
+101,,TransitiveVerb,SUBJ V OBJ,
+102,,IntransitiveVerb,SUBJ V,
 103,98,LinkingVerbBe,SUBJ BE COMP,A1
 104,99,AuxiliaryVerbBe,AUX BE V-ing/V-PastP,A1
 105,370,ModalVerb,V.MODAL,A1
-106,,VerbPhrase,VP,A1
+106,,VerbPhrase,VP,
 107,101,VerbInfinitiveForm,V to V.INF,A1
 108,,VerbINGForm,V V-ing,A1
 109,102,VerbLikeToOrIng,like V.INF / V-ing,A1
@@ -313,3 +313,14 @@ id,polke_id,name,formula,cefr_level
 312,,PresentSimple,,
 313,,PastSimple,,
 314,,PresentPerfect,,
+315,,GradableAdjective,ADJ.GRAD,
+316,,DegreeAdverb,ADV.DEGREE,
+317,,TimeAdverb,ADV.TIME,
+318,,PlaceAdverb,ADV.PLACE,
+319,,FrequencyAdverb,ADV.FREQ,
+320,,IndefiniteFrequencyAdverb,ADV.FREQ.INDEF,
+321,,MannerAdverb,ADV.MANNER,
+322,,SentenceAdverb,ADV.SENT,
+323,,SequencingAdverb,ADV.SEQ,
+324,,IrregularAdverb,ADV.IRREG,
+325,,NonGradableAdjective,ADJ.NONGRAD,

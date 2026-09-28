@@ -24,7 +24,6 @@ start_id,start_vertex_type,end_id,end_vertex_type
 12,form,143,form
 12,form,144,form
 12,form,145,form
-13,form,13,form
 13,form,142,form
 13,form,143,form
 13,form,144,form
@@ -46,15 +45,6 @@ start_id,start_vertex_type,end_id,end_vertex_type
 16,form,145,form
 18,form,141,form
 18,form,146,form
-20,form,11,form
-20,form,12,form
-20,form,13,form
-20,form,15,form
-20,form,16,form
-20,form,142,form
-20,form,143,form
-20,form,144,form
-20,form,145,form
 21,form,147,form
 21,form,148,form
 21,form,149,form
@@ -297,13 +287,6 @@ start_id,start_vertex_type,end_id,end_vertex_type
 44,form,188,form
 44,form,189,form
 44,form,190,form
-52,form,8,form
-52,form,9,form
-52,form,9,form
-52,form,10,form
-52,form,18,form
-52,form,141,form
-52,form,146,form
 55,form,205,form
 55,form,206,form
 56,form,207,form
@@ -341,7 +324,6 @@ start_id,start_vertex_type,end_id,end_vertex_type
 63,form,224,form
 63,form,225,form
 64,form,63,form
-64,form,64,form
 64,form,65,form
 64,form,67,form
 64,form,68,form
@@ -672,7 +654,6 @@ start_id,start_vertex_type,end_id,end_vertex_type
 104,form,291,form
 105,form,289,form
 105,form,290,form
-105,form,105,form
 105,form,291,form
 107,form,284,form
 107,form,285,form
@@ -699,12 +680,9 @@ start_id,start_vertex_type,end_id,end_vertex_type
 112,form,295,form
 112,form,296,form
 132,form,128,form
-141,form,146,form
 143,form,146,form
-144,form,144,form
 150,form,151,form
 154,form,155,form
-156,form,156,form
 185,form,187,form
 185,form,188,form
 186,form,188,form
