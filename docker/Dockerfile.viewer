@@ -8,7 +8,9 @@ RUN git clone https://github.com/apache/age-viewer.git .
 RUN npm config set engine-strict false
 RUN npm run setup
 
-RUN cd backend && npm install @babel/runtime
+# Must stay on the 7.x line: the backend's transpiled output requires
+# @babel/runtime/regenerator, a subpath 8.x no longer exports.
+RUN cd backend && npm install @babel/runtime@^7
 RUN cd frontend && npm uninstall uuid && npm install uuid@8.3.2
 
 ENV NODE_OPTIONS=--openssl-legacy-provider
