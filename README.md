@@ -50,7 +50,7 @@ Once the containers are running, open **http://localhost:3006** to launch AGE Vi
 ### Visualizing the graph
 
 To see the entire graph at once, click the button in AGE Viewer labelled with the
-graph's edge count — **[*1617]** for `v1.0.0` — which queries all nodes and edges
+graph's edge count — **[*1644]** for `v1.1.0` — which queries all nodes and edges
 together.
 
 ![Graph visualization](docs/graph.png)

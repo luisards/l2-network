@@ -70,7 +70,7 @@ id,polke_id,name,formula,cefr_level
 69,72,NounPhraseAsObject,SUBJ V NP.OBJ,A1
 70,73,NounPhraseAsPrepComplement,PREP NP,A1
 71,74,NounPhraseAsBeComplement,SUBJ BE NP,A1
-72,75,NounPhraseAADJ.SUPunct,NP.TIME (ADJUNCT),A1
+72,75,NounPhraseTimeAdjunct,NP.TIME (ADJUNCT),A1
 73,290,PastSimpleAffirmative,SUBJ V.PAST (OBJ/COMP),A1
 74,,PastSimpleBeAffirmative,SUBJ was/were (COMP),A1
 75,,PastSimpleRegularVerbForm,V-ed,A1
@@ -324,3 +324,15 @@ id,polke_id,name,formula,cefr_level
 323,,SequencingAdverb,ADV.SEQ,
 324,,IrregularAdverb,ADV.IRREG,
 325,,NonGradableAdjective,ADJ.NONGRAD,
+326,,Demonstrative,DET.DEM,
+327,,Quantifier,QUANT,
+328,,PossessiveDeterminer,DET.POSS,
+329,,PersonalPronoun,PRON.PERS,
+330,,IndefinitePronoun,PRON.IND,
+331,,InterrogativeClause,CLAUSE.INT,
+332,,NegativeClause,CLAUSE.NEG,
+333,,NegativeDeclarativeClause,CLAUSE.DEC.NEG,
+334,,RelativeClause,CLAUSE.REL,
+335,,PhrasalVerb,V.PHRASAL,
+336,,PastContinuous,,
+337,,GerundAsNoun,V-ing(N),
