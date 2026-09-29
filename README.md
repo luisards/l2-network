@@ -1,6 +1,6 @@
 # The L2 Network <img src="docs/network.png" alt="icon" width="32" height="32">
 
-A CEFR-aligned, graph-based domain model for intelligent language tutoring systems (ITSs), currently covering the CEFR leves A1 and A2. It represents grammatical forms, the functions they serve, and the relations between them as a network of connected concepts that can be stored, explored and queried. 
+A CEFR-aligned, graph-based domain model for intelligent language tutoring systems (ITSs), currently covering the CEFR levels A1 and A2. It represents grammatical forms, the functions they serve, and the relations between them as a network of connected concepts that can be stored, explored and queried. 
 
 Its grammatical content is informed by the English Grammar Profile ([EGP](https://englishprofile.org/?menu=english-grammar-profile)), but is not a direct representation of the EGP: its forms and categories have been adapted, and extended to support a relational model of the grammar domain.
 
