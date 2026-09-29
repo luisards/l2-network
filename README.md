@@ -2,7 +2,7 @@
 
 A CEFR-aligned, graph-based domain model for intelligent language tutoring systems (ITSs), currently covering the CEFR leves A1 and A2. It represents grammatical forms, the functions they serve, and the relations between them as a network of connected concepts that can be stored, explored and queried. 
 
-Its grammatical content is informed by the English Grammar Profile ([EGP](https://www.englishprofile.org/english-grammar-profile)), but is not a direct representation of the EGP: its forms and categories have been adapted, and extended to support a relational model of the grammar domain.
+Its grammatical content is informed by the English Grammar Profile ([EGP](https://englishprofile.org/?menu=english-grammar-profile)), but is not a direct representation of the EGP: its forms and categories have been adapted, and extended to support a relational model of the grammar domain.
 
 Built on [Apache AGE](https://age.apache.org/) (a graph extension for PostgreSQL), the graph can be queried with both SQL and openCypher.
 
@@ -22,7 +22,7 @@ Built on [Apache AGE](https://age.apache.org/) (a graph extension for PostgreSQL
 
 ### On CEFR levels
 
-The `cefr_level` property is used only when a form has been empirically associated with a CEFR level. EGP-based patterns are assigned a level. Broader linguistic categories often are not, as they span multiple levels and group together forms that may each have their own CEFR level.
+The `cefr_level` is a node property and is used only when a form has been empirically associated with a CEFR level. EGP-based patterns are assigned a level. Broader linguistic categories often are not, as they span multiple levels and group together forms that may each have their own CEFR level.
 
 ## Quick start
 
