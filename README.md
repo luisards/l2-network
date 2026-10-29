@@ -79,7 +79,7 @@ If you use it in your work, please cite the paper below.
     year      = {2026},
     pages     = {148--159},
     publisher = {{ELRA} Language Resources Association ({ELRA})},
-    url       = {https://aclanthology.org/2026.slide-1.pdf#page=162},
+    url       = {https://aclanthology.org/2026.slide-1.13/},
     note      = {{CC} {BY-NC} 4.0}
 }
 ```
